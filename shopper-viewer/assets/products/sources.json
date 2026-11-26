@@ -1,0 +1,34 @@
+{
+  "verifiedOn": "2026-11-25",
+  "use": "Product photos added to the replay after the four-product pilot; the shoppers received text descriptions.",
+  "products": {
+    "A": {
+      "file": "A.jpg",
+      "sku": "FI-GMTL01SB",
+      "listingUrl": "https://www.nozzle-quiz.com/en/products/fi-gmtl01sb",
+      "imageUrl": "https://shoplineimg.com/583ae8e561706917992f1a00/6a8fdb86c45c4fa0140b8f28/800x.jpg",
+      "alt": "Schiefergraues nozzle quiz Essential Kite L/S Tee, Vorderansicht."
+    },
+    "B": {
+      "file": "B.jpg",
+      "sku": "JA442D06N-Q11",
+      "listingUrl": "https://en.zalando.de/jack-wolfskin-long-sleeved-top-black-ja442d06n-q11.html",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/4d29afbd6f96434f98a32509b39a5d07/609682d236c549e189d2d7164e0ce168.jpg?filter=packshot&imwidth=500",
+      "alt": "Schwarzes Jack Wolfskin Prelight Crew mit Brusttasche, Vorderansicht."
+    },
+    "C": {
+      "file": "C.jpg",
+      "sku": "OD142D0B7-Q11",
+      "listingUrl": "https://en.zalando.de/odlo-long-sleeved-top-black-od142d0b7-q11.html",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/98dd7e36ab3440fca8fa7bf8a0a39207/353f24185a2b4b6c9b64254eefad397a.jpg?filter=packshot&imwidth=500",
+      "alt": "Schwarzes Odlo Zeroweight Chill-Tec Crew Neck L/S, Rückansicht."
+    },
+    "D": {
+      "file": "D.jpg",
+      "sku": "PA942D01M-Q11",
+      "listingUrl": "https://en.zalando.de/patagonia-ogo-responsibili-tee-long-sleeved-top-black-pa942d01m-q11.html",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/e0e17ac8ae7d3bd5b53785a7bffb19a4/d5eeee3d63184118b27a112bc517252c.jpg?filter=packshot&imwidth=500",
+      "alt": "Schwarzes Patagonia P-6 Logo Responsibili-Tee mit kleinem Brustschriftzug, Vorderansicht."
+    }
+  }
+}

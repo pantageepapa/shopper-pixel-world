@@ -1,0 +1,1044 @@
+{
+  "run_id": "private-choice-tabi-socks-01",
+  "state": "completed",
+  "created_at": "2026-11-25T12:48:56.544814+00:00",
+  "study": "German Tabi Socks search comparison",
+  "method": "MiroFish OASIS private interviews, zero feed rounds",
+  "input_format": "German complete cards with exact verified product photos in every provider request",
+  "system": "Du nimmst als die im Profil beschriebene Person an einem privaten Einkaufsszenario teil. Antworte auf Deutsch aus ihrer Sicht. Halte dich an die Angaben im Profil und an die angezeigten Informationen. Behandle fehlende Angaben als unbekannt. Andere Personen, ihre Antworten und frühere Ergebnisse stehen dir nicht zur Verfügung. Gib genau eine Kaufentscheidung zu den angezeigten Angeboten ab und nenne kurz deinen Grund dafür.",
+  "scenario": "Du bist auf Zalando.de und hast im Bereich Herrensocken nach „Tabi Socks“ gesucht. Du siehst die folgenden Sockenangebote.",
+  "terms": "Bei jedem Angebot ist deine übliche Größe verfügbar. Lieferung und Rückgabe sind kostenlos. Die Kaufbedingungen sind bei allen Angeboten gleich. Der Gesamtpreis gilt für die angegebene Packungsgröße. Zum Vergleich ist zusätzlich der Preis pro Paar angegeben.",
+  "question": "Welches dieser Sockenangebote würdest du zum angezeigten Gesamtpreis für dich kaufen? Wähle ein Angebot, „Keines davon“ oder „Ich bin unentschieden“.",
+  "reason_question": "Was ist der Hauptgrund für deine Entscheidung? Antworte in ein bis zwei Sätzen.",
+  "products": [
+    {
+      "id": "A",
+      "name": "nozzle quiz × GOOPiMADE SOAX-01 93 Emblem Tabi Socks",
+      "color": "Ivory (Elfenbein)",
+      "price_eur": 13.52,
+      "pack_count": 1,
+      "pack_label": "1 Paar",
+      "comparison_group": "direct",
+      "sku": "FD-GPSX30WY",
+      "description": "Passform und Optik: Mittelhohe Stricksocken mit separatem Fach für den großen Zeh, geripptem Schaft und kleinem gesticktem Schild am Knöchel.\nStileindruck: Heller, gerippter Schaft mit kleinem dunklem Wappen und sichtbar geteilter Spitze.\nMaterial: 41 % COOLMAX-Polyester, 28 % Baumwolle, 18 % Nylon, 7 % Acteev-Nylon, 5 % Lycra-Elastan und 1 % weiteres Polyester.\nAngaben des Anbieters: Der Anbieter nennt eine flache Zehennaht und gepolsterte Bereiche an der Sohle. Er beschreibt das Material als feuchtigkeitsableitend und geruchshemmend. Einheitsgröße für 22–29 cm Fußlänge, Schafthöhe 14,5 cm.",
+      "style_impression": "Heller, gerippter Schaft mit kleinem dunklem Wappen und sichtbar geteilter Spitze.",
+      "source": "https://www.nozzle-quiz.com/en/products/fd-gpsx30wy",
+      "additional_sources": [
+        "https://www.nozzle-quiz.com/zh-hant/products/fd-gpsx30wy"
+      ],
+      "price_evidence": {
+        "observed_on": "2026-11-25",
+        "market": "DE",
+        "listed_price_eur": 13.52,
+        "kind": "merchant_eur_display",
+        "details": "Live storefront displayed €13.52 EUR with ADD TO CART and BUY NOW. The page’s base offer was NT$490 and schema.org/InStock. The EUR amount is the merchant’s displayed equivalent, before real-world shipping and import charges."
+      },
+      "photo_source": "https://shoplineimg.com/583ae8e561706917992f1a00/6a0a8300ec357d6c6b669cdc/800x.jpg",
+      "photo_file": "photos/A.jpg",
+      "photo_sha256": "b3aa1ff042a4e503de5fe3424b5424b99e36aa14e59729a5867459e21c779d0c",
+      "alt": "Paar elfenbeinfarbene nozzle quiz × GOOPiMADE Tabi-Socken mit kleinem Wappen und geteilter Spitze.",
+      "price": "13,52 €",
+      "unit_price": "13,52 €",
+      "unit_price_eur": 13.52,
+      "photo_bytes": 37391
+    },
+    {
+      "id": "B",
+      "name": "Nike Sportswear Everyday Tabi Sock",
+      "color": "Weiß / Schwarz",
+      "price_eur": 12.0,
+      "pack_count": 1,
+      "pack_label": "1 Paar",
+      "comparison_group": "direct",
+      "sku": "NI181001F-A11",
+      "description": "Passform und Optik: Stricksocken mit normaler Schafthöhe, geripptem Schaft und separatem Fach für den großen Zeh. Kleine schwarze Swoosh-Logos und dunkle Markierungen am Fuß.\nStileindruck: Sportlicher Look mit weißem Schaft, kleinem Kontrastlogo und geteilter Spitze.\nMaterial: 54 % Polyester, 41 % Nylon und 5 % Elasthan im Obermaterial.\nAngaben des Anbieters: Zalando beschreibt die Socken als atmungsaktiv und nennt Maschinenwäsche bei 40 °C.",
+      "style_impression": "Sportlicher Look mit weißem Schaft, kleinem Kontrastlogo und geteilter Spitze.",
+      "source": "https://en.zalando.de/nike-sportswear-u-nk-everyday-plus-ltwt-crew-160-tabi-socks-white-black-ni181001f-a11.html",
+      "additional_sources": [
+        "https://www.zalando.de/nike-sportswear-u-nk-everyday-plus-ltwt-crew-160-tabi-socken-white-black-ni181001f-a11.html"
+      ],
+      "price_evidence": {
+        "observed_on": "2026-11-25",
+        "market": "DE",
+        "listed_price_eur": 12,
+        "kind": "zalando_de_catalog",
+        "details": "Indexed exact listing displayed €12.00 including VAT and Add to bag; an older capture showed the 34–38 through 46–50 size ranges. Live size inventory could not be opened from this browser."
+      },
+      "photo_source": "https://img01.ztat.net/article/spp-media-p1/71a2263d42924ef68657fe8ca8f0a393/e1472a96fb30499e96e252b0faa09896.jpg?imwidth=500",
+      "photo_file": "photos/B.jpg",
+      "photo_sha256": "a38ca236d3f7c4e6b107fbf2a07715120e2c738a58034d345128cfcd479781b0",
+      "alt": "Zwei weiße Nike Tabi-Socken mit schwarzen Logos und geteilter Spitze.",
+      "price": "12,00 €",
+      "unit_price": "12,00 €",
+      "unit_price_eur": 12.0,
+      "photo_bytes": 13413
+    },
+    {
+      "id": "C",
+      "name": "Tabi Footwear Split Toe Socks 3 Pack",
+      "color": "Schwarz",
+      "price_eur": 32.35,
+      "pack_count": 3,
+      "pack_label": "3 Paar",
+      "comparison_group": "direct",
+      "sku": "TDJ810002-Q11",
+      "description": "Passform und Optik: Drei Paar schwarze Stricksocken mit normaler Schafthöhe, geripptem Schaft und separatem Fach für den großen Zeh.\nStileindruck: Einfarbiges schwarzes Set mit geripptem Schaft und sichtbar geteilter Spitze.\nMaterial: 78 % Baumwolle, 20 % Polyester und 2 % Elasthan.\nAngaben des Anbieters: Zalando nennt Maschinenwäsche bei 30 °C. Die Socken sollen nicht gebleicht oder im Trockner getrocknet werden.",
+      "style_impression": "Einfarbiges schwarzes Set mit geripptem Schaft und sichtbar geteilter Spitze.",
+      "source": "https://en.zalando.de/tabi-footwear-tabi-unisex-3-pack-socks-black-tdj810002-q11.html",
+      "additional_sources": [
+        "https://www.zalando.de/herren/tabi-footwear/"
+      ],
+      "price_evidence": {
+        "observed_on": "2026-11-25",
+        "market": "DE",
+        "listed_price_eur": 32.35,
+        "kind": "zalando_de_catalog",
+        "details": "Indexed exact listing and Zalando Germany men’s brand catalog both displayed €32.35 for the three-pair set; the product page showed Add to bag and delivery dates. Live size inventory could not be opened from this browser."
+      },
+      "photo_source": "https://img01.ztat.net/article/spp-media-p1/e1c7d81ff3c547d8a40a9ed7e9ce53d9/d7f3cf8248594d9fb8a446cf99c3bf09.jpg?imwidth=500",
+      "photo_file": "photos/C.jpg",
+      "photo_sha256": "0a4b0612a39695a6e66b13574492c4e60d6d457c2af67ffb01d4a50d8a6baa6a",
+      "alt": "Drei Paar schwarze, gerippte Tabi Footwear Socken mit geteilter Spitze und Papierbanderolen.",
+      "price": "32,35 €",
+      "unit_price": "10,78 €",
+      "unit_price_eur": 10.78,
+      "photo_bytes": 19112
+    },
+    {
+      "id": "D",
+      "name": "Tabi Footwear Split-Toe High Socks",
+      "color": "Offwhite",
+      "price_eur": 16.0,
+      "pack_count": 1,
+      "pack_label": "1 Paar",
+      "comparison_group": "direct",
+      "sku": "TDJ810001-A11",
+      "description": "Passform und Optik: Einfarbige Tabi-Kniestrümpfe mit langem geripptem Schaft und separatem Fach für den großen Zeh.\nStileindruck: Heller, langer Rippstrumpf mit geteilter Spitze und ohne auffälligen Aufdruck.\nMaterial: 78 % Baumwolle, 20 % Polyester und 2 % Elasthan.\nAngaben des Anbieters: Zalando nennt Maschinenwäsche bei 30 °C. Die Strümpfe sollen nicht gebleicht oder im Trockner getrocknet werden.",
+      "style_impression": "Heller, langer Rippstrumpf mit geteilter Spitze und ohne auffälligen Aufdruck.",
+      "source": "https://en.zalando.de/tabi-footwear-high-socks-unisex-socks-off-white-tdj810001-a11.html",
+      "additional_sources": [
+        "https://www.zalando.de/tabi-footwear-high-socks-unisex-socken-off-white-tdj810001-a11.html?size=39-42"
+      ],
+      "price_evidence": {
+        "observed_on": "2026-11-25",
+        "market": "DE",
+        "listed_price_eur": 16,
+        "kind": "zalando_de_catalog",
+        "details": "Indexed exact listing displayed €16.00 including VAT and Add to bag. An earlier German snapshot showed size 39–42 with In den Warenkorb. Live size inventory could not be opened from this browser."
+      },
+      "photo_source": "https://img01.ztat.net/article/spp-media-p1/3c80fad9bdae4ff28816f3b2b423885b/f4b1ec284a7c4924a149a5500cb9c15a.jpg?filter=packshot&imwidth=500",
+      "photo_file": "photos/D.jpg",
+      "photo_sha256": "bb0d88d93d623a30e3e49fd58ebad295ad04e6b1d1d105d7dee7cb84b0a1d599",
+      "alt": "Zwei cremefarbene Tabi Footwear Kniestrümpfe mit geripptem Schaft und geteilter Spitze.",
+      "price": "16,00 €",
+      "unit_price": "16,00 €",
+      "unit_price_eur": 16.0,
+      "photo_bytes": 14412
+    },
+    {
+      "id": "E",
+      "name": "FALKE Cool 24/7",
+      "color": "Weiß",
+      "price_eur": 16.0,
+      "pack_count": 1,
+      "pack_label": "1 Paar",
+      "comparison_group": "adjacent",
+      "sku": "FA182F05E-A11",
+      "description": "Passform und Optik: Einfarbige Stricksocken mit normaler Schafthöhe, geripptem Bündchen und durchgehender Zehenpartie ohne separates Zehenfach.\nStileindruck: Einfarbiger, klassischer Alltagssocken mit geripptem Bündchen und glatter Fußpartie.\nMaterial: 83 % Baumwolle, 15 % Polyamid und 2 % Elasthan.\nAngaben des Anbieters: Der Anbieter nennt Feuchtigkeitstransport, eine flache Zehennaht und verstärkte Belastungszonen. Zalando nennt Maschinenwäsche bei 40 °C.",
+      "style_impression": "Einfarbiger, klassischer Alltagssocken mit geripptem Bündchen und glatter Fußpartie.",
+      "source": "https://en.zalando.de/falke-cool-kurzstru-socks-weiss-fa182f05e-a11.html",
+      "additional_sources": [
+        "https://www.zalando.de/falke-cool-kurzstru-socken-weiss-fa182f05e-a11.html"
+      ],
+      "price_evidence": {
+        "observed_on": "2026-11-25",
+        "market": "DE",
+        "listed_price_eur": 16,
+        "kind": "zalando_de_catalog",
+        "details": "Indexed exact Zalando Germany listing displayed €16.00 including VAT and Add to bag. An older German capture of the same SKU displayed €15.00. Live size inventory could not be opened from this browser."
+      },
+      "photo_source": "https://img01.ztat.net/article/spp-media-p1/7724a01383b846c682991711946ab989/c15b1df759614e0faf60471d0138fa17.jpg?filter=packshot&imwidth=500",
+      "photo_file": "photos/E.jpg",
+      "photo_sha256": "fc481e5999e298536c0d94b1e457cf514f10ceea33321325337cbd8229c5b672",
+      "alt": "Weiße FALKE Cool 24/7 Socken mit geripptem Bündchen und ungeteilter Spitze.",
+      "price": "16,00 €",
+      "unit_price": "16,00 €",
+      "unit_price_eur": 16.0,
+      "photo_bytes": 11133
+    }
+  ],
+  "shoppers": [
+    {
+      "agent_id": 0,
+      "shopper_id": "p01",
+      "display_label": "Person 01",
+      "age": 27,
+      "residence": "Berlin",
+      "budget_eur": 22,
+      "profile": "Du bist 27 Jahre alt, wohnst in Berlin, Deutschland, und kaufst Herrensocken gelegentlich auf Zalando.de. Für den Sockenkauf hast du dir insgesamt ungefähr 22 € vorgenommen. Du trägst meistens Sneaker und magst kurze, wenig auffällige Socken.",
+      "card_order": [
+        "B",
+        "C",
+        "D",
+        "E",
+        "A"
+      ]
+    },
+    {
+      "agent_id": 1,
+      "shopper_id": "p02",
+      "display_label": "Person 02",
+      "age": 72,
+      "residence": "Hamburg",
+      "budget_eur": 18,
+      "profile": "Du bist 72 Jahre alt, wohnst in Hamburg, Deutschland, und kaufst Herrensocken gelegentlich auf Zalando.de. Für den Sockenkauf hast du dir insgesamt ungefähr 18 € vorgenommen. Du lässt bei Socken gerne etwas Farbe zwischen Schuh und Hose sehen.",
+      "card_order": [
+        "D",
+        "E",
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "agent_id": 2,
+      "shopper_id": "p03",
+      "display_label": "Person 03",
+      "age": 39,
+      "residence": "Leipzig",
+      "budget_eur": 18,
+      "profile": "Du bist 39 Jahre alt, wohnst in Leipzig, Deutschland, und kaufst Herrensocken gelegentlich auf Zalando.de. Für den Sockenkauf hast du dir insgesamt ungefähr 18 € vorgenommen. Für längere Wege zu Fuß achtest du auf bequeme Bündchen.",
+      "card_order": [
+        "B",
+        "C",
+        "D",
+        "E",
+        "A"
+      ]
+    },
+    {
+      "agent_id": 3,
+      "shopper_id": "p04",
+      "display_label": "Person 04",
+      "age": 23,
+      "residence": "Köln",
+      "budget_eur": 12,
+      "profile": "Du bist 23 Jahre alt, wohnst in Köln, Deutschland, und kaufst Herrensocken gelegentlich auf Zalando.de. Für den Sockenkauf hast du dir insgesamt ungefähr 12 € vorgenommen. Du kaufst Socken nach Bedarf und entscheidest viel nach dem Preis pro Paar.",
+      "card_order": [
+        "B",
+        "C",
+        "D",
+        "E",
+        "A"
+      ]
+    },
+    {
+      "agent_id": 4,
+      "shopper_id": "p05",
+      "display_label": "Person 05",
+      "age": 27,
+      "residence": "Bremen",
+      "budget_eur": 35,
+      "profile": "Du bist 27 Jahre alt, wohnst in Bremen, Deutschland, und kaufst Herrensocken gelegentlich auf Zalando.de. Für den Sockenkauf hast du dir insgesamt ungefähr 35 € vorgenommen. Du trägst im Alltag dunkle Schuhe und magst dazu gedeckte Farben.",
+      "card_order": [
+        "C",
+        "D",
+        "E",
+        "A",
+        "B"
+      ]
+    },
+    {
+      "agent_id": 5,
+      "shopper_id": "p06",
+      "display_label": "Person 06",
+      "age": 29,
+      "residence": "Kassel",
+      "budget_eur": 25,
+      "profile": "Du bist 29 Jahre alt, wohnst in Kassel, Deutschland, und kaufst Herrensocken gelegentlich auf Zalando.de. Für den Sockenkauf hast du dir insgesamt ungefähr 25 € vorgenommen. Du nimmst beim Packen für Reisen gern mehrere leicht kombinierbare Paare mit.",
+      "card_order": [
+        "E",
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "agent_id": 6,
+      "shopper_id": "p07",
+      "display_label": "Person 07",
+      "age": 36,
+      "residence": "Freiburg",
+      "budget_eur": 30,
+      "profile": "Du bist 36 Jahre alt, wohnst in Freiburg, Deutschland, und kaufst Herrensocken gelegentlich auf Zalando.de. Für den Sockenkauf hast du dir insgesamt ungefähr 30 € vorgenommen. Du legst bei Socken Wert auf unkomplizierte Pflege.",
+      "card_order": [
+        "E",
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "agent_id": 7,
+      "shopper_id": "p08",
+      "display_label": "Person 08",
+      "age": 33,
+      "residence": "Erfurt",
+      "budget_eur": 22,
+      "profile": "Du bist 33 Jahre alt, wohnst in Erfurt, Deutschland, und kaufst Herrensocken gelegentlich auf Zalando.de. Für den Sockenkauf hast du dir insgesamt ungefähr 22 € vorgenommen. Du magst knöchelhohe Socken, die in Sportschuhen wenig auftragen.",
+      "card_order": [
+        "B",
+        "C",
+        "D",
+        "E",
+        "A"
+      ]
+    },
+    {
+      "agent_id": 8,
+      "shopper_id": "p09",
+      "display_label": "Person 09",
+      "age": 22,
+      "residence": "Rostock",
+      "budget_eur": 15,
+      "profile": "Du bist 22 Jahre alt, wohnst in Rostock, Deutschland, und kaufst Herrensocken gelegentlich auf Zalando.de. Für den Sockenkauf hast du dir insgesamt ungefähr 15 € vorgenommen. Du möchtest ein Paar, das du auch zu Hause regelmäßig trägst.",
+      "card_order": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "agent_id": 9,
+      "shopper_id": "p10",
+      "display_label": "Person 10",
+      "age": 28,
+      "residence": "Augsburg",
+      "budget_eur": 15,
+      "profile": "Du bist 28 Jahre alt, wohnst in Augsburg, Deutschland, und kaufst Herrensocken gelegentlich auf Zalando.de. Für den Sockenkauf hast du dir insgesamt ungefähr 15 € vorgenommen. Bei Socken gefällt dir ein schlichter Schnitt mit einem kleinen sichtbaren Detail.",
+      "card_order": [
+        "B",
+        "C",
+        "D",
+        "E",
+        "A"
+      ]
+    },
+    {
+      "agent_id": 10,
+      "shopper_id": "p11",
+      "display_label": "Person 11",
+      "age": 42,
+      "residence": "Essen",
+      "budget_eur": 10,
+      "profile": "Du bist 42 Jahre alt, wohnst in Essen, Deutschland, und kaufst Herrensocken gelegentlich auf Zalando.de. Für den Sockenkauf hast du dir insgesamt ungefähr 10 € vorgenommen. Du probierst neue Marken aus, wenn du die Form und das Material passend findest.",
+      "card_order": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "agent_id": 11,
+      "shopper_id": "p12",
+      "display_label": "Person 12",
+      "age": 35,
+      "residence": "Dresden",
+      "budget_eur": 20,
+      "profile": "Du bist 35 Jahre alt, wohnst in Dresden, Deutschland, und kaufst Herrensocken gelegentlich auf Zalando.de. Für den Sockenkauf hast du dir insgesamt ungefähr 20 € vorgenommen. Du trägst bei Spaziergängen gern Socken, die den Knöchel bedecken.",
+      "card_order": [
+        "E",
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "agent_id": 12,
+      "shopper_id": "p13",
+      "display_label": "Person 13",
+      "age": 47,
+      "residence": "Münster",
+      "budget_eur": 25,
+      "profile": "Du bist 47 Jahre alt, wohnst in Münster, Deutschland, und kaufst Herrensocken gelegentlich auf Zalando.de. Für den Sockenkauf hast du dir insgesamt ungefähr 25 € vorgenommen. Du suchst weiße oder helle Socken für deine Alltagssneaker.",
+      "card_order": [
+        "C",
+        "D",
+        "E",
+        "A",
+        "B"
+      ]
+    },
+    {
+      "agent_id": 13,
+      "shopper_id": "p14",
+      "display_label": "Person 14",
+      "age": 26,
+      "residence": "Mainz",
+      "budget_eur": 30,
+      "profile": "Du bist 26 Jahre alt, wohnst in Mainz, Deutschland, und kaufst Herrensocken gelegentlich auf Zalando.de. Für den Sockenkauf hast du dir insgesamt ungefähr 30 € vorgenommen. Du magst eingewebte Muster und etwas höhere Socken zu langen Hosen.",
+      "card_order": [
+        "E",
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "agent_id": 14,
+      "shopper_id": "p15",
+      "display_label": "Person 15",
+      "age": 31,
+      "residence": "Nürnberg",
+      "budget_eur": 8,
+      "profile": "Du bist 31 Jahre alt, wohnst in Nürnberg, Deutschland, und kaufst Herrensocken gelegentlich auf Zalando.de. Für den Sockenkauf hast du dir insgesamt ungefähr 8 € vorgenommen. Du bevorzugst schlichte, gut kombinierbare Farben.",
+      "card_order": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "agent_id": 15,
+      "shopper_id": "p16",
+      "display_label": "Person 16",
+      "age": 52,
+      "residence": "Bielefeld",
+      "budget_eur": 20,
+      "profile": "Du bist 52 Jahre alt, wohnst in Bielefeld, Deutschland, und kaufst Herrensocken gelegentlich auf Zalando.de. Für den Sockenkauf hast du dir insgesamt ungefähr 20 € vorgenommen. Du würdest die Materialzusammensetzung bei einem Neukauf berücksichtigen.",
+      "card_order": [
+        "E",
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "agent_id": 16,
+      "shopper_id": "p17",
+      "display_label": "Person 17",
+      "age": 19,
+      "residence": "Trier",
+      "budget_eur": 22,
+      "profile": "Du bist 19 Jahre alt, wohnst in Trier, Deutschland, und kaufst Herrensocken gelegentlich auf Zalando.de. Für den Sockenkauf hast du dir insgesamt ungefähr 22 € vorgenommen. Du suchst Socken, die beim Joggen in deinen Schuhen angenehm sitzen.",
+      "card_order": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "agent_id": 17,
+      "shopper_id": "p18",
+      "display_label": "Person 18",
+      "age": 61,
+      "residence": "Potsdam",
+      "budget_eur": 30,
+      "profile": "Du bist 61 Jahre alt, wohnst in Potsdam, Deutschland, und kaufst Herrensocken gelegentlich auf Zalando.de. Für den Sockenkauf hast du dir insgesamt ungefähr 30 € vorgenommen. Du magst einen lockeren, nicht zu hohen Schaft.",
+      "card_order": [
+        "C",
+        "D",
+        "E",
+        "A",
+        "B"
+      ]
+    },
+    {
+      "agent_id": 18,
+      "shopper_id": "p19",
+      "display_label": "Person 19",
+      "age": 30,
+      "residence": "Lübeck",
+      "budget_eur": 8,
+      "profile": "Du bist 30 Jahre alt, wohnst in Lübeck, Deutschland, und kaufst Herrensocken gelegentlich auf Zalando.de. Für den Sockenkauf hast du dir insgesamt ungefähr 8 € vorgenommen. Du suchst Socken für den Alltag, die du mit dünnen Einlagen tragen kannst.",
+      "card_order": [
+        "C",
+        "D",
+        "E",
+        "A",
+        "B"
+      ]
+    },
+    {
+      "agent_id": 19,
+      "shopper_id": "p20",
+      "display_label": "Person 20",
+      "age": 25,
+      "residence": "Stuttgart",
+      "budget_eur": 18,
+      "profile": "Du bist 25 Jahre alt, wohnst in Stuttgart, Deutschland, und kaufst Herrensocken gelegentlich auf Zalando.de. Für den Sockenkauf hast du dir insgesamt ungefähr 18 € vorgenommen. Beim Onlinekauf schaust du zuerst auf Größe, Material und Paarzahl.",
+      "card_order": [
+        "E",
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "agent_id": 20,
+      "shopper_id": "p21",
+      "display_label": "Person 21",
+      "age": 45,
+      "residence": "Kiel",
+      "budget_eur": 10,
+      "profile": "Du bist 45 Jahre alt, wohnst in Kiel, Deutschland, und kaufst Herrensocken gelegentlich auf Zalando.de. Für den Sockenkauf hast du dir insgesamt ungefähr 10 € vorgenommen. Du achtest auf eine etwas kräftigere Stoffqualität.",
+      "card_order": [
+        "D",
+        "E",
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "agent_id": 21,
+      "shopper_id": "p22",
+      "display_label": "Person 22",
+      "age": 57,
+      "residence": "Regensburg",
+      "budget_eur": 35,
+      "profile": "Du bist 57 Jahre alt, wohnst in Regensburg, Deutschland, und kaufst Herrensocken gelegentlich auf Zalando.de. Für den Sockenkauf hast du dir insgesamt ungefähr 35 € vorgenommen. Du bevorzugst einen weichen Stoff und ausreichend Platz an den Zehen.",
+      "card_order": [
+        "C",
+        "D",
+        "E",
+        "A",
+        "B"
+      ]
+    },
+    {
+      "agent_id": 22,
+      "shopper_id": "p23",
+      "display_label": "Person 23",
+      "age": 20,
+      "residence": "Koblenz",
+      "budget_eur": 15,
+      "profile": "Du bist 20 Jahre alt, wohnst in Koblenz, Deutschland, und kaufst Herrensocken gelegentlich auf Zalando.de. Für den Sockenkauf hast du dir insgesamt ungefähr 15 € vorgenommen. Du magst sportlich aussehende Socken mit kleinen grafischen Details.",
+      "card_order": [
+        "D",
+        "E",
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "agent_id": 23,
+      "shopper_id": "p24",
+      "display_label": "Person 24",
+      "age": 34,
+      "residence": "Magdeburg",
+      "budget_eur": 10,
+      "profile": "Du bist 34 Jahre alt, wohnst in Magdeburg, Deutschland, und kaufst Herrensocken gelegentlich auf Zalando.de. Für den Sockenkauf hast du dir insgesamt ungefähr 10 € vorgenommen. Du trägst beim Radfahren gern einfarbige Socken mit kurzem Schaft.",
+      "card_order": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "agent_id": 24,
+      "shopper_id": "p25",
+      "display_label": "Person 25",
+      "age": 49,
+      "residence": "Osnabrück",
+      "budget_eur": 22,
+      "profile": "Du bist 49 Jahre alt, wohnst in Osnabrück, Deutschland, und kaufst Herrensocken gelegentlich auf Zalando.de. Für den Sockenkauf hast du dir insgesamt ungefähr 22 € vorgenommen. Du magst klassische Socken mit schlichten Bündchen.",
+      "card_order": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "agent_id": 25,
+      "shopper_id": "p26",
+      "display_label": "Person 26",
+      "age": 41,
+      "residence": "Bonn",
+      "budget_eur": 12,
+      "profile": "Du bist 41 Jahre alt, wohnst in Bonn, Deutschland, und kaufst Herrensocken gelegentlich auf Zalando.de. Für den Sockenkauf hast du dir insgesamt ungefähr 12 € vorgenommen. Du möchtest ein Paar für Alltag und gelegentlichen Sport.",
+      "card_order": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "agent_id": 26,
+      "shopper_id": "p27",
+      "display_label": "Person 27",
+      "age": 38,
+      "residence": "Würzburg",
+      "budget_eur": 25,
+      "profile": "Du bist 38 Jahre alt, wohnst in Würzburg, Deutschland, und kaufst Herrensocken gelegentlich auf Zalando.de. Für den Sockenkauf hast du dir insgesamt ungefähr 25 € vorgenommen. Bei Socken interessiert dich vor allem, wie viel Baumwolle enthalten ist.",
+      "card_order": [
+        "D",
+        "E",
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "agent_id": 27,
+      "shopper_id": "p28",
+      "display_label": "Person 28",
+      "age": 44,
+      "residence": "Saarbrücken",
+      "budget_eur": 8,
+      "profile": "Du bist 44 Jahre alt, wohnst in Saarbrücken, Deutschland, und kaufst Herrensocken gelegentlich auf Zalando.de. Für den Sockenkauf hast du dir insgesamt ungefähr 8 € vorgenommen. Dir sind flexible Bündchen wichtiger als eine bekannte Marke.",
+      "card_order": [
+        "B",
+        "C",
+        "D",
+        "E",
+        "A"
+      ]
+    },
+    {
+      "agent_id": 28,
+      "shopper_id": "p29",
+      "display_label": "Person 29",
+      "age": 30,
+      "residence": "Flensburg",
+      "budget_eur": 35,
+      "profile": "Du bist 30 Jahre alt, wohnst in Flensburg, Deutschland, und kaufst Herrensocken gelegentlich auf Zalando.de. Für den Sockenkauf hast du dir insgesamt ungefähr 35 € vorgenommen. Du suchst dunkle Socken für möglichst viele Gelegenheiten.",
+      "card_order": [
+        "E",
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "agent_id": 29,
+      "shopper_id": "p30",
+      "display_label": "Person 30",
+      "age": 46,
+      "residence": "Oldenburg",
+      "budget_eur": 30,
+      "profile": "Du bist 46 Jahre alt, wohnst in Oldenburg, Deutschland, und kaufst Herrensocken gelegentlich auf Zalando.de. Für den Sockenkauf hast du dir insgesamt ungefähr 30 € vorgenommen. Du magst kleine Schriftzüge und etwas höhere Socken.",
+      "card_order": [
+        "D",
+        "E",
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "agent_id": 30,
+      "shopper_id": "p31",
+      "display_label": "Person 31",
+      "age": 51,
+      "residence": "Jena",
+      "budget_eur": 20,
+      "profile": "Du bist 51 Jahre alt, wohnst in Jena, Deutschland, und kaufst Herrensocken gelegentlich auf Zalando.de. Für den Sockenkauf hast du dir insgesamt ungefähr 20 € vorgenommen. Du willst beim Training eine Passform, die in Schuhen wenig Falten wirft.",
+      "card_order": [
+        "D",
+        "E",
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "agent_id": 31,
+      "shopper_id": "p32",
+      "display_label": "Person 32",
+      "age": 55,
+      "residence": "Dortmund",
+      "budget_eur": 22,
+      "profile": "Du bist 55 Jahre alt, wohnst in Dortmund, Deutschland, und kaufst Herrensocken gelegentlich auf Zalando.de. Für den Sockenkauf hast du dir insgesamt ungefähr 22 € vorgenommen. Du suchst eine preiswerte Möglichkeit, abgetragene Socken zu ersetzen.",
+      "card_order": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "agent_id": 32,
+      "shopper_id": "p33",
+      "display_label": "Person 33",
+      "age": 24,
+      "residence": "Hannover",
+      "budget_eur": 10,
+      "profile": "Du bist 24 Jahre alt, wohnst in Hannover, Deutschland, und kaufst Herrensocken gelegentlich auf Zalando.de. Für den Sockenkauf hast du dir insgesamt ungefähr 10 € vorgenommen. Du bevorzugst wenig Stoff um den Knöchel und schmale Bündchen.",
+      "card_order": [
+        "E",
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "agent_id": 33,
+      "shopper_id": "p34",
+      "display_label": "Person 34",
+      "age": 22,
+      "residence": "Bamberg",
+      "budget_eur": 8,
+      "profile": "Du bist 22 Jahre alt, wohnst in Bamberg, Deutschland, und kaufst Herrensocken gelegentlich auf Zalando.de. Für den Sockenkauf hast du dir insgesamt ungefähr 8 € vorgenommen. Du magst bei neutraler Kleidung sichtbare Kontrastdetails an den Socken.",
+      "card_order": [
+        "D",
+        "E",
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "agent_id": 34,
+      "shopper_id": "p35",
+      "display_label": "Person 35",
+      "age": 64,
+      "residence": "Heidelberg",
+      "budget_eur": 12,
+      "profile": "Du bist 64 Jahre alt, wohnst in Heidelberg, Deutschland, und kaufst Herrensocken gelegentlich auf Zalando.de. Für den Sockenkauf hast du dir insgesamt ungefähr 12 € vorgenommen. Du möchtest bequeme Socken zum Spazierengehen und für kürzere Reisen.",
+      "card_order": [
+        "C",
+        "D",
+        "E",
+        "A",
+        "B"
+      ]
+    },
+    {
+      "agent_id": 35,
+      "shopper_id": "p36",
+      "display_label": "Person 36",
+      "age": 24,
+      "residence": "Duisburg",
+      "budget_eur": 10,
+      "profile": "Du bist 24 Jahre alt, wohnst in Duisburg, Deutschland, und kaufst Herrensocken gelegentlich auf Zalando.de. Für den Sockenkauf hast du dir insgesamt ungefähr 10 € vorgenommen. Du magst bei Socken schlichte Formen und dunkle Grautöne.",
+      "card_order": [
+        "E",
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "agent_id": 36,
+      "shopper_id": "p37",
+      "display_label": "Person 37",
+      "age": 38,
+      "residence": "Passau",
+      "budget_eur": 30,
+      "profile": "Du bist 38 Jahre alt, wohnst in Passau, Deutschland, und kaufst Herrensocken gelegentlich auf Zalando.de. Für den Sockenkauf hast du dir insgesamt ungefähr 30 € vorgenommen. Beim Neukauf achtest du auf einfache Pflege und gut lesbare Größenangaben.",
+      "card_order": [
+        "D",
+        "E",
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "agent_id": 37,
+      "shopper_id": "p38",
+      "display_label": "Person 38",
+      "age": 31,
+      "residence": "Ulm",
+      "budget_eur": 15,
+      "profile": "Du bist 31 Jahre alt, wohnst in Ulm, Deutschland, und kaufst Herrensocken gelegentlich auf Zalando.de. Für den Sockenkauf hast du dir insgesamt ungefähr 15 € vorgenommen. Du suchst Socken für leichte Bewegung und regelmäßiges Tragen in Sneakern.",
+      "card_order": [
+        "C",
+        "D",
+        "E",
+        "A",
+        "B"
+      ]
+    },
+    {
+      "agent_id": 38,
+      "shopper_id": "p39",
+      "display_label": "Person 39",
+      "age": 37,
+      "residence": "Siegen",
+      "budget_eur": 35,
+      "profile": "Du bist 37 Jahre alt, wohnst in Siegen, Deutschland, und kaufst Herrensocken gelegentlich auf Zalando.de. Für den Sockenkauf hast du dir insgesamt ungefähr 35 € vorgenommen. Du wechselst nach dem Sport die Socken und magst pflegeleichte Materialien.",
+      "card_order": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "agent_id": 39,
+      "shopper_id": "p40",
+      "display_label": "Person 40",
+      "age": 34,
+      "residence": "Bochum",
+      "budget_eur": 15,
+      "profile": "Du bist 34 Jahre alt, wohnst in Bochum, Deutschland, und kaufst Herrensocken gelegentlich auf Zalando.de. Für den Sockenkauf hast du dir insgesamt ungefähr 15 € vorgenommen. Du möchtest Socken, die zu normalen Alltagsschuhen passen.",
+      "card_order": [
+        "E",
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "agent_id": 40,
+      "shopper_id": "p41",
+      "display_label": "Person 41",
+      "age": 54,
+      "residence": "Cottbus",
+      "budget_eur": 20,
+      "profile": "Du bist 54 Jahre alt, wohnst in Cottbus, Deutschland, und kaufst Herrensocken gelegentlich auf Zalando.de. Für den Sockenkauf hast du dir insgesamt ungefähr 20 € vorgenommen. Du kaufst Socken nur, wenn du sie regelmäßig tragen würdest.",
+      "card_order": [
+        "B",
+        "C",
+        "D",
+        "E",
+        "A"
+      ]
+    },
+    {
+      "agent_id": 41,
+      "shopper_id": "p42",
+      "display_label": "Person 42",
+      "age": 48,
+      "residence": "Wiesbaden",
+      "budget_eur": 25,
+      "profile": "Du bist 48 Jahre alt, wohnst in Wiesbaden, Deutschland, und kaufst Herrensocken gelegentlich auf Zalando.de. Für den Sockenkauf hast du dir insgesamt ungefähr 25 € vorgenommen. Du magst sichtbare Bündchen und eher gedeckte Farben.",
+      "card_order": [
+        "B",
+        "C",
+        "D",
+        "E",
+        "A"
+      ]
+    },
+    {
+      "agent_id": 42,
+      "shopper_id": "p43",
+      "display_label": "Person 43",
+      "age": 21,
+      "residence": "Dessau-Roßlau",
+      "budget_eur": 8,
+      "profile": "Du bist 21 Jahre alt, wohnst in Dessau-Roßlau, Deutschland, und kaufst Herrensocken gelegentlich auf Zalando.de. Für den Sockenkauf hast du dir insgesamt ungefähr 8 € vorgenommen. Dir ist Platz im Zehenbereich wichtig, besonders in engeren Schuhen.",
+      "card_order": [
+        "D",
+        "E",
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "agent_id": 43,
+      "shopper_id": "p44",
+      "display_label": "Person 44",
+      "age": 59,
+      "residence": "Ravensburg",
+      "budget_eur": 35,
+      "profile": "Du bist 59 Jahre alt, wohnst in Ravensburg, Deutschland, und kaufst Herrensocken gelegentlich auf Zalando.de. Für den Sockenkauf hast du dir insgesamt ungefähr 35 € vorgenommen. Du magst unauffällige Farben und schaust dir besondere Formen gern an.",
+      "card_order": [
+        "B",
+        "C",
+        "D",
+        "E",
+        "A"
+      ]
+    },
+    {
+      "agent_id": 44,
+      "shopper_id": "p45",
+      "display_label": "Person 45",
+      "age": 26,
+      "residence": "Friedrichshafen",
+      "budget_eur": 20,
+      "profile": "Du bist 26 Jahre alt, wohnst in Friedrichshafen, Deutschland, und kaufst Herrensocken gelegentlich auf Zalando.de. Für den Sockenkauf hast du dir insgesamt ungefähr 20 € vorgenommen. Im Fitnessstudio trägst du meistens kurze Socken.",
+      "card_order": [
+        "B",
+        "C",
+        "D",
+        "E",
+        "A"
+      ]
+    },
+    {
+      "agent_id": 45,
+      "shopper_id": "p46",
+      "display_label": "Person 46",
+      "age": 67,
+      "residence": "Schwerin",
+      "budget_eur": 12,
+      "profile": "Du bist 67 Jahre alt, wohnst in Schwerin, Deutschland, und kaufst Herrensocken gelegentlich auf Zalando.de. Für den Sockenkauf hast du dir insgesamt ungefähr 12 € vorgenommen. Du möchtest Socken, die sich mit unterschiedlichen Schuhen kombinieren lassen.",
+      "card_order": [
+        "D",
+        "E",
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "agent_id": 46,
+      "shopper_id": "p47",
+      "display_label": "Person 47",
+      "age": 32,
+      "residence": "Vechta",
+      "budget_eur": 12,
+      "profile": "Du bist 32 Jahre alt, wohnst in Vechta, Deutschland, und kaufst Herrensocken gelegentlich auf Zalando.de. Für den Sockenkauf hast du dir insgesamt ungefähr 12 € vorgenommen. An kühlen Tagen magst du einen etwas höheren Schaft.",
+      "card_order": [
+        "C",
+        "D",
+        "E",
+        "A",
+        "B"
+      ]
+    },
+    {
+      "agent_id": 47,
+      "shopper_id": "p48",
+      "display_label": "Person 48",
+      "age": 41,
+      "residence": "Marburg",
+      "budget_eur": 18,
+      "profile": "Du bist 41 Jahre alt, wohnst in Marburg, Deutschland, und kaufst Herrensocken gelegentlich auf Zalando.de. Für den Sockenkauf hast du dir insgesamt ungefähr 18 € vorgenommen. Du willst Socken für Spaziergänge und brauchst kein großes Markenlogo.",
+      "card_order": [
+        "C",
+        "D",
+        "E",
+        "A",
+        "B"
+      ]
+    },
+    {
+      "agent_id": 48,
+      "shopper_id": "p49",
+      "display_label": "Person 49",
+      "age": 40,
+      "residence": "Reutlingen",
+      "budget_eur": 25,
+      "profile": "Du bist 40 Jahre alt, wohnst in Reutlingen, Deutschland, und kaufst Herrensocken gelegentlich auf Zalando.de. Für den Sockenkauf hast du dir insgesamt ungefähr 25 € vorgenommen. Du hast bei Socken keine feste Lieblingsmarke und achtest auf Schnitt und Preis.",
+      "card_order": [
+        "C",
+        "D",
+        "E",
+        "A",
+        "B"
+      ]
+    },
+    {
+      "agent_id": 49,
+      "shopper_id": "p50",
+      "display_label": "Person 50",
+      "age": 43,
+      "residence": "Ingolstadt",
+      "budget_eur": 18,
+      "profile": "Du bist 43 Jahre alt, wohnst in Ingolstadt, Deutschland, und kaufst Herrensocken gelegentlich auf Zalando.de. Für den Sockenkauf hast du dir insgesamt ungefähr 18 € vorgenommen. Du magst klassische Socken mit einem sichtbar strukturierten Bündchen.",
+      "card_order": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    }
+  ],
+  "response_file": "responses.jsonl",
+  "evidence_file": "transport-audit.jsonl",
+  "budget_design": {
+    "type": "approximate soft pack-price target",
+    "targets_eur": [
+      8,
+      10,
+      12,
+      15,
+      18,
+      20,
+      22,
+      25,
+      30,
+      35
+    ],
+    "shoppers_per_target": 5,
+    "seed": 261127,
+    "basis": "Illustrative sock-specific preferences independently shuffled across the reused ages and residences. No population estimate."
+  },
+  "primary_measure": "Target purchase-intent count/share of all usable choices and descriptive rank against verified direct comparators. Report adjacent products and none/undecided separately; no sales or category estimate.",
+  "caveats": [
+    "Synthetic German profiles, purpose-built for socks. Ages and places reuse a previously assigned panel; preferences and soft sock budgets are newly designed.",
+    "Pack configuration and prices are frozen study inputs. No claim about current availability.",
+    "Products from their verified listings are displayed in this common search scenario; actual results and ranking may vary."
+  ],
+  "api_model": "gpt-4.1-mini",
+  "transport": "OpenAI Chat Completions over existing configured model; inline image_url JPEG, verified in HTTP request hook",
+  "oasis_counts": {
+    "post": 0,
+    "comment": 0,
+    "interviews": 50
+  },
+  "finished_at": "2026-11-25T12:49:21.470282+00:00",
+  "audit_summary": {
+    "expected": 50,
+    "recorded": 50,
+    "accepted": 50,
+    "provider_200_with_all_verified_images": 50,
+    "choices": {
+      "B": 25,
+      "C": 13,
+      "A": 4,
+      "none": 8
+    },
+    "unique_provider_request_ids": 50,
+    "matching_oasis_interview_records": 50,
+    "photo_positions_verified": 250,
+    "choice_reason_identity_consistent": 50,
+    "order_count_min": 10,
+    "order_count_max": 10,
+    "provider_prompt_tokens_min": 4878,
+    "provider_prompt_tokens_max": 4890
+  },
+  "api_model_resolved": "gpt-4.1-mini-2025-04-14",
+  "review_file": "choice-review.jsonl",
+  "target_performance": {
+    "selected": 4,
+    "usable_denominator": 50,
+    "share_all": 0.08,
+    "direct_choice_denominator": 42,
+    "share_direct": 0.09523809523809523,
+    "direct_comparators": 3,
+    "direct_rank": 3,
+    "direct_tied_competitors": 0,
+    "full_shelf_rank": 3,
+    "full_shelf_tied_competitors": 0,
+    "adjacent_choices": 0,
+    "none": 8,
+    "undecided": 0
+  },
+  "validation_finished_at": "2026-11-25T12:50:27.987243+00:00"
+}

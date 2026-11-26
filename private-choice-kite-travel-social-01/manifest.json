@@ -1,0 +1,1526 @@
+{
+  "run_id": "private-choice-kite-travel-social-01",
+  "simulation_id": "sim_b720afc508ce",
+  "platform": "reddit",
+  "rounds": 3,
+  "state": "completed",
+  "baseline": "private-choice-wave-03",
+  "products": [
+    {
+      "id": "A",
+      "name": "nozzle quiz Essential Kite L/S Tee",
+      "color": "Schiefergrau",
+      "price": "60,33 €",
+      "price_eur": 60.33,
+      "description": "Passform und Optik: Locker geschnittenes, einfarbig dunkelgraues Rundhalsshirt mit geradem Saum. Am oberen Rücken verläuft eine gebogene Quernaht. Weiter unten nahe einer Seitennaht ist die schlitzförmige Öffnung einer gleichfarbigen Stofftasche zu sehen. An der gegenüberliegenden Seite sitzt ein kleines dunkles Webetikett.\nStileindruck: Einfarbig in Schiefergrau, mit lockerem Fall und Nähten im gleichen Farbton.\nMaterial: 100 % recyceltes Polyester.\nAngaben des Anbieters: Raglanärmel mit Daumenöffnungen und eine gefaltete Rückentasche. nozzle quiz beschreibt das AeroTouch-Garn als schnelltrocknend und gibt an, dass es sichtbare Schweißflecken reduzieren soll.",
+      "source": "https://www.nozzle-quiz.com/en/products/fi-gmtl01sb",
+      "photo_source": "https://shoplineimg.com/583ae8e561706917992f1a00/6a8fdb86c45c4fa0140b8f28/800x.jpg",
+      "photo_file": "photos/A.jpg",
+      "photo_sha256": "a378f6dddae5f5f64756229f3d703a8e1368a6345bbd40d0924e0f7a8a2e5312",
+      "photo_bytes": 18516,
+      "alt": "Schiefergraues nozzle quiz Essential Kite L/S Tee, Vorderansicht."
+    },
+    {
+      "id": "B",
+      "name": "Jack Wolfskin Prelight Crew",
+      "color": "Schwarz",
+      "price": "42,50 €",
+      "price_eur": 42.5,
+      "description": "Passform und Optik: Schwarzes Shirt mit Rundhalsausschnitt, geradem Rumpf und langen Ärmeln. Die geschwungenen Raglannähte führen vom Kragen über die Schultern. Links auf der Brust sitzt eine schwarze Tasche mit senkrechtem Reißverschluss, hellgrauem Schriftzug und Pfotenlogo. Am linken Ärmelabschluss steht ein weiterer kleiner heller Schriftzug. Der Rücken ist einfarbig.\nStileindruck: Schwarzer Outdoor-Look mit sichtbarem Brustreißverschluss und kleinem hellen Logo.\nMaterial: Oberstoff aus 84 % Polyester und 16 % Elasthan. Einsatz aus 100 % Polyester.\nAngaben des Anbieters: Reguläre Passform. Zalando führt das Shirt fürs Wandern und beschreibt es als atmungsaktiv, feuchtigkeitsableitend und schnelltrocknend.",
+      "source": "https://en.zalando.de/jack-wolfskin-long-sleeved-top-black-ja442d06n-q11.html",
+      "photo_source": "https://img01.ztat.net/article/spp-media-p1/4d29afbd6f96434f98a32509b39a5d07/609682d236c549e189d2d7164e0ce168.jpg?filter=packshot&imwidth=500",
+      "photo_file": "photos/B.jpg",
+      "photo_sha256": "3cbcad130a8e21e2aa9e887d809f5c0547f59d357ee6e66d2c7af9a03c9eafeb",
+      "photo_bytes": 14053,
+      "alt": "Schwarzes Jack Wolfskin Prelight Crew mit Brusttasche, Vorderansicht."
+    },
+    {
+      "id": "C",
+      "name": "Odlo Zeroweight Chill-Tec Crew Neck L/S",
+      "color": "Schwarz",
+      "price": "54,00 €",
+      "price_eur": 54.0,
+      "description": "Passform und Optik: Schwarzes Langarmshirt mit geradem Rumpf, schmal eingefasstem Rundhalsausschnitt und schmalen Ärmelabschlüssen. Ein kleines, dunkelgraues Logo sitzt links auf der Brust. Hinten steht mittig unter dem Kragen ein kurzer, senkrechter Odlo-Schriftzug. Die Detailaufnahme zeigt eine feine Stoffstruktur und einen schmalen Streifen mit kleinen Öffnungen seitlich unter dem Arm.\nStileindruck: Schlichter Sportlook mit feiner Stoffstruktur und einem dunkelgrauen Logo Ton in Ton.\nMaterial: Jersey-Oberstoff aus 100 % Polyester.\nAngaben des Anbieters: Reguläre Passform. Zalando führt das Shirt fürs Laufen und nennt atmungsaktive, feuchtigkeitsableitende, schnelltrocknende und reflektierende Eigenschaften.",
+      "source": "https://en.zalando.de/odlo-long-sleeved-top-black-od142d0b7-q11.html",
+      "photo_source": "https://mrsg-live.cdn.scayle.cloud/images/37c7779f9c9a4eb34581e1e3ccd43289.jpeg?width=500",
+      "photo_file": "photos/C.jpg",
+      "photo_sha256": "ea0cd1502156ff94ca1777210acbd0f7fa026c81e7cf2b1c81418edb340df9cd",
+      "photo_bytes": 24940,
+      "alt": "Schwarzes Odlo Zeroweight Chill-Tec Crew Neck L/S, Vorderansicht."
+    },
+    {
+      "id": "D",
+      "name": "Patagonia P-6 Logo Responsibili-Tee",
+      "color": "Schwarz",
+      "price": "59,95 €",
+      "price_eur": 59.95,
+      "description": "Passform und Optik: Gerade geschnittenes schwarzes Langarmshirt mit geripptem Rundhalsausschnitt und gerippten Ärmelbündchen. Auf der linken Brust steht ein kleiner weißer Patagonia-Schriftzug. Oben auf dem Rücken sitzt ein großer rechteckiger Druck mit einer Bergsilhouette, waagerechten Streifen in Blau, Violett und Orange und einem weißen Patagonia-Schriftzug.\nStileindruck: Vorn dezent beschriftet, hinten grafisch mit einem großen mehrfarbigen Bergmotiv.\nMaterial: Jersey aus 50 % recycelter Baumwolle und 50 % recyceltem Polyester.\nAngaben des Anbieters: Patagonia beschreibt die reguläre Passform als etwas weiter. Innen verläuft am hinteren Halsausschnitt ein Nahtband von Schulter zu Schulter.",
+      "source": "https://en.zalando.de/patagonia-ogo-responsibili-tee-long-sleeved-top-black-pa942d01m-q11.html",
+      "photo_source": "https://img01.ztat.net/article/spp-media-p1/e0e17ac8ae7d3bd5b53785a7bffb19a4/d5eeee3d63184118b27a112bc517252c.jpg?filter=packshot&imwidth=500",
+      "photo_file": "photos/D.jpg",
+      "photo_sha256": "aef947119f3d8a48d4ff2c019aac5119b5cce354b016a1fb8a9bf5f3a697d4bb",
+      "photo_bytes": 18673,
+      "alt": "Schwarzes Patagonia P-6 Logo Responsibili-Tee mit kleinem Brustschriftzug, Vorderansicht."
+    },
+    {
+      "id": "E",
+      "name": "Mizuno CORE IMPULSE TEE",
+      "color": "Schwarz",
+      "price": "26,35 €",
+      "price_eur": 26.35,
+      "description": "Passform und Optik: Einfarbig schwarzes Langarmshirt mit Rundhalsausschnitt, langen, zum Handgelenk schmaler werdenden Ärmeln und einem hinten leicht gerundeten Saum. Links auf der Brust sitzt ein kleines weißes Mizuno-Symbol. Ein zweites weißes Symbol ist mittig am Rücken knapp unter dem Kragen zu sehen. Innen am hinteren Kragen ist ein schwarzes Band mit wiederholtem Mizuno-Schriftzug sichtbar.\nStileindruck: Einfarbiger Laufshirt-Look mit schmalen Ärmelabschlüssen und weißen Logos als Kontrast.\nMaterial: Jersey aus 100 % Polyester.\nAngaben des Anbieters: Zalando führt das Shirt fürs Laufen und nennt eine reguläre Passform mit tailliertem Schnitt. Der Stoff soll Feuchtigkeit ableiten, schnell trocknen und atmungsaktiv sein. Zalando nennt außerdem reflektierende Details.",
+      "source": "https://en.zalando.de/mizuno-core-impulse-long-sleeved-top-black-m2742d057-q11.html",
+      "photo_source": "https://img01.ztat.net/article/spp-media-p1/4a8b1fb6c96742fea8ff0221785e3642/4702abe8e3db472abf62fae9d60bf9f6.jpg?filter=packshot&imwidth=500",
+      "photo_file": "photos/E.jpg",
+      "photo_sha256": "d7821a3371e6b272d53ee498ee59941f97f18fdc480b541c128ec9048a0df734",
+      "photo_bytes": 15809,
+      "alt": "Schwarzes Mizuno CORE IMPULSE TEE mit kleinem Brustlogo, Vorderansicht."
+    },
+    {
+      "id": "F",
+      "name": "Oakley ICON SYNC CREW 1.0",
+      "color": "Phantom",
+      "price": "59,95 €",
+      "price_eur": 59.95,
+      "description": "Passform und Optik: Rundhalsshirt mit langen Ärmeln in einem dunklen Anthrazitton. Beidseitig verlaufen gebogene, hellere graublaue Einsätze vom Schulterbereich in Richtung Seitennaht. Die Einsätze sind von vorn und hinten sichtbar. Mittig auf der Brust sitzt ein kleines helles Oval. Auf dem Rücken sind ein größeres helles Oval und darunter ein Oakley-Schriftzug zu sehen.\nStileindruck: Zweifarbiger Trainingslook mit geschwungenen Einsätzen und einem hellen Logo auf dem Rücken.\nMaterial: Jersey aus 100 % Polyester.\nAngaben des Anbieters: Zalando führt das Shirt für Training und Fitness, beschreibt den Schnitt als schmal und körpernah und nennt reflektierende Details.",
+      "source": "https://en.zalando.de/oakley-icon-sync-crew-10-long-sleeved-top-phantom-oa342d05p-c11.html",
+      "photo_source": "https://img01.ztat.net/article/spp-media-p1/fcff3b0c80c244c3816f0b19d114b2e6/9c05879a4bf540e2aa941a0a02346d26.jpg?filter=packshot&imwidth=500",
+      "photo_file": "photos/F.jpg",
+      "photo_sha256": "22592bc8e6483cbd5e688f907c7bb677d9ca6984692eb4f89c9f2dc371b1d714",
+      "photo_bytes": 21551,
+      "alt": "Oakley ICON SYNC CREW 1.0 in Phantom mit kontrastierenden Schulterpartien, Vorderansicht."
+    },
+    {
+      "id": "G",
+      "name": "Carhartt WIP L/S Vista T-Shirt",
+      "color": "Schwarz meliert",
+      "price": "59,95 €",
+      "price_eur": 59.95,
+      "description": "Passform und Optik: Gerade geschnittenes Rundhals-Langarmshirt in verwaschenem Schwarz mit tiefer sitzenden Schultern, schmaleren Ärmelbündchen und einem kleinen quadratischen Brustetikett.\nStileindruck: Zurückhaltend und lässig, mit verwaschener Oberfläche und kleinem Brustetikett.\nMaterial: 100 % Baumwolle, Jersey.\nAngaben des Anbieters: Carhartt WIP beschreibt den Schnitt als locker und nennt eine Stückfärbung. Zalando nennt Maschinenwäsche bei 30 °C.",
+      "source": "https://www.zalando.de/carhartt-wip-vista-langarmshirt-mottled-black-c1422o0g2-q11.html?size=s",
+      "photo_source": "https://img01.ztat.net/article/spp-media-p1/113e86feb79f4179a89942021dd27712/b543c69b9b1d41d7b66d3b0e877e8adc.jpg?filter=packshot&imwidth=500",
+      "photo_file": "photos/G.jpg",
+      "photo_sha256": "be1f10ee7a56f84940e6cc4b7032a18dad4028d730926942fa73acb6d9b7679e",
+      "photo_bytes": 31338,
+      "alt": "Schwarz meliertes Carhartt WIP Vista Langarmshirt mit kleinem quadratischem Brustetikett, Vorderansicht."
+    },
+    {
+      "id": "H",
+      "name": "Nike Performance Stride Midlayer",
+      "color": "Schwarz / reflektierendes Silber",
+      "price": "55,95 €",
+      "price_eur": 55.95,
+      "description": "Passform und Optik: Gerade geschnittenes Laufoberteil mit regulärer Passform, Stehkragen, kurzem Frontreißverschluss und kleinem hellem Brustlogo. Die Ärmel sind länger geschnitten und haben Daumenöffnungen.\nStileindruck: Sportlich und funktional, mit hohem Kragen, kurzem Reißverschluss und kleinem Kontrastlogo.\nMaterial: 88 % Polyester, 12 % Elasthan, Jersey.\nAngaben des Anbieters: Zalando nennt reflektierende Elemente und beschreibt das Nike-Dri-FIT-Material als feuchtigkeitsableitend, atmungsaktiv und schnelltrocknend.",
+      "source": "https://en.zalando.de/nike-performance-stride-midlayer-long-sleeved-top-blackreflective-silver-n1242d6yu-q11.html",
+      "photo_source": "https://img01.ztat.net/article/spp-media-p1/7c16415b041e4531beef3d2aa31bc421/2e58bd5f275845cd810e402a66ca2489.jpg?filter=packshot&imwidth=500",
+      "photo_file": "photos/H.jpg",
+      "photo_sha256": "97c6dbc02d758491250e82c511f8319e27a52e774875f72bd4a3eac309d45e3b",
+      "photo_bytes": 14477,
+      "alt": "Schwarzes Nike Performance Stride Midlayer mit kurzem Reißverschluss und hellem Brustlogo, Vorderansicht."
+    }
+  ],
+  "shoppers": [
+    {
+      "agent_id": 0,
+      "shopper_id": "p01",
+      "display_label": "Person 01",
+      "age": 27,
+      "residence": "Berlin",
+      "budget_eur": 50,
+      "profile": "Du bist 27 Jahre alt, wohnst in Berlin, Deutschland, und kaufst Herren-Langarmshirts online. Für dieses Shirt hast du dir ungefähr 50 € vorgenommen. Du magst lockere Schnitte und gedeckte Farben.",
+      "card_order": [
+        "H",
+        "F",
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "G"
+      ],
+      "relative_order_wave02": [
+        "F",
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "agent_id": 1,
+      "shopper_id": "p02",
+      "display_label": "Person 02",
+      "age": 72,
+      "residence": "Hamburg",
+      "budget_eur": 45,
+      "profile": "Du bist 72 Jahre alt, wohnst in Hamburg, Deutschland, und kaufst Herren-Langarmshirts online. Für dieses Shirt hast du dir ungefähr 45 € vorgenommen. Du suchst ein Shirt für Sport und willst schwitzige Kleidung schnell wechseln können.",
+      "card_order": [
+        "D",
+        "E",
+        "G",
+        "F",
+        "A",
+        "B",
+        "C",
+        "H"
+      ],
+      "relative_order_wave02": [
+        "D",
+        "E",
+        "F",
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "agent_id": 2,
+      "shopper_id": "p03",
+      "display_label": "Person 03",
+      "age": 39,
+      "residence": "Leipzig",
+      "budget_eur": 60,
+      "profile": "Du bist 39 Jahre alt, wohnst in Leipzig, Deutschland, und kaufst Herren-Langarmshirts online. Für dieses Shirt hast du dir ungefähr 60 € vorgenommen. Du trägst häufig Jeans und magst sichtbare Markenlogos.",
+      "card_order": [
+        "A",
+        "G",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "H"
+      ],
+      "relative_order_wave02": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ]
+    },
+    {
+      "agent_id": 3,
+      "shopper_id": "p04",
+      "display_label": "Person 04",
+      "age": 23,
+      "residence": "Köln",
+      "budget_eur": 55,
+      "profile": "Du bist 23 Jahre alt, wohnst in Köln, Deutschland, und kaufst Herren-Langarmshirts online. Für dieses Shirt hast du dir ungefähr 55 € vorgenommen. Du legst Wert auf wenig auffällige Markenlogos und einen regulären Schnitt.",
+      "card_order": [
+        "D",
+        "E",
+        "F",
+        "A",
+        "B",
+        "G",
+        "H",
+        "C"
+      ],
+      "relative_order_wave02": [
+        "D",
+        "E",
+        "F",
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "agent_id": 4,
+      "shopper_id": "p05",
+      "display_label": "Person 05",
+      "age": 27,
+      "residence": "Bremen",
+      "budget_eur": 45,
+      "profile": "Du bist 27 Jahre alt, wohnst in Bremen, Deutschland, und kaufst Herren-Langarmshirts online. Für dieses Shirt hast du dir ungefähr 45 € vorgenommen. Du trägst Langarmshirts gern unter einer Jacke und achtest auf schmale Ärmelabschlüsse.",
+      "card_order": [
+        "B",
+        "C",
+        "G",
+        "D",
+        "E",
+        "H",
+        "F",
+        "A"
+      ],
+      "relative_order_wave02": [
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "A"
+      ]
+    },
+    {
+      "agent_id": 5,
+      "shopper_id": "p06",
+      "display_label": "Person 06",
+      "age": 29,
+      "residence": "Kassel",
+      "budget_eur": 45,
+      "profile": "Du bist 29 Jahre alt, wohnst in Kassel, Deutschland, und kaufst Herren-Langarmshirts online. Für dieses Shirt hast du dir ungefähr 45 € vorgenommen. Du magst das Tragegefühl von Baumwollmischungen.",
+      "card_order": [
+        "D",
+        "H",
+        "E",
+        "G",
+        "F",
+        "A",
+        "B",
+        "C"
+      ],
+      "relative_order_wave02": [
+        "D",
+        "E",
+        "F",
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "agent_id": 6,
+      "shopper_id": "p07",
+      "display_label": "Person 07",
+      "age": 36,
+      "residence": "Freiburg",
+      "budget_eur": 60,
+      "profile": "Du bist 36 Jahre alt, wohnst in Freiburg, Deutschland, und kaufst Herren-Langarmshirts online. Für dieses Shirt hast du dir ungefähr 60 € vorgenommen. Du wäschst deine Kleidung häufig und achtest auf die Pflege.",
+      "card_order": [
+        "E",
+        "F",
+        "A",
+        "H",
+        "G",
+        "B",
+        "C",
+        "D"
+      ],
+      "relative_order_wave02": [
+        "E",
+        "F",
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "agent_id": 7,
+      "shopper_id": "p08",
+      "display_label": "Person 08",
+      "age": 33,
+      "residence": "Erfurt",
+      "budget_eur": 30,
+      "profile": "Du bist 33 Jahre alt, wohnst in Erfurt, Deutschland, und kaufst Herren-Langarmshirts online. Für dieses Shirt hast du dir ungefähr 30 € vorgenommen. Du möchtest beim Sport draußen, wenn möglich, reflektierende Details.",
+      "card_order": [
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "H",
+        "A",
+        "G"
+      ],
+      "relative_order_wave02": [
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "A"
+      ]
+    },
+    {
+      "agent_id": 8,
+      "shopper_id": "p09",
+      "display_label": "Person 09",
+      "age": 22,
+      "residence": "Rostock",
+      "budget_eur": 90,
+      "profile": "Du bist 22 Jahre alt, wohnst in Rostock, Deutschland, und kaufst Herren-Langarmshirts online. Für dieses Shirt hast du dir ungefähr 90 € vorgenommen. Du suchst etwas für Spaziergänge und magst es, kleine Dinge am Körper zu tragen.",
+      "card_order": [
+        "B",
+        "C",
+        "D",
+        "E",
+        "H",
+        "F",
+        "A",
+        "G"
+      ],
+      "relative_order_wave02": [
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "A"
+      ]
+    },
+    {
+      "agent_id": 9,
+      "shopper_id": "p10",
+      "display_label": "Person 10",
+      "age": 28,
+      "residence": "Augsburg",
+      "budget_eur": 90,
+      "profile": "Du bist 28 Jahre alt, wohnst in Augsburg, Deutschland, und kaufst Herren-Langarmshirts online. Für dieses Shirt hast du dir ungefähr 90 € vorgenommen. Du willst ein leichtes Oberteil für zu Hause und legst Wert auf einen geraden Schnitt.",
+      "card_order": [
+        "H",
+        "G",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "A"
+      ],
+      "relative_order_wave02": [
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "A"
+      ]
+    },
+    {
+      "agent_id": 10,
+      "shopper_id": "p11",
+      "display_label": "Person 11",
+      "age": 42,
+      "residence": "Essen",
+      "budget_eur": 65,
+      "profile": "Du bist 42 Jahre alt, wohnst in Essen, Deutschland, und kaufst Herren-Langarmshirts online. Für dieses Shirt hast du dir ungefähr 65 € vorgenommen. Du probierst neue Marken aus, wenn Schnitt und Material zu dir passen.",
+      "card_order": [
+        "H",
+        "D",
+        "E",
+        "F",
+        "A",
+        "G",
+        "B",
+        "C"
+      ],
+      "relative_order_wave02": [
+        "D",
+        "E",
+        "F",
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "agent_id": 11,
+      "shopper_id": "p12",
+      "display_label": "Person 12",
+      "age": 35,
+      "residence": "Dresden",
+      "budget_eur": 40,
+      "profile": "Du bist 35 Jahre alt, wohnst in Dresden, Deutschland, und kaufst Herren-Langarmshirts online. Für dieses Shirt hast du dir ungefähr 40 € vorgenommen. Du suchst für leichte Wanderungen etwas mit Bewegungsfreiheit.",
+      "card_order": [
+        "A",
+        "B",
+        "G",
+        "C",
+        "D",
+        "E",
+        "H",
+        "F"
+      ],
+      "relative_order_wave02": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ]
+    },
+    {
+      "agent_id": 12,
+      "shopper_id": "p13",
+      "display_label": "Person 13",
+      "age": 47,
+      "residence": "Münster",
+      "budget_eur": 55,
+      "profile": "Du bist 47 Jahre alt, wohnst in Münster, Deutschland, und kaufst Herren-Langarmshirts online. Für dieses Shirt hast du dir ungefähr 55 € vorgenommen. Dir sind ein ruhiges Design und ein gerader Saum wichtig.",
+      "card_order": [
+        "C",
+        "H",
+        "D",
+        "E",
+        "F",
+        "A",
+        "G",
+        "B"
+      ],
+      "relative_order_wave02": [
+        "C",
+        "D",
+        "E",
+        "F",
+        "A",
+        "B"
+      ]
+    },
+    {
+      "agent_id": 13,
+      "shopper_id": "p14",
+      "display_label": "Person 14",
+      "age": 26,
+      "residence": "Mainz",
+      "budget_eur": 35,
+      "profile": "Du bist 26 Jahre alt, wohnst in Mainz, Deutschland, und kaufst Herren-Langarmshirts online. Für dieses Shirt hast du dir ungefähr 35 € vorgenommen. Du magst farblich abgesetzte Details und körpernahe Schnitte.",
+      "card_order": [
+        "G",
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "H",
+        "F"
+      ],
+      "relative_order_wave02": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ]
+    },
+    {
+      "agent_id": 14,
+      "shopper_id": "p15",
+      "display_label": "Person 15",
+      "age": 31,
+      "residence": "Nürnberg",
+      "budget_eur": 70,
+      "profile": "Du bist 31 Jahre alt, wohnst in Nürnberg, Deutschland, und kaufst Herren-Langarmshirts online. Für dieses Shirt hast du dir ungefähr 70 € vorgenommen. Dir gefällt unifarbene Kleidung, die sich leicht kombinieren lässt.",
+      "card_order": [
+        "A",
+        "B",
+        "C",
+        "G",
+        "H",
+        "D",
+        "E",
+        "F"
+      ],
+      "relative_order_wave02": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ]
+    },
+    {
+      "agent_id": 15,
+      "shopper_id": "p16",
+      "display_label": "Person 16",
+      "age": 52,
+      "residence": "Bielefeld",
+      "budget_eur": 35,
+      "profile": "Du bist 52 Jahre alt, wohnst in Bielefeld, Deutschland, und kaufst Herren-Langarmshirts online. Für dieses Shirt hast du dir ungefähr 35 € vorgenommen. Du würdest recycelte Materialien bei einem Neukauf berücksichtigen.",
+      "card_order": [
+        "H",
+        "D",
+        "E",
+        "F",
+        "G",
+        "A",
+        "B",
+        "C"
+      ],
+      "relative_order_wave02": [
+        "D",
+        "E",
+        "F",
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "agent_id": 16,
+      "shopper_id": "p17",
+      "display_label": "Person 17",
+      "age": 19,
+      "residence": "Trier",
+      "budget_eur": 80,
+      "profile": "Du bist 19 Jahre alt, wohnst in Trier, Deutschland, und kaufst Herren-Langarmshirts online. Für dieses Shirt hast du dir ungefähr 80 € vorgenommen. Du möchtest lange Ärmel für Läufe bei kühlerem Wetter.",
+      "card_order": [
+        "B",
+        "G",
+        "C",
+        "D",
+        "E",
+        "H",
+        "F",
+        "A"
+      ],
+      "relative_order_wave02": [
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "A"
+      ]
+    },
+    {
+      "agent_id": 17,
+      "shopper_id": "p18",
+      "display_label": "Person 18",
+      "age": 61,
+      "residence": "Potsdam",
+      "budget_eur": 40,
+      "profile": "Du bist 61 Jahre alt, wohnst in Potsdam, Deutschland, und kaufst Herren-Langarmshirts online. Für dieses Shirt hast du dir ungefähr 40 € vorgenommen. Bei Langarmshirts sind dir ein weiter Rumpf und bequeme Bündchen wichtig.",
+      "card_order": [
+        "E",
+        "F",
+        "H",
+        "A",
+        "B",
+        "C",
+        "G",
+        "D"
+      ],
+      "relative_order_wave02": [
+        "E",
+        "F",
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "agent_id": 18,
+      "shopper_id": "p19",
+      "display_label": "Person 19",
+      "age": 30,
+      "residence": "Lübeck",
+      "budget_eur": 60,
+      "profile": "Du bist 30 Jahre alt, wohnst in Lübeck, Deutschland, und kaufst Herren-Langarmshirts online. Für dieses Shirt hast du dir ungefähr 60 € vorgenommen. Du möchtest ein pflegeleichtes Oberteil für Reisen mit kleinem Gepäck.",
+      "card_order": [
+        "C",
+        "D",
+        "E",
+        "F",
+        "A",
+        "B",
+        "G",
+        "H"
+      ],
+      "relative_order_wave02": [
+        "C",
+        "D",
+        "E",
+        "F",
+        "A",
+        "B"
+      ]
+    },
+    {
+      "agent_id": 19,
+      "shopper_id": "p20",
+      "display_label": "Person 20",
+      "age": 25,
+      "residence": "Stuttgart",
+      "budget_eur": 30,
+      "profile": "Du bist 25 Jahre alt, wohnst in Stuttgart, Deutschland, und kaufst Herren-Langarmshirts online. Für dieses Shirt hast du dir ungefähr 30 € vorgenommen. Du kaufst Kleidung online meist nur, wenn dir Preis und Schnitt zusagen.",
+      "card_order": [
+        "B",
+        "C",
+        "D",
+        "E",
+        "G",
+        "H",
+        "F",
+        "A"
+      ],
+      "relative_order_wave02": [
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "A"
+      ]
+    },
+    {
+      "agent_id": 20,
+      "shopper_id": "p21",
+      "display_label": "Person 21",
+      "age": 45,
+      "residence": "Kiel",
+      "budget_eur": 30,
+      "profile": "Du bist 45 Jahre alt, wohnst in Kiel, Deutschland, und kaufst Herren-Langarmshirts online. Für dieses Shirt hast du dir ungefähr 30 € vorgenommen. Du achtest auf einen haltbaren, eher dicken Stoff.",
+      "card_order": [
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "A"
+      ],
+      "relative_order_wave02": [
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "A"
+      ]
+    },
+    {
+      "agent_id": 21,
+      "shopper_id": "p22",
+      "display_label": "Person 22",
+      "age": 57,
+      "residence": "Regensburg",
+      "budget_eur": 45,
+      "profile": "Du bist 57 Jahre alt, wohnst in Regensburg, Deutschland, und kaufst Herren-Langarmshirts online. Für dieses Shirt hast du dir ungefähr 45 € vorgenommen. Du bevorzugst einen weichen Stoff und einen lockeren Sitz an den Schultern.",
+      "card_order": [
+        "E",
+        "G",
+        "F",
+        "H",
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "relative_order_wave02": [
+        "E",
+        "F",
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "agent_id": 22,
+      "shopper_id": "p23",
+      "display_label": "Person 23",
+      "age": 20,
+      "residence": "Koblenz",
+      "budget_eur": 55,
+      "profile": "Du bist 20 Jahre alt, wohnst in Koblenz, Deutschland, und kaufst Herren-Langarmshirts online. Für dieses Shirt hast du dir ungefähr 55 € vorgenommen. Du magst einen sportlichen Schnitt und grafische Details.",
+      "card_order": [
+        "G",
+        "C",
+        "H",
+        "D",
+        "E",
+        "F",
+        "A",
+        "B"
+      ],
+      "relative_order_wave02": [
+        "C",
+        "D",
+        "E",
+        "F",
+        "A",
+        "B"
+      ]
+    },
+    {
+      "agent_id": 23,
+      "shopper_id": "p24",
+      "display_label": "Person 24",
+      "age": 34,
+      "residence": "Magdeburg",
+      "budget_eur": 65,
+      "profile": "Du bist 34 Jahre alt, wohnst in Magdeburg, Deutschland, und kaufst Herren-Langarmshirts online. Für dieses Shirt hast du dir ungefähr 65 € vorgenommen. Du trägst Langarmshirts gern als leichte Schicht beim Radfahren.",
+      "card_order": [
+        "D",
+        "E",
+        "F",
+        "A",
+        "G",
+        "H",
+        "B",
+        "C"
+      ],
+      "relative_order_wave02": [
+        "D",
+        "E",
+        "F",
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "agent_id": 24,
+      "shopper_id": "p25",
+      "display_label": "Person 25",
+      "age": 49,
+      "residence": "Osnabrück",
+      "budget_eur": 50,
+      "profile": "Du bist 49 Jahre alt, wohnst in Osnabrück, Deutschland, und kaufst Herren-Langarmshirts online. Für dieses Shirt hast du dir ungefähr 50 € vorgenommen. Du magst klassische Rundhalsshirts und ein schlichtes Vorderteil.",
+      "card_order": [
+        "G",
+        "H",
+        "C",
+        "D",
+        "E",
+        "F",
+        "A",
+        "B"
+      ],
+      "relative_order_wave02": [
+        "C",
+        "D",
+        "E",
+        "F",
+        "A",
+        "B"
+      ]
+    },
+    {
+      "agent_id": 25,
+      "shopper_id": "p26",
+      "display_label": "Person 26",
+      "age": 41,
+      "residence": "Bonn",
+      "budget_eur": 65,
+      "profile": "Du bist 41 Jahre alt, wohnst in Bonn, Deutschland, und kaufst Herren-Langarmshirts online. Für dieses Shirt hast du dir ungefähr 65 € vorgenommen. Du suchst ein dezentes Shirt für den Alltag, das du auch beim Sport tragen kannst.",
+      "card_order": [
+        "A",
+        "B",
+        "C",
+        "H",
+        "D",
+        "G",
+        "E",
+        "F"
+      ],
+      "relative_order_wave02": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ]
+    },
+    {
+      "agent_id": 26,
+      "shopper_id": "p27",
+      "display_label": "Person 27",
+      "age": 38,
+      "residence": "Würzburg",
+      "budget_eur": 30,
+      "profile": "Du bist 38 Jahre alt, wohnst in Würzburg, Deutschland, und kaufst Herren-Langarmshirts online. Für dieses Shirt hast du dir ungefähr 30 € vorgenommen. Du möchtest beim Kauf besonders auf die Stoffzusammensetzung achten.",
+      "card_order": [
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "A",
+        "B",
+        "H"
+      ],
+      "relative_order_wave02": [
+        "C",
+        "D",
+        "E",
+        "F",
+        "A",
+        "B"
+      ]
+    },
+    {
+      "agent_id": 27,
+      "shopper_id": "p28",
+      "display_label": "Person 28",
+      "age": 44,
+      "residence": "Saarbrücken",
+      "budget_eur": 80,
+      "profile": "Du bist 44 Jahre alt, wohnst in Saarbrücken, Deutschland, und kaufst Herren-Langarmshirts online. Für dieses Shirt hast du dir ungefähr 80 € vorgenommen. Dir ist eine praktische Tasche wichtiger als ein auffälliges Logo.",
+      "card_order": [
+        "H",
+        "F",
+        "A",
+        "B",
+        "G",
+        "C",
+        "D",
+        "E"
+      ],
+      "relative_order_wave02": [
+        "F",
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "agent_id": 28,
+      "shopper_id": "p29",
+      "display_label": "Person 29",
+      "age": 30,
+      "residence": "Flensburg",
+      "budget_eur": 40,
+      "profile": "Du bist 30 Jahre alt, wohnst in Flensburg, Deutschland, und kaufst Herren-Langarmshirts online. Für dieses Shirt hast du dir ungefähr 40 € vorgenommen. Du suchst ein schwarzes Oberteil für möglichst viele Gelegenheiten.",
+      "card_order": [
+        "F",
+        "H",
+        "A",
+        "G",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "relative_order_wave02": [
+        "F",
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "agent_id": 29,
+      "shopper_id": "p30",
+      "display_label": "Person 30",
+      "age": 46,
+      "residence": "Oldenburg",
+      "budget_eur": 90,
+      "profile": "Du bist 46 Jahre alt, wohnst in Oldenburg, Deutschland, und kaufst Herren-Langarmshirts online. Für dieses Shirt hast du dir ungefähr 90 € vorgenommen. Du magst kleine Brustlogos und einen etwas weiteren Schnitt.",
+      "card_order": [
+        "C",
+        "D",
+        "E",
+        "H",
+        "F",
+        "A",
+        "G",
+        "B"
+      ],
+      "relative_order_wave02": [
+        "C",
+        "D",
+        "E",
+        "F",
+        "A",
+        "B"
+      ]
+    },
+    {
+      "agent_id": 30,
+      "shopper_id": "p31",
+      "display_label": "Person 31",
+      "age": 51,
+      "residence": "Jena",
+      "budget_eur": 50,
+      "profile": "Du bist 51 Jahre alt, wohnst in Jena, Deutschland, und kaufst Herren-Langarmshirts online. Für dieses Shirt hast du dir ungefähr 50 € vorgenommen. Du suchst ein Oberteil für Bewegung drinnen und funktionale Materialien.",
+      "card_order": [
+        "F",
+        "A",
+        "B",
+        "G",
+        "C",
+        "H",
+        "D",
+        "E"
+      ],
+      "relative_order_wave02": [
+        "F",
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "agent_id": 31,
+      "shopper_id": "p32",
+      "display_label": "Person 32",
+      "age": 55,
+      "residence": "Dortmund",
+      "budget_eur": 30,
+      "profile": "Du bist 55 Jahre alt, wohnst in Dortmund, Deutschland, und kaufst Herren-Langarmshirts online. Für dieses Shirt hast du dir ungefähr 30 € vorgenommen. Du willst ein möglichst preiswertes Shirt, falls Passform und Design stimmen.",
+      "card_order": [
+        "E",
+        "H",
+        "F",
+        "A",
+        "B",
+        "G",
+        "C",
+        "D"
+      ],
+      "relative_order_wave02": [
+        "E",
+        "F",
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "agent_id": 32,
+      "shopper_id": "p33",
+      "display_label": "Person 33",
+      "age": 24,
+      "residence": "Hannover",
+      "budget_eur": 35,
+      "profile": "Du bist 24 Jahre alt, wohnst in Hannover, Deutschland, und kaufst Herren-Langarmshirts online. Für dieses Shirt hast du dir ungefähr 35 € vorgenommen. Du bevorzugst schmale Ärmel und möglichst wenig Stoff im Schulterbereich.",
+      "card_order": [
+        "F",
+        "H",
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "G"
+      ],
+      "relative_order_wave02": [
+        "F",
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "agent_id": 33,
+      "shopper_id": "p34",
+      "display_label": "Person 34",
+      "age": 22,
+      "residence": "Bamberg",
+      "budget_eur": 35,
+      "profile": "Du bist 22 Jahre alt, wohnst in Bamberg, Deutschland, und kaufst Herren-Langarmshirts online. Für dieses Shirt hast du dir ungefähr 35 € vorgenommen. Du magst einen auffälligen Rückenaufdruck und eine schlichte Vorderseite.",
+      "card_order": [
+        "H",
+        "E",
+        "G",
+        "F",
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "relative_order_wave02": [
+        "E",
+        "F",
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "agent_id": 34,
+      "shopper_id": "p35",
+      "display_label": "Person 35",
+      "age": 64,
+      "residence": "Heidelberg",
+      "budget_eur": 50,
+      "profile": "Du bist 64 Jahre alt, wohnst in Heidelberg, Deutschland, und kaufst Herren-Langarmshirts online. Für dieses Shirt hast du dir ungefähr 50 € vorgenommen. Du möchtest ein bequemes Oberteil zum Schichten auf Reisen und Spaziergängen.",
+      "card_order": [
+        "E",
+        "F",
+        "A",
+        "B",
+        "C",
+        "D",
+        "G",
+        "H"
+      ],
+      "relative_order_wave02": [
+        "E",
+        "F",
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "agent_id": 35,
+      "shopper_id": "p36",
+      "display_label": "Person 36",
+      "age": 24,
+      "residence": "Duisburg",
+      "budget_eur": 55,
+      "profile": "Du bist 24 Jahre alt, wohnst in Duisburg, Deutschland, und kaufst Herren-Langarmshirts online. Für dieses Shirt hast du dir ungefähr 55 € vorgenommen. Du interessierst dich für einen schlichten Schnitt und magst dunkles Grau.",
+      "card_order": [
+        "D",
+        "G",
+        "H",
+        "E",
+        "F",
+        "A",
+        "B",
+        "C"
+      ],
+      "relative_order_wave02": [
+        "D",
+        "E",
+        "F",
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "agent_id": 36,
+      "shopper_id": "p37",
+      "display_label": "Person 37",
+      "age": 38,
+      "residence": "Passau",
+      "budget_eur": 70,
+      "profile": "Du bist 38 Jahre alt, wohnst in Passau, Deutschland, und kaufst Herren-Langarmshirts online. Für dieses Shirt hast du dir ungefähr 70 € vorgenommen. Beim Neukauf achtest du auf eine reguläre Passform und einfaches Waschen.",
+      "card_order": [
+        "G",
+        "D",
+        "E",
+        "F",
+        "A",
+        "B",
+        "H",
+        "C"
+      ],
+      "relative_order_wave02": [
+        "D",
+        "E",
+        "F",
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "agent_id": 37,
+      "shopper_id": "p38",
+      "display_label": "Person 38",
+      "age": 31,
+      "residence": "Ulm",
+      "budget_eur": 70,
+      "profile": "Du bist 31 Jahre alt, wohnst in Ulm, Deutschland, und kaufst Herren-Langarmshirts online. Für dieses Shirt hast du dir ungefähr 70 € vorgenommen. Du suchst ein Shirt für leichte Bewegung und willst es auch ohne Jacke tragen.",
+      "card_order": [
+        "B",
+        "G",
+        "C",
+        "D",
+        "E",
+        "F",
+        "H",
+        "A"
+      ],
+      "relative_order_wave02": [
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "A"
+      ]
+    },
+    {
+      "agent_id": 38,
+      "shopper_id": "p39",
+      "display_label": "Person 39",
+      "age": 37,
+      "residence": "Siegen",
+      "budget_eur": 65,
+      "profile": "Du bist 37 Jahre alt, wohnst in Siegen, Deutschland, und kaufst Herren-Langarmshirts online. Für dieses Shirt hast du dir ungefähr 65 € vorgenommen. Dir sind trocknende Stoffe wichtig, weil du beim Training schnell ins Schwitzen kommst.",
+      "card_order": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "H",
+        "E",
+        "F",
+        "G"
+      ],
+      "relative_order_wave02": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ]
+    },
+    {
+      "agent_id": 39,
+      "shopper_id": "p40",
+      "display_label": "Person 40",
+      "age": 34,
+      "residence": "Bochum",
+      "budget_eur": 45,
+      "profile": "Du bist 34 Jahre alt, wohnst in Bochum, Deutschland, und kaufst Herren-Langarmshirts online. Für dieses Shirt hast du dir ungefähr 45 € vorgenommen. Du möchtest ein Langarmshirt für Wochenendausflüge, das gut zu normalen Hosen passt.",
+      "card_order": [
+        "D",
+        "E",
+        "F",
+        "A",
+        "H",
+        "B",
+        "C",
+        "G"
+      ],
+      "relative_order_wave02": [
+        "D",
+        "E",
+        "F",
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "agent_id": 40,
+      "shopper_id": "p41",
+      "display_label": "Person 41",
+      "age": 54,
+      "residence": "Cottbus",
+      "budget_eur": 80,
+      "profile": "Du bist 54 Jahre alt, wohnst in Cottbus, Deutschland, und kaufst Herren-Langarmshirts online. Für dieses Shirt hast du dir ungefähr 80 € vorgenommen. Du kaufst ungern neue Kleidung und entscheidest dich nur, wenn Bedarf und Preis stimmen.",
+      "card_order": [
+        "A",
+        "B",
+        "G",
+        "C",
+        "H",
+        "D",
+        "E",
+        "F"
+      ],
+      "relative_order_wave02": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ]
+    },
+    {
+      "agent_id": 41,
+      "shopper_id": "p42",
+      "display_label": "Person 42",
+      "age": 48,
+      "residence": "Wiesbaden",
+      "budget_eur": 80,
+      "profile": "Du bist 48 Jahre alt, wohnst in Wiesbaden, Deutschland, und kaufst Herren-Langarmshirts online. Für dieses Shirt hast du dir ungefähr 80 € vorgenommen. Du magst Shirts mit schmalem Abschluss am Handgelenk und sichtbaren Details.",
+      "card_order": [
+        "G",
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "H"
+      ],
+      "relative_order_wave02": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ]
+    },
+    {
+      "agent_id": 42,
+      "shopper_id": "p43",
+      "display_label": "Person 43",
+      "age": 21,
+      "residence": "Dessau-Roßlau",
+      "budget_eur": 50,
+      "profile": "Du bist 21 Jahre alt, wohnst in Dessau-Roßlau, Deutschland, und kaufst Herren-Langarmshirts online. Für dieses Shirt hast du dir ungefähr 50 € vorgenommen. Du legst Wert auf einen lockeren Sitz, magst aber gerne schmale Ärmel.",
+      "card_order": [
+        "F",
+        "A",
+        "H",
+        "B",
+        "C",
+        "D",
+        "G",
+        "E"
+      ],
+      "relative_order_wave02": [
+        "F",
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "agent_id": 43,
+      "shopper_id": "p44",
+      "display_label": "Person 44",
+      "age": 59,
+      "residence": "Ravensburg",
+      "budget_eur": 35,
+      "profile": "Du bist 59 Jahre alt, wohnst in Ravensburg, Deutschland, und kaufst Herren-Langarmshirts online. Für dieses Shirt hast du dir ungefähr 35 € vorgenommen. Du bevorzugst schlichte Farben, interessierst dich aber für besondere Nähte und Details.",
+      "card_order": [
+        "A",
+        "B",
+        "H",
+        "G",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "relative_order_wave02": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ]
+    },
+    {
+      "agent_id": 44,
+      "shopper_id": "p45",
+      "display_label": "Person 45",
+      "age": 26,
+      "residence": "Friedrichshafen",
+      "budget_eur": 40,
+      "profile": "Du bist 26 Jahre alt, wohnst in Friedrichshafen, Deutschland, und kaufst Herren-Langarmshirts online. Für dieses Shirt hast du dir ungefähr 40 € vorgenommen. Du trägst funktionelle Oberteile im Fitnessstudio und bevorzugst körpernahe Passformen.",
+      "card_order": [
+        "C",
+        "H",
+        "G",
+        "D",
+        "E",
+        "F",
+        "A",
+        "B"
+      ],
+      "relative_order_wave02": [
+        "C",
+        "D",
+        "E",
+        "F",
+        "A",
+        "B"
+      ]
+    },
+    {
+      "agent_id": 45,
+      "shopper_id": "p46",
+      "display_label": "Person 46",
+      "age": 67,
+      "residence": "Schwerin",
+      "budget_eur": 70,
+      "profile": "Du bist 67 Jahre alt, wohnst in Schwerin, Deutschland, und kaufst Herren-Langarmshirts online. Für dieses Shirt hast du dir ungefähr 70 € vorgenommen. Du magst unkomplizierte Oberteile und beurteilst sie auch danach, wie vielseitig sie wirken.",
+      "card_order": [
+        "F",
+        "A",
+        "B",
+        "H",
+        "C",
+        "G",
+        "D",
+        "E"
+      ],
+      "relative_order_wave02": [
+        "F",
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "agent_id": 46,
+      "shopper_id": "p47",
+      "display_label": "Person 47",
+      "age": 32,
+      "residence": "Vechta",
+      "budget_eur": 40,
+      "profile": "Du bist 32 Jahre alt, wohnst in Vechta, Deutschland, und kaufst Herren-Langarmshirts online. Für dieses Shirt hast du dir ungefähr 40 € vorgenommen. Du willst ein Shirt für kühlere Tage und achtest auf Komfort am Hals und an den Bündchen.",
+      "card_order": [
+        "F",
+        "A",
+        "H",
+        "G",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "relative_order_wave02": [
+        "F",
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "agent_id": 47,
+      "shopper_id": "p48",
+      "display_label": "Person 48",
+      "age": 41,
+      "residence": "Marburg",
+      "budget_eur": 55,
+      "profile": "Du bist 41 Jahre alt, wohnst in Marburg, Deutschland, und kaufst Herren-Langarmshirts online. Für dieses Shirt hast du dir ungefähr 55 € vorgenommen. Du suchst ein Oberteil für Bewegung und möchtest kein großes Logo auf der Brust.",
+      "card_order": [
+        "C",
+        "G",
+        "D",
+        "H",
+        "E",
+        "F",
+        "A",
+        "B"
+      ],
+      "relative_order_wave02": [
+        "C",
+        "D",
+        "E",
+        "F",
+        "A",
+        "B"
+      ]
+    },
+    {
+      "agent_id": 48,
+      "shopper_id": "p49",
+      "display_label": "Person 49",
+      "age": 40,
+      "residence": "Reutlingen",
+      "budget_eur": 90,
+      "profile": "Du bist 40 Jahre alt, wohnst in Reutlingen, Deutschland, und kaufst Herren-Langarmshirts online. Für dieses Shirt hast du dir ungefähr 90 € vorgenommen. Du schätzt praktische Eigenschaften, hast aber keine feste Lieblingsmarke.",
+      "card_order": [
+        "G",
+        "E",
+        "F",
+        "A",
+        "B",
+        "C",
+        "D",
+        "H"
+      ],
+      "relative_order_wave02": [
+        "E",
+        "F",
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "agent_id": 49,
+      "shopper_id": "p50",
+      "display_label": "Person 50",
+      "age": 43,
+      "residence": "Ingolstadt",
+      "budget_eur": 60,
+      "profile": "Du bist 43 Jahre alt, wohnst in Ingolstadt, Deutschland, und kaufst Herren-Langarmshirts online. Für dieses Shirt hast du dir ungefähr 60 € vorgenommen. Dir gefallen klassische Schnitte mit klaren, sichtbaren Details am Stoff.",
+      "card_order": [
+        "E",
+        "F",
+        "A",
+        "B",
+        "H",
+        "C",
+        "G",
+        "D"
+      ],
+      "relative_order_wave02": [
+        "E",
+        "F",
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    }
+  ],
+  "moderator_agent_id": 50,
+  "turns_per_shopper": 3,
+  "images_delivered": false,
+  "seed_posts": 1,
+  "registered_at": "2026-11-25T15:17:08.801954",
+  "question": "Du suchst ein Herren-Langarmshirt für eine kurze Reise mit wenig Platz im Gepäck. Du möchtest es dabei auch bei ganz normalen Alltagsaktivitäten tragen. Welches dieser Angebote würdest du zum angezeigten Preis kaufen? Du kannst auch „Keines davon“ oder „Ich bin unentschieden“ wählen. Was hat für deine Entscheidung den Ausschlag gegeben?",
+  "rounds_completed": 3,
+  "completed_at": "2026-11-25T15:18:17.208000",
+  "round_summary": [
+    {
+      "round": 1,
+      "shoppers": 50,
+      "posts": 32,
+      "comments": 18
+    },
+    {
+      "round": 2,
+      "shoppers": 50,
+      "posts": 2,
+      "comments": 48
+    },
+    {
+      "round": 3,
+      "shoppers": 50,
+      "posts": 0,
+      "comments": 50
+    }
+  ],
+  "feed": {
+    "shoppers": 50,
+    "seed_posts": 1,
+    "shopper_posts": 34,
+    "shopper_comments": 116,
+    "comments_on_moderator_seed": 27,
+    "comments_on_other_shoppers_posts": 89,
+    "comments_on_own_post": 0,
+    "observations": 150,
+    "extra_actions": {
+      "like_post": 1
+    }
+  },
+  "final_interviews": {
+    "recorded": 50,
+    "identities_consistent": 50,
+    "choices": {
+      "B": 41,
+      "E": 2,
+      "C": 6,
+      "G": 1
+    },
+    "file": "final-interviews.jsonl"
+  }
+}

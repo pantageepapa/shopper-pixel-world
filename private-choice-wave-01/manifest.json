@@ -1,0 +1,424 @@
+{
+  "run_id": "private-choice-wave-01",
+  "state": "completed",
+  "created_at": "2026-11-25T10:22:02.444552+00:00",
+  "method": "MiroFish OASIS private batch interview with empty feed and zero feed rounds",
+  "input_format": "German text descriptions",
+  "terms": "Für alle vier Angebote gelten dieselben Kaufbedingungen. Du findest deine übliche Größe bei jedem Angebot. Die Standardlieferung innerhalb Deutschlands ist kostenlos und dauert 2–4 Werktage. Die Rückgabe ist innerhalb von 30 Tagen kostenlos. Verkäufer und Zahlungsarten sind identisch. Der angezeigte Preis ist der jeweilige Gesamtpreis.",
+  "question": "Du suchst ein leichtes Langarmshirt für den Arbeitsweg und den Alltag. Du siehst diese vier Angebote. Welches Shirt würdest du wählen? Du kannst auch „Keines“ oder „Unentschieden“ wählen. Nenne in ein bis zwei Sätzen den Hauptgrund für deine Wahl.",
+  "response_format": "Antworte auf Deutsch als JSON-Objekt mit den Feldern \"choice\" und \"reason\". Verwende für \"choice\" genau den in der Liste angezeigten Produktcode oder \"none\" für „Keines“ oder \"undecided\" für „Unentschieden“. Der Grund ist deine kurze persönliche Antwort.",
+  "products": [
+    {
+      "id": "A",
+      "name": "nozzle quiz Essential Kite L/S Tee",
+      "price_eur": 60.33,
+      "description": "Schiefergraues Rundhals-Langarmshirt für Arbeitsweg und Alltag, mit lockerem Schnitt und geradem Saum. 100 % recyceltes Polyester. Lange Raglanärmel mit Daumenöffnungen, kleine Tasche im unteren Rückenbereich. Der Anbieter beschreibt das Material als schnelltrocknend.",
+      "source": "https://www.nozzle-quiz.com/en/products/fi-gmtl01sb"
+    },
+    {
+      "id": "B",
+      "name": "Jack Wolfskin Prelight Crew",
+      "price_eur": 42.5,
+      "description": "Schwarzes Rundhals-Langarmshirt fürs Wandern, mit regulärer Passform und geradem Schnitt. Oberstoff aus 84 % Polyester und 16 % Elasthan. Raglanärmel und linke Brusttasche mit senkrechtem Reißverschluss und hellem Logo. Der Anbieter beschreibt es als atmungsaktiv, feuchtigkeitsableitend und schnelltrocknend.",
+      "source": "https://en.zalando.de/jack-wolfskin-long-sleeved-top-black-ja442d06n-q11.html"
+    },
+    {
+      "id": "C",
+      "name": "Odlo Zeroweight Chill-Tec Crew Neck L/S",
+      "price_eur": 54.0,
+      "description": "Schwarzes Rundhals-Langarmshirt fürs Laufen, mit regulärer Passform und geradem Schnitt. Jersey-Oberstoff aus 100 % Polyester. Kleines dunkelgraues Logo links auf der Brust und ein seitlicher Streifen mit kleinen Öffnungen. Der Anbieter beschreibt es als atmungsaktiv, feuchtigkeitsableitend und schnelltrocknend und nennt reflektierende Details.",
+      "source": "https://en.zalando.de/odlo-long-sleeved-top-black-od142d0b7-q11.html"
+    },
+    {
+      "id": "D",
+      "name": "Patagonia P-6 Logo Responsibili-Tee",
+      "price_eur": 59.95,
+      "description": "Schwarzes Rundhals-Langarmshirt mit regulärer, etwas weiterer Passform und gerippten Ärmelbündchen. Jersey aus 50 % recycelter Baumwolle und 50 % recyceltem Polyester. Kleiner weißer Schriftzug links auf der Brust und großer, mehrfarbiger Bergaufdruck mit Schriftzug oben auf dem Rücken.",
+      "source": "https://eu.patagonia.com/ee/en/product/mens-long-sleeved-p-6-logo-responsibili-tee/38518.html?dwvar_38518_color=BLK"
+    }
+  ],
+  "shoppers": [
+    {
+      "agent_id": 0,
+      "shopper_id": "p01",
+      "display_label": "Person 01",
+      "age": 19,
+      "residence": "Leipzig",
+      "budget_eur": 45,
+      "profile": "Du bist 19 Jahre alt, wohnst in Leipzig, Deutschland, und kaufst Herren-Langarmshirts online. Dein persönlicher Preisrahmen für dieses Oberteil liegt bei höchstens 45 €. Dein Einkaufsprofil: Ausbildung, fährt mit der Straßenbahn, sucht ein schlichtes Oberteil zum täglichen Wechseln.",
+      "card_order": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "agent_id": 1,
+      "shopper_id": "p02",
+      "display_label": "Person 02",
+      "age": 25,
+      "residence": "Kassel",
+      "budget_eur": 55,
+      "profile": "Du bist 25 Jahre alt, wohnst in Kassel, Deutschland, und kaufst Herren-Langarmshirts online. Dein persönlicher Preisrahmen für dieses Oberteil liegt bei höchstens 55 €. Dein Einkaufsprofil: Arbeitet im Kundenservice, geht viel zu Fuß und möchte nach dem Weg ins Büro nicht lange in feuchter Kleidung sitzen.",
+      "card_order": [
+        "B",
+        "C",
+        "D",
+        "A"
+      ]
+    },
+    {
+      "agent_id": 2,
+      "shopper_id": "p03",
+      "display_label": "Person 03",
+      "age": 32,
+      "residence": "Hamburg",
+      "budget_eur": 65,
+      "profile": "Du bist 32 Jahre alt, wohnst in Hamburg, Deutschland, und kaufst Herren-Langarmshirts online. Dein persönlicher Preisrahmen für dieses Oberteil liegt bei höchstens 65 €. Dein Einkaufsprofil: Fährt bei wechselndem Wetter mit dem Rad zur Arbeit, trägt gern eine dünne Schicht unter der Jacke.",
+      "card_order": [
+        "C",
+        "D",
+        "A",
+        "B"
+      ]
+    },
+    {
+      "agent_id": 3,
+      "shopper_id": "p04",
+      "display_label": "Person 04",
+      "age": 41,
+      "residence": "Nürnberg",
+      "budget_eur": 85,
+      "profile": "Du bist 41 Jahre alt, wohnst in Nürnberg, Deutschland, und kaufst Herren-Langarmshirts online. Dein persönlicher Preisrahmen für dieses Oberteil liegt bei höchstens 85 €. Dein Einkaufsprofil: Arbeitet im Büro und sucht ein Oberteil, das auch nach Feierabend beim Spaziergang passt.",
+      "card_order": [
+        "D",
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "agent_id": 4,
+      "shopper_id": "p05",
+      "display_label": "Person 05",
+      "age": 23,
+      "residence": "Kiel",
+      "budget_eur": 45,
+      "profile": "Du bist 23 Jahre alt, wohnst in Kiel, Deutschland, und kaufst Herren-Langarmshirts online. Dein persönlicher Preisrahmen für dieses Oberteil liegt bei höchstens 45 €. Dein Einkaufsprofil: Studiert, fährt mit dem Bus und braucht ein pflegeleichtes Oberteil für Vorlesungen und Erledigungen.",
+      "card_order": [
+        "B",
+        "C",
+        "D",
+        "A"
+      ]
+    },
+    {
+      "agent_id": 5,
+      "shopper_id": "p06",
+      "display_label": "Person 06",
+      "age": 36,
+      "residence": "Duisburg",
+      "budget_eur": 55,
+      "profile": "Du bist 36 Jahre alt, wohnst in Duisburg, Deutschland, und kaufst Herren-Langarmshirts online. Dein persönlicher Preisrahmen für dieses Oberteil liegt bei höchstens 55 €. Dein Einkaufsprofil: Arbeitet in wechselnden Schichten, geht in der Pause spazieren und bevorzugt einen geraden Schnitt.",
+      "card_order": [
+        "C",
+        "D",
+        "A",
+        "B"
+      ]
+    },
+    {
+      "agent_id": 6,
+      "shopper_id": "p07",
+      "display_label": "Person 07",
+      "age": 48,
+      "residence": "Ulm",
+      "budget_eur": 65,
+      "profile": "Du bist 48 Jahre alt, wohnst in Ulm, Deutschland, und kaufst Herren-Langarmshirts online. Dein persönlicher Preisrahmen für dieses Oberteil liegt bei höchstens 65 €. Dein Einkaufsprofil: Pendelt mit dem Zug und trägt das Oberteil auch auf Reisen, wo Stauraum nützlich sein kann.",
+      "card_order": [
+        "D",
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "agent_id": 7,
+      "shopper_id": "p08",
+      "display_label": "Person 08",
+      "age": 57,
+      "residence": "Freiburg",
+      "budget_eur": 85,
+      "profile": "Du bist 57 Jahre alt, wohnst in Freiburg, Deutschland, und kaufst Herren-Langarmshirts online. Dein persönlicher Preisrahmen für dieses Oberteil liegt bei höchstens 85 €. Dein Einkaufsprofil: Arbeitet Teilzeit, unternimmt Wochenendwanderungen und achtet auf Bewegungsfreiheit.",
+      "card_order": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "agent_id": 8,
+      "shopper_id": "p09",
+      "display_label": "Person 09",
+      "age": 29,
+      "residence": "Erfurt",
+      "budget_eur": 45,
+      "profile": "Du bist 29 Jahre alt, wohnst in Erfurt, Deutschland, und kaufst Herren-Langarmshirts online. Dein persönlicher Preisrahmen für dieses Oberteil liegt bei höchstens 45 €. Dein Einkaufsprofil: Arbeitet im Einzelhandel, kauft Kleidung selten online und bevorzugt vertraute Schnitte.",
+      "card_order": [
+        "C",
+        "D",
+        "A",
+        "B"
+      ]
+    },
+    {
+      "agent_id": 9,
+      "shopper_id": "p10",
+      "display_label": "Person 10",
+      "age": 44,
+      "residence": "Potsdam",
+      "budget_eur": 55,
+      "profile": "Du bist 44 Jahre alt, wohnst in Potsdam, Deutschland, und kaufst Herren-Langarmshirts online. Dein persönlicher Preisrahmen für dieses Oberteil liegt bei höchstens 55 €. Dein Einkaufsprofil: Arbeitet viel am Schreibtisch und sucht ein alltagstaugliches Oberteil zum Schichten.",
+      "card_order": [
+        "D",
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "agent_id": 10,
+      "shopper_id": "p11",
+      "display_label": "Person 11",
+      "age": 53,
+      "residence": "Bonn",
+      "budget_eur": 65,
+      "profile": "Du bist 53 Jahre alt, wohnst in Bonn, Deutschland, und kaufst Herren-Langarmshirts online. Dein persönlicher Preisrahmen für dieses Oberteil liegt bei höchstens 65 €. Dein Einkaufsprofil: Fährt regelmäßig Fahrrad und legt Wert auf schnelles Trocknen und unkomplizierte Pflege.",
+      "card_order": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "agent_id": 11,
+      "shopper_id": "p12",
+      "display_label": "Person 12",
+      "age": 63,
+      "residence": "Münster",
+      "budget_eur": 85,
+      "profile": "Du bist 63 Jahre alt, wohnst in Münster, Deutschland, und kaufst Herren-Langarmshirts online. Dein persönlicher Preisrahmen für dieses Oberteil liegt bei höchstens 85 €. Dein Einkaufsprofil: Wohnt in Stadtnähe und sucht für Spaziergänge und Besuche etwas bequem Fallendes.",
+      "card_order": [
+        "B",
+        "C",
+        "D",
+        "A"
+      ]
+    },
+    {
+      "agent_id": 12,
+      "shopper_id": "p13",
+      "display_label": "Person 13",
+      "age": 31,
+      "residence": "Augsburg",
+      "budget_eur": 45,
+      "profile": "Du bist 31 Jahre alt, wohnst in Augsburg, Deutschland, und kaufst Herren-Langarmshirts online. Dein persönlicher Preisrahmen für dieses Oberteil liegt bei höchstens 45 €. Dein Einkaufsprofil: Arbeitet im Lager und sucht ein unkompliziertes Langarmshirt für Arbeitsweg und Wochenende.",
+      "card_order": [
+        "D",
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "agent_id": 13,
+      "shopper_id": "p14",
+      "display_label": "Person 14",
+      "age": 38,
+      "residence": "Rostock",
+      "budget_eur": 55,
+      "profile": "Du bist 38 Jahre alt, wohnst in Rostock, Deutschland, und kaufst Herren-Langarmshirts online. Dein persönlicher Preisrahmen für dieses Oberteil liegt bei höchstens 55 €. Dein Einkaufsprofil: Macht nach der Arbeit kurze Laufrunden und möchte das Oberteil auch auf dem Weg zur Arbeit tragen.",
+      "card_order": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "agent_id": 14,
+      "shopper_id": "p15",
+      "display_label": "Person 15",
+      "age": 58,
+      "residence": "Mainz",
+      "budget_eur": 65,
+      "profile": "Du bist 58 Jahre alt, wohnst in Mainz, Deutschland, und kaufst Herren-Langarmshirts online. Dein persönlicher Preisrahmen für dieses Oberteil liegt bei höchstens 65 €. Dein Einkaufsprofil: Trägt tagsüber gern Baumwollmischungen und sucht ein Oberteil für Erledigungen und Treffen.",
+      "card_order": [
+        "B",
+        "C",
+        "D",
+        "A"
+      ]
+    },
+    {
+      "agent_id": 15,
+      "shopper_id": "p16",
+      "display_label": "Person 16",
+      "age": 72,
+      "residence": "Bamberg",
+      "budget_eur": 85,
+      "profile": "Du bist 72 Jahre alt, wohnst in Bamberg, Deutschland, und kaufst Herren-Langarmshirts online. Dein persönlicher Preisrahmen für dieses Oberteil liegt bei höchstens 85 €. Dein Einkaufsprofil: Im Ruhestand, viel zu Fuß unterwegs und bevorzugt einen weichen Stoff und unkomplizierte Handhabung.",
+      "card_order": [
+        "C",
+        "D",
+        "A",
+        "B"
+      ]
+    },
+    {
+      "agent_id": 16,
+      "shopper_id": "p17",
+      "display_label": "Person 17",
+      "age": 46,
+      "residence": "Magdeburg",
+      "budget_eur": 45,
+      "profile": "Du bist 46 Jahre alt, wohnst in Magdeburg, Deutschland, und kaufst Herren-Langarmshirts online. Dein persönlicher Preisrahmen für dieses Oberteil liegt bei höchstens 45 €. Dein Einkaufsprofil: Arbeitet im Handwerk, kauft bewusst preislich und möchte das Oberteil oft waschen können.",
+      "card_order": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "agent_id": 17,
+      "shopper_id": "p18",
+      "display_label": "Person 18",
+      "age": 52,
+      "residence": "Bielefeld",
+      "budget_eur": 55,
+      "profile": "Du bist 52 Jahre alt, wohnst in Bielefeld, Deutschland, und kaufst Herren-Langarmshirts online. Dein persönlicher Preisrahmen für dieses Oberteil liegt bei höchstens 55 €. Dein Einkaufsprofil: Fährt mit dem Bus zur Arbeit, kombiniert das Oberteil mit Jeans und mag kleine Logos.",
+      "card_order": [
+        "B",
+        "C",
+        "D",
+        "A"
+      ]
+    },
+    {
+      "agent_id": 18,
+      "shopper_id": "p19",
+      "display_label": "Person 19",
+      "age": 62,
+      "residence": "Flensburg",
+      "budget_eur": 65,
+      "profile": "Du bist 62 Jahre alt, wohnst in Flensburg, Deutschland, und kaufst Herren-Langarmshirts online. Dein persönlicher Preisrahmen für dieses Oberteil liegt bei höchstens 65 €. Dein Einkaufsprofil: Arbeitet Teilzeit und geht an kühlen Tagen gern am Wasser spazieren, oft mit einer zusätzlichen Jacke.",
+      "card_order": [
+        "C",
+        "D",
+        "A",
+        "B"
+      ]
+    },
+    {
+      "agent_id": 19,
+      "shopper_id": "p20",
+      "display_label": "Person 20",
+      "age": 69,
+      "residence": "Trier",
+      "budget_eur": 85,
+      "profile": "Du bist 69 Jahre alt, wohnst in Trier, Deutschland, und kaufst Herren-Langarmshirts online. Dein persönlicher Preisrahmen für dieses Oberteil liegt bei höchstens 85 €. Dein Einkaufsprofil: Im Ruhestand, mischt Alltag und leichte Ausflüge und achtet bei Neukäufen auf Stoffzusammensetzung.",
+      "card_order": [
+        "D",
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "agent_id": 20,
+      "shopper_id": "p21",
+      "display_label": "Person 21",
+      "age": 39,
+      "residence": "Berlin",
+      "budget_eur": 45,
+      "profile": "Du bist 39 Jahre alt, wohnst in Berlin, Deutschland, und kaufst Herren-Langarmshirts online. Dein persönlicher Preisrahmen für dieses Oberteil liegt bei höchstens 45 €. Dein Einkaufsprofil: Arbeitet im Bildungsbereich, pendelt mit der U-Bahn und sucht ein Oberteil für mehrere Tage pro Woche.",
+      "card_order": [
+        "B",
+        "C",
+        "D",
+        "A"
+      ]
+    },
+    {
+      "agent_id": 21,
+      "shopper_id": "p22",
+      "display_label": "Person 22",
+      "age": 61,
+      "residence": "Paderborn",
+      "budget_eur": 55,
+      "profile": "Du bist 61 Jahre alt, wohnst in Paderborn, Deutschland, und kaufst Herren-Langarmshirts online. Dein persönlicher Preisrahmen für dieses Oberteil liegt bei höchstens 55 €. Dein Einkaufsprofil: Arbeitet in der Verwaltung und legt bei Kleidung Wert auf einfache Pflege und bekannte Passformen.",
+      "card_order": [
+        "C",
+        "D",
+        "A",
+        "B"
+      ]
+    },
+    {
+      "agent_id": 22,
+      "shopper_id": "p23",
+      "display_label": "Person 23",
+      "age": 67,
+      "residence": "Regensburg",
+      "budget_eur": 65,
+      "profile": "Du bist 67 Jahre alt, wohnst in Regensburg, Deutschland, und kaufst Herren-Langarmshirts online. Dein persönlicher Preisrahmen für dieses Oberteil liegt bei höchstens 65 €. Dein Einkaufsprofil: Im Ruhestand, geht zügig spazieren und bevorzugt Oberteile, in denen die Arme frei beweglich sind.",
+      "card_order": [
+        "D",
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "agent_id": 23,
+      "shopper_id": "p24",
+      "display_label": "Person 24",
+      "age": 75,
+      "residence": "Lübeck",
+      "budget_eur": 85,
+      "profile": "Du bist 75 Jahre alt, wohnst in Lübeck, Deutschland, und kaufst Herren-Langarmshirts online. Dein persönlicher Preisrahmen für dieses Oberteil liegt bei höchstens 85 €. Dein Einkaufsprofil: Im Ruhestand, sucht ein Oberteil für Ausflüge und den Alltag und hat bei Bedarf Spielraum für einen höheren Preis.",
+      "card_order": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    }
+  ],
+  "caveats": [
+    "Synthetic profiles and budget caps, not based on GDP or estimated from population data.",
+    "Scenario prices are the frozen study-card snapshots.",
+    "Size availability and checkout terms were equal scenario assumptions."
+  ],
+  "finished_at": "2026-11-25T11:22:18.975884",
+  "api_model": "gpt-4.1-mini",
+  "response_file": "responses.jsonl",
+  "artifact_verification": {
+    "expected_shoppers": 24,
+    "recorded_interviews": 24,
+    "accepted": 24,
+    "invalid": 0,
+    "feed_posts": 0,
+    "feed_comments": 0,
+    "card_orders": {
+      "ABCD": 6,
+      "BCDA": 6,
+      "CDAB": 6,
+      "DABC": 6
+    }
+  }
+}

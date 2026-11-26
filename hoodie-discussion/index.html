@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#f5f1eb">
+  <title>Schwarze Hoodies · Simulierte Diskussion</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main>
+    <header>
+      <a id="replay-link" href="../shopper-viewer/?wave=11">← Zum Einkaufsreplay</a>
+      <h1 id="case-heading">Diskussion über schwarze Hoodies</h1>
+      <p>Beiträge und Antworten simulierter Personen aus der MiroFish-Reddit-Simulation.</p>
+    </header>
+    <section class="summary" aria-label="Simulationsfortschritt">
+      <div>
+        <strong id="status" role="status">Warte auf Simulationsdaten</strong>
+        <p id="progress-label" class="muted">0 von 3 Runden abgeschlossen</p>
+        <progress id="progress" max="3" value="0" aria-label="Abgeschlossene Runden"></progress>
+        <a id="stock-monitor" href="http://127.0.0.1:3000/simulation/sim_934d7d3cd4ce/start?monitor=1&amp;maxRounds=3">MiroFish-Monitor</a>
+      </div>
+      <dl>
+        <div><dt>Beiträge inkl. Start</dt><dd id="post-count">0</dd></div>
+        <div><dt>Antworten</dt><dd id="comment-count">0</dd></div>
+      </dl>
+    </section>
+    <section class="transcript" aria-labelledby="thread-title">
+      <div class="toolbar">
+        <h2 id="thread-title">Gesprächsverlauf</h2>
+        <label for="round-filter">Runde
+          <select id="round-filter">
+            <option value="">Alle</option>
+            <option value="0">Startbeiträge</option>
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+          </select>
+        </label>
+      </div>
+      <p id="thread-filter" class="muted" hidden>Einzelner Gesprächsfaden <a id="all-threads" href="./">Alle Beiträge anzeigen</a></p>
+      <p id="notice" class="muted">Die ersten Beiträge erscheinen hier, sobald sie gespeichert sind.</p>
+      <ol id="entries"></ol>
+    </section>
+  </main>
+  <script type="module" src="app.js?v=2"></script>
+</body>
+</html>

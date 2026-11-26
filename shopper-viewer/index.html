@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#f8f5ed">
+  <title>Einkaufsstudie · Interaktive Ansicht</title>
+  <link rel="stylesheet" href="style.css?v=social-replay-4">
+</head>
+<body>
+  <main id="game" aria-label="Interaktive Einkaufsstudie">
+    <section class="stage" id="stage" aria-label="Platz mit Produkten und simulierten Personen">
+      <div class="camera" id="camera">
+        <div class="map" id="map">
+          <canvas id="scene" aria-hidden="true"></canvas>
+          <div id="shops" class="shops"></div>
+          <div id="people" class="people"></div>
+          <div id="outcome-groups" class="outcome-groups"></div>
+          <div id="player" class="player" role="img" aria-label="Du, die Besucherfigur">
+            <span id="visitor-label">DU</span><canvas width="42" height="44" aria-hidden="true"></canvas>
+          </div>
+        </div>
+      </div>
+      <button id="nearby" class="nearby" type="button" hidden></button>
+      <section id="dialogue" class="dialogue" role="dialog" aria-modal="false" aria-labelledby="person-heading" hidden>
+        <div id="bubble" class="bubble">
+          <h2 id="person-heading"></h2>
+          <p id="person-outcome"></p>
+          <div id="answer" aria-live="polite" aria-atomic="true"></div>
+        </div>
+        <div id="questions" class="questions" role="group" aria-label="Frage wählen">
+          <button type="button" data-question="reason"><kbd>1</kbd> <span id="question-reason">Warum diese Wahl?</span></button>
+          <button type="button" data-question="profile"><kbd>2</kbd> <span id="question-profile">Einkaufsprofil</span></button>
+          <button type="button" data-question="discussion" hidden><kbd>3</kbd> <span id="question-discussion">Diskussion</span></button>
+          <button id="close" type="button" aria-label="Gespräch schließen"><kbd>X</kbd> <span id="close-label">Schließen</span></button>
+        </div>
+      </section>
+      <div class="dpad" aria-label="Besucherfigur bewegen">
+        <button type="button" data-key="ArrowUp" aria-label="Nach oben">↑</button>
+        <button type="button" data-key="ArrowLeft" aria-label="Nach links">←</button>
+        <button type="button" data-key="ArrowDown" aria-label="Nach unten">↓</button>
+        <button type="button" data-key="ArrowRight" aria-label="Nach rechts">→</button>
+      </div>
+      <div class="browse-controls" id="browse-controls">
+        <div class="simulation-control">
+          <label for="simulation-picker" id="simulation-label">Simulation</label>
+          <select id="simulation-picker"></select>
+        </div>
+        <label for="shopper-picker" id="picker-label" class="sr-only">Person wählen</label>
+        <select id="shopper-picker" hidden></select>
+      </div>
+      <fieldset class="languages" id="languages">
+        <legend id="language-label" class="sr-only">Sprache</legend>
+        <button type="button" data-language="de" lang="de">DE</button>
+        <button type="button" data-language="zh-TW" lang="zh-TW">繁體中文</button>
+        <button type="button" data-language="ko" lang="ko">한국어</button>
+      </fieldset>
+      <aside id="social-note" class="social-note" hidden><span id="social-disclaimer"></span> <a id="social-transcript" href="../hoodie-discussion/"></a> <a id="social-monitor"></a></aside>
+      <p id="error" role="alert" hidden>Die gespeicherten Antworten konnten nicht geladen werden.</p>
+    </section>
+    <dialog id="product-dialog" class="product-dialog" aria-labelledby="product-dialog-name">
+      <h2 id="product-dialog-name"></h2>
+      <img id="product-dialog-photo" alt="">
+      <div id="product-dialog-views" class="product-dialog-views" role="group" hidden></div>
+      <form method="dialog"><button type="submit" autofocus>Schließen</button></form>
+    </dialog>
+    <footer class="status">
+      <p class="keyboard-help"><kbd>↑</kbd><kbd>←</kbd><kbd>↓</kbd><kbd>→</kbd> <span id="move-label">Gehen</span> <span><kbd>E</kbd> <span id="talk-label">Sprechen</span></span></p>
+      <p class="touch-help" id="touch-label">Tippe auf eine Person, um mit ihr zu sprechen.</p>
+      <p><span id="run"></span> <a href="../private-choice-wave-01/results.md" id="method-label">Studie und Methodik</a></p>
+    </footer>
+  </main>
+  <script type="module" src="app.js?v=social-replay-4"></script>
+</body>
+</html>

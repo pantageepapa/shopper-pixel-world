@@ -1,0 +1,1112 @@
+{
+  "system": "Du nimmst als die im Profil beschriebene Person an einem privaten Einkaufsszenario teil. Antworte auf Deutsch aus ihrer Sicht. Halte dich an die Angaben im Profil und an die angezeigten Informationen. Behandle fehlende Angaben als unbekannt. Andere Personen, ihre Antworten und frühere Ergebnisse stehen dir nicht zur Verfügung. Gib genau eine Kaufentscheidung zu den angezeigten Angeboten ab und nenne kurz deinen Grund dafür.",
+  "terms": "Bei jedem Angebot ist deine übliche Größe verfügbar. Die Lieferung und die Rückgabe sind kostenlos. Die Kaufbedingungen sind bei allen Angeboten gleich. Die angezeigten Preise sind die jeweiligen Gesamtpreise.",
+  "products": [
+    {
+      "id": "A",
+      "name": "nozzle quiz Octa® Ninja Hoodie",
+      "color": "Schwarz",
+      "price_eur": 115.92,
+      "sku": "FI-GMTL02KK",
+      "source": "https://www.nozzle-quiz.com/zh-hant/products/fi-gmtl02kk",
+      "comparison_group": "target",
+      "alt": "nozzle quiz Octa® Ninja Hoodie: Von vorn am Model mit hochgezogener Kapuze vor dunklen Felsen.",
+      "photos": [
+        {
+          "view": "worn",
+          "photo_file": "photos/A-worn.jpg",
+          "photo_sha256": "b9088717a368230de88aa60cece30f4a5882438d23ed4141f9b5e0fe20aa79c0",
+          "photo_bytes": 3514405,
+          "source": "https://shoplineimg.com/583ae8e561706917992f1a00/6ae047c7999e4400141c8e6c/800x.jpg",
+          "alt": "nozzle quiz Octa® Ninja Hoodie: Von vorn am Model mit hochgezogener Kapuze vor dunklen Felsen."
+        },
+        {
+          "view": "back",
+          "photo_file": "photos/A-back.jpg",
+          "photo_sha256": "7a536261e3655e1a27e994f5d6bb739b7541c761d74e6b04c6aa952416d19362",
+          "photo_bytes": 3495479,
+          "source": "https://shoplineimg.com/583ae8e561706917992f1a00/6ae047c7e9de0300134bed89/800x.jpg",
+          "alt": "nozzle quiz Octa® Ninja Hoodie: Am Model von hinten vor dunklen Felsen."
+        },
+        {
+          "view": "detail",
+          "photo_file": "photos/A-detail.jpg",
+          "photo_sha256": "796eaa4f95390d8947433431ce790b5d00de1387bcee8b915b4a2d5108bf49de",
+          "photo_bytes": 2512877,
+          "source": "https://shoplineimg.com/583ae8e561706917992f1a00/6acf1f4e28d08a8c2da51c3a/800x.jpg",
+          "alt": "nozzle quiz Octa® Ninja Hoodie: Nahaufnahme von Kapuzenöffnung, Stoffstruktur und Zugkordeln."
+        }
+      ],
+      "description": "Schnitt und Kapuze: Weiter Kapuzenpullover mit langen, zu den Bündchen hin schmaler werdenden Ärmeln. Die Kapuze umschließt seitlich das Gesicht, läuft am Kinn hoch und hat zwei dünne Zugkordeln.\nOberfläche und Details: Schwarzer Stoff mit feinem Flor und sichtbarer Gitterstruktur. Vorn sitzen tiefe, schräge Tascheneingriffe, seitlich am Saum ein Kordelstopper. Auf dem Rücken verlaufen eine gebogene Quernaht und zwei Falten.\nMaterial und Angaben des Anbieters: Laut Materialtabelle 100 % Polyester. nozzle quiz nennt 85 g/m² für das Octa-Gewebe und 198 g für den Hoodie und beschreibt den Stoff als luftig und wärmeregulierend.\nStileindruck: Breite, weitgehend einfarbige Silhouette mit deutlich gefasster Kapuze und schrägen Tascheneingriffen.",
+      "price_evidence": "Official merchant EUR display, €115.92; see archived hoodie-study/merchant-price-evidence.json. Delivered price was not verified.",
+      "price": "115,92 €",
+      "photo_file": "photos/A-worn.jpg",
+      "photo_sha256": "b9088717a368230de88aa60cece30f4a5882438d23ed4141f9b5e0fe20aa79c0",
+      "photo_bytes": 3514405
+    },
+    {
+      "id": "B",
+      "name": "Puma Hoodie",
+      "color": "Schwarz",
+      "price_eur": 119.95,
+      "sku": "PU122S0VB-Q11",
+      "source": "https://en.zalando.de/puma-sweatshirt-black-pu122s0vb-q11.html",
+      "comparison_group": "direct",
+      "alt": "Puma Hoodie: Vorderansicht am Model mit sichtbaren Nadelstreifen und Brustzeichen.",
+      "photos": [
+        {
+          "view": "worn",
+          "photo_file": "photos/B-worn.jpg",
+          "photo_sha256": "97313b3e7fb28c78b950e98902c40e0344781c44e9d7e217dd068c2f3ace92f5",
+          "photo_bytes": 84957,
+          "source": "https://img01.ztat.net/article/spp-media-p1/a09372532f524e1e8dee98c8ec26bd73/8580fdaf7db64b579798ec786baa19d3.jpg?imwidth=800",
+          "alt": "Puma Hoodie: Vorderansicht am Model mit sichtbaren Nadelstreifen und Brustzeichen."
+        },
+        {
+          "view": "back",
+          "photo_file": "photos/B-back.jpg",
+          "photo_sha256": "777c8f23ad9786a22b5563a273f3318e10a5a27df42069524063037b7f9f1468",
+          "photo_bytes": 77119,
+          "source": "https://img01.ztat.net/article/spp-media-p1/70bf265b431249afad67f027c1f0f557/aafc6283f2fe49e6a24626f41e91367c.jpg?imwidth=800",
+          "alt": "Puma Hoodie: Schräge Rückenansicht am Model mit sichtbaren Nadelstreifen."
+        },
+        {
+          "view": "detail",
+          "photo_file": "photos/B-detail.jpg",
+          "photo_sha256": "8eef27cd89eb2e8ae0e8cb62ed16560d1f803c12d28b804391106ce4478259b7",
+          "photo_bytes": 109897,
+          "source": "https://img01.ztat.net/article/spp-media-p1/55f71be68b74474a97bb0b2f378e165e/d2f502439b2142e1a7737f73d9ae75fc.jpg?imwidth=800",
+          "alt": "Puma Hoodie: Nähere Aufnahme von Kapuze, Brustzeichen und gestreiftem Stoff."
+        }
+      ],
+      "description": "Schnitt und Kapuze: Gerader Kapuzenpullover mit regulärer Passform und langen Ärmeln. Die Kapuze liegt locker am Hals und lässt sich hochziehen. Der Pullover hat keinen Frontreißverschluss.\nOberfläche und Details: Schwarzer Sweatstoff mit feinen hellen Längsstreifen. Vorn sitzen eine Kängurutasche, ein kleines weißes Puma-Zeichen und ein gelbes Schildmotiv. Saum und Ärmel schließen mit dunklen Bündchen ab.\nMaterial und Angaben des Anbieters: 67 % Baumwolle, 33 % Polyester, Sweatstoff. Zalando ordnet den Hoodie dem Motorsport zu und nennt Schonwäsche bei 30 °C.\nStileindruck: Sportlicher Look mit feinen Längslinien und kleinem gelbem Farbakzent auf der Brust.",
+      "price_evidence": "German Zalando PDP and query grid capture, €119.95 VAT included. Page 6, tile 24; see black-hoodie-search-review/search-evidence.json.",
+      "price": "119,95 €",
+      "photo_file": "photos/B-worn.jpg",
+      "photo_sha256": "97313b3e7fb28c78b950e98902c40e0344781c44e9d7e217dd068c2f3ace92f5",
+      "photo_bytes": 84957
+    },
+    {
+      "id": "C",
+      "name": "Carhartt WIP Hooded Painter Jacket",
+      "color": "Schwarz",
+      "price_eur": 127.95,
+      "sku": "C1422S0MA-Q11",
+      "source": "https://en.zalando.de/carhartt-wip-hooded-painter-jacket-hoodie-black-c1422s0ma-q11.html",
+      "comparison_group": "direct",
+      "alt": "Carhartt WIP Hooded Painter Jacket: Vorderansicht am Model mit durchgehendem Reißverschluss.",
+      "photos": [
+        {
+          "view": "worn",
+          "photo_file": "photos/C-worn.jpg",
+          "photo_sha256": "2d655b2e9806a5a0837c590569baee0bfda2989e45fd82c4705031d1ed21c92e",
+          "photo_bytes": 69380,
+          "source": "https://img01.ztat.net/article/spp-media-p1/565e0d3ce5cb474592222c3f6ddc6ea7/ab1f55e4d4534e0ca102d881b4fe0cf5.jpg?imwidth=800",
+          "alt": "Carhartt WIP Hooded Painter Jacket: Vorderansicht am Model mit durchgehendem Reißverschluss."
+        },
+        {
+          "view": "back",
+          "photo_file": "photos/C-back.jpg",
+          "photo_sha256": "626ff128a7ba637a8f19085f548e2de7bdd5c4656e25d91fe64bdbafa062afb3",
+          "photo_bytes": 62682,
+          "source": "https://img01.ztat.net/article/spp-media-p1/a7254912a7be4f5a8fbeb687969cb3bd/5d33553f23064c03bc67741daa8306d3.jpg?imwidth=800",
+          "alt": "Carhartt WIP Hooded Painter Jacket: Rückenansicht am Model mit herabhängender Kapuze."
+        },
+        {
+          "view": "detail",
+          "photo_file": "photos/C-detail.jpg",
+          "photo_sha256": "d412d4ee325a684ebf1382625ae78b090855e2114e9d2a379eb70f4688c07c28",
+          "photo_bytes": 116189,
+          "source": "https://img01.ztat.net/article/spp-media-p1/985565798e0b499da30dccb25532318a/f17cd667162b431fb997ee57148bf3a2.jpg?imwidth=800",
+          "alt": "Carhartt WIP Hooded Painter Jacket: Nahaufnahme von Reißverschluss, Kapuze und kleinem Brustschriftzug."
+        }
+      ],
+      "description": "Schnitt und Kapuze: Locker und gerade geschnittene Kapuzenjacke mit langen Ärmeln und durchgehendem Frontreißverschluss. Die zweilagig wirkende Kapuze sitzt offen am Hals und hat Zugkordeln.\nOberfläche und Details: Schwarzer Sweatstoff mit geteilten Vordertaschen und kleinem hellem Schriftzug auf der Brust. Auf den Fotos sind kleine helle Sprenkel auf dem dunklen Stoff zu sehen. Saum und Ärmel schließen mit dunklen Bündchen ab.\nMaterial und Angaben des Anbieters: 100 % Baumwolle, Sweatstoff. Zalando nennt eine weiche Innenseite und Maschinenwäsche bei 30 °C.\nStileindruck: Lässige, dunkle Arbeitskleidungsoptik mit schmalem Brustschriftzug und sichtbarer senkrechter Reißverschlusslinie.",
+      "price_evidence": "German Zalando PDP and query grid capture, €127.95 VAT included. Page 6, tile 34; see black-hoodie-search-review/search-evidence.json.",
+      "price": "127,95 €",
+      "photo_file": "photos/C-worn.jpg",
+      "photo_sha256": "2d655b2e9806a5a0837c590569baee0bfda2989e45fd82c4705031d1ed21c92e",
+      "photo_bytes": 69380
+    },
+    {
+      "id": "D",
+      "name": "Mira Paris Moon Embroidery Boxy Fit Oversized Hoodie",
+      "color": "Schwarz",
+      "price_eur": 119.9,
+      "sku": "M9A2101CA-Q11",
+      "source": "https://en.zalando.de/mira-paris-moon-embroidery-boxy-fit-oversized-hoodie-unisex-hoodie-black-m9a2101ca-q11.html",
+      "comparison_group": "direct",
+      "alt": "Mira Paris Moon Embroidery Boxy Fit Oversized Hoodie: Vorderansicht am Model mit hellem gesticktem Brustmotiv.",
+      "photos": [
+        {
+          "view": "worn",
+          "photo_file": "photos/D-worn.jpg",
+          "photo_sha256": "7cb87fa02e28e660cb2c94f82314738eb4fe6b6dcc983d0c83e5d7f8f6f2cc85",
+          "photo_bytes": 56358,
+          "source": "https://img01.ztat.net/article/spp-media-p1/0fa331ac69b042b3a609c07afa90decd/7e00d5d402924f9d9cfc1e6a16889faa.jpg?imwidth=800",
+          "alt": "Mira Paris Moon Embroidery Boxy Fit Oversized Hoodie: Vorderansicht am Model mit hellem gesticktem Brustmotiv."
+        },
+        {
+          "view": "back",
+          "photo_file": "photos/D-back.jpg",
+          "photo_sha256": "530028c19baf1d3a6cf133b5ffbb8f1bc0df417fa379d83b044a0d6527dd8f0d",
+          "photo_bytes": 59263,
+          "source": "https://img01.ztat.net/article/spp-media-p1/5328acfd73b4458a848f485c9903c720/2339ad434af841399b4a79f4a4f9efee.jpg?imwidth=800",
+          "alt": "Mira Paris Moon Embroidery Boxy Fit Oversized Hoodie: Schräge Rückenansicht am Model mit herabhängender Kapuze."
+        },
+        {
+          "view": "detail",
+          "photo_file": "photos/D-detail.jpg",
+          "photo_sha256": "bdffbe5bb9e48c83532af8493a1a49a723f1e6e606c38439971a5bc4a3e1a3f9",
+          "photo_bytes": 272744,
+          "source": "https://img01.ztat.net/article/spp-media-p1/4ab83b12af3a4920940c0dc3d503e539/5d63cdff4a8e48708daeeca8c0c106d3.jpg?imwidth=800",
+          "alt": "Mira Paris Moon Embroidery Boxy Fit Oversized Hoodie: Nahaufnahme des hell gestickten Sonne-und-Mond-Motivs auf schwarzem Stoff."
+        }
+      ],
+      "description": "Schnitt und Kapuze: Weit und kastenförmig geschnittener Unisex-Kapuzenpullover mit überschnittenen Schultern und langen Ärmeln. Die Kapuze liegt offen am Hals und fällt nach hinten. Der Pullover hat keinen Frontreißverschluss.\nOberfläche und Details: Schwarzer Stoff mit heller Sonne-und-Mond-Stickerei auf der Brust, einfarbigem Rücken sowie breiten gerippten Ärmelbündchen und Saum.\nMaterial und Angaben des Anbieters: 100 % Baumwolle laut Materialtabelle. Der Anbieter nennt Bio-Baumwolle und aufgerauten Sweatstoff mit 400 g/m². Zalando nennt Maschinenwäsche bei 30 °C.\nStileindruck: Breite Silhouette mit ruhiger schwarzer Fläche und gut sichtbarer heller Stickerei.",
+      "price_evidence": "German Zalando PDP and query grid capture, €119.90 VAT included. Page 7, tile 5; see black-hoodie-search-review/search-evidence.json.",
+      "price": "119,90 €",
+      "photo_file": "photos/D-worn.jpg",
+      "photo_sha256": "7cb87fa02e28e660cb2c94f82314738eb4fe6b6dcc983d0c83e5d7f8f6f2cc85",
+      "photo_bytes": 56358
+    },
+    {
+      "id": "E",
+      "name": "HUGO Nexata",
+      "color": "Schwarz",
+      "price_eur": 119.95,
+      "sku": "HU722S0LS-Q11",
+      "source": "https://en.zalando.de/hugo-nexata-hoodie-black-hu722s0ls-q11.html",
+      "comparison_group": "direct",
+      "alt": "HUGO Nexata: Vorderansicht am Model mit rechteckigem HUGO-Schriftzug.",
+      "photos": [
+        {
+          "view": "worn",
+          "photo_file": "photos/E-worn.jpg",
+          "photo_sha256": "e7737c0e6bddd986abab7c01ec1af98f430c1c7374644260acbe8dd88ee1be28",
+          "photo_bytes": 73053,
+          "source": "https://img01.ztat.net/article/spp-media-p1/79697bc4aa9c4ad997349e724f57b6b1/fd2ea5d005cc40fcb91050dd05806f05.jpg?imwidth=800",
+          "alt": "HUGO Nexata: Vorderansicht am Model mit rechteckigem HUGO-Schriftzug."
+        },
+        {
+          "view": "back",
+          "photo_file": "photos/E-back.jpg",
+          "photo_sha256": "3e6ab21e519c2a2f49711ac46cc003558242c97cdfa2ba0d667e2492284c8b86",
+          "photo_bytes": 44021,
+          "source": "https://img01.ztat.net/article/spp-media-p1/44f44da318e04d248937b68982201db3/cada82d475534e74b69c5b5c813ba30e.jpg?imwidth=800",
+          "alt": "HUGO Nexata: Rückenansicht am Model mit einfarbigem Rücken und herabhängender Kapuze."
+        },
+        {
+          "view": "detail",
+          "photo_file": "photos/E-detail.jpg",
+          "photo_sha256": "ba7dd22f2df26c47220690d03fdd4845446671e7976162a147ce3eee0b8f9a4f",
+          "photo_bytes": 77998,
+          "source": "https://img01.ztat.net/article/spp-media-p1/432c1bb4272149fc80a53268a82d027b/f3c410f71ac94252823c0dc555eec87c.jpg?imwidth=800",
+          "alt": "HUGO Nexata: Nähere Aufnahme von Kapuzenansatz, Brustschriftzug und Stoffoberfläche."
+        }
+      ],
+      "description": "Schnitt und Kapuze: Locker und gerade geschnittener Kapuzenpullover mit langen Ärmeln. Die Kapuze sitzt am Hals und hängt nach hinten. Der Pullover hat keinen Frontreißverschluss.\nOberfläche und Details: Schwarzer Sweatstoff mit Kängurutasche, einfarbigem Rücken und rechteckigem grauem HUGO-Druck auf der Brust. Der elastische Saum und die Ärmelbündchen sind schwarz.\nMaterial und Angaben des Anbieters: 100 % Baumwolle, Sweatstoff. Zalando nennt Maschinenwäsche bei 30 °C und empfiehlt, den Hoodie nicht im Trockner zu trocknen.\nStileindruck: Schwarzer Freizeitlook mit einem gut sichtbaren rechteckigen Markenmotiv mittig auf der Brust.",
+      "price_evidence": "German Zalando PDP and query grid capture, €119.95 VAT included. Page 11, tile 3; see black-hoodie-search-review/search-evidence.json.",
+      "price": "119,95 €",
+      "photo_file": "photos/E-worn.jpg",
+      "photo_sha256": "e7737c0e6bddd986abab7c01ec1af98f430c1c7374644260acbe8dd88ee1be28",
+      "photo_bytes": 73053
+    }
+  ],
+  "shoppers": [
+    {
+      "agent_id": 0,
+      "shopper_id": "p01",
+      "display_label": "Shopper 01",
+      "age": 55,
+      "residence": "Dortmund",
+      "budget_eur": 115,
+      "profile": "Du bist 55 Jahre alt, wohnst in Dortmund, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für diesen Hoodie hast du dir ungefähr 115 € vorgenommen. Du willst ihn zu Jeans und Sneakern tragen und magst einen geraden Schnitt.",
+      "card_order": [
+        "D",
+        "E",
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "agent_id": 1,
+      "shopper_id": "p02",
+      "display_label": "Shopper 02",
+      "age": 40,
+      "residence": "Reutlingen",
+      "budget_eur": 95,
+      "profile": "Du bist 40 Jahre alt, wohnst in Reutlingen, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für diesen Hoodie hast du dir ungefähr 95 € vorgenommen. Du suchst einen Hoodie für Abende mit Freunden und magst einen etwas weiteren Sitz.",
+      "card_order": [
+        "D",
+        "E",
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "agent_id": 2,
+      "shopper_id": "p03",
+      "display_label": "Shopper 03",
+      "age": 57,
+      "residence": "Regensburg",
+      "budget_eur": 95,
+      "profile": "Du bist 57 Jahre alt, wohnst in Regensburg, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für diesen Hoodie hast du dir ungefähr 95 € vorgenommen. Du willst ihn oft zu Hause tragen und bevorzugst einen weich wirkenden Stoff.",
+      "card_order": [
+        "C",
+        "D",
+        "E",
+        "A",
+        "B"
+      ]
+    },
+    {
+      "agent_id": 3,
+      "shopper_id": "p04",
+      "display_label": "Shopper 04",
+      "age": 38,
+      "residence": "Passau",
+      "budget_eur": 75,
+      "profile": "Du bist 38 Jahre alt, wohnst in Passau, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für diesen Hoodie hast du dir ungefähr 75 € vorgenommen. Du suchst ein Oberteil zum Unterziehen unter deine Jeansjacke und achtest auf die Ärmelweite.",
+      "card_order": [
+        "E",
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "agent_id": 4,
+      "shopper_id": "p05",
+      "display_label": "Shopper 05",
+      "age": 61,
+      "residence": "Potsdam",
+      "budget_eur": 155,
+      "profile": "Du bist 61 Jahre alt, wohnst in Potsdam, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für diesen Hoodie hast du dir ungefähr 155 € vorgenommen. Du magst einen lockeren Hoodie zu weiten Hosen und achtest auf die Länge.",
+      "card_order": [
+        "B",
+        "C",
+        "D",
+        "E",
+        "A"
+      ]
+    },
+    {
+      "agent_id": 5,
+      "shopper_id": "p06",
+      "display_label": "Shopper 06",
+      "age": 34,
+      "residence": "Bochum",
+      "budget_eur": 125,
+      "profile": "Du bist 34 Jahre alt, wohnst in Bochum, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für diesen Hoodie hast du dir ungefähr 125 € vorgenommen. Du möchtest am Wochenende einkaufen gehen und findest kleine Schriftzüge passend.",
+      "card_order": [
+        "B",
+        "C",
+        "D",
+        "E",
+        "A"
+      ]
+    },
+    {
+      "agent_id": 6,
+      "shopper_id": "p07",
+      "display_label": "Shopper 07",
+      "age": 31,
+      "residence": "Nürnberg",
+      "budget_eur": 140,
+      "profile": "Du bist 31 Jahre alt, wohnst in Nürnberg, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für diesen Hoodie hast du dir ungefähr 140 € vorgenommen. Du magst einen Hoodie, der zu deiner schwarzen Jeans und gemusterten Schuhen passt.",
+      "card_order": [
+        "E",
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "agent_id": 7,
+      "shopper_id": "p08",
+      "display_label": "Shopper 08",
+      "age": 72,
+      "residence": "Hamburg",
+      "budget_eur": 115,
+      "profile": "Du bist 72 Jahre alt, wohnst in Hamburg, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für diesen Hoodie hast du dir ungefähr 115 € vorgenommen. Du suchst Kleidung für Zugreisen und möchtest bequem darin sitzen können.",
+      "card_order": [
+        "D",
+        "E",
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "agent_id": 8,
+      "shopper_id": "p09",
+      "display_label": "Shopper 09",
+      "age": 27,
+      "residence": "Berlin",
+      "budget_eur": 85,
+      "profile": "Du bist 27 Jahre alt, wohnst in Berlin, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für diesen Hoodie hast du dir ungefähr 85 € vorgenommen. Du trägst Hoodies im Büro, wenn es locker zugeht, und hältst die übrige Kleidung schlicht.",
+      "card_order": [
+        "B",
+        "C",
+        "D",
+        "E",
+        "A"
+      ]
+    },
+    {
+      "agent_id": 9,
+      "shopper_id": "p10",
+      "display_label": "Shopper 10",
+      "age": 32,
+      "residence": "Vechta",
+      "budget_eur": 85,
+      "profile": "Du bist 32 Jahre alt, wohnst in Vechta, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für diesen Hoodie hast du dir ungefähr 85 € vorgenommen. Du magst bewusst sichtbare Prints, wenn der Rest des Outfits einfarbig ist.",
+      "card_order": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "agent_id": 10,
+      "shopper_id": "p11",
+      "display_label": "Shopper 11",
+      "age": 52,
+      "residence": "Bielefeld",
+      "budget_eur": 65,
+      "profile": "Du bist 52 Jahre alt, wohnst in Bielefeld, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für diesen Hoodie hast du dir ungefähr 65 € vorgenommen. Du ersetzt einen alten Hoodie und achtest besonders auf die Länge am Rücken.",
+      "card_order": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "agent_id": 11,
+      "shopper_id": "p12",
+      "display_label": "Shopper 12",
+      "age": 26,
+      "residence": "Friedrichshafen",
+      "budget_eur": 105,
+      "profile": "Du bist 26 Jahre alt, wohnst in Friedrichshafen, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für diesen Hoodie hast du dir ungefähr 105 € vorgenommen. Du magst eine normale Passform zu deiner Übergangsjacke und wechselst selten die Marke.",
+      "card_order": [
+        "E",
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "agent_id": 12,
+      "shopper_id": "p13",
+      "display_label": "Shopper 13",
+      "age": 20,
+      "residence": "Koblenz",
+      "budget_eur": 125,
+      "profile": "Du bist 20 Jahre alt, wohnst in Koblenz, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für diesen Hoodie hast du dir ungefähr 125 € vorgenommen. Du suchst einen Hoodie für die Uni und trägst ihn meistens mit einem Rucksack.",
+      "card_order": [
+        "C",
+        "D",
+        "E",
+        "A",
+        "B"
+      ]
+    },
+    {
+      "agent_id": 13,
+      "shopper_id": "p14",
+      "display_label": "Shopper 14",
+      "age": 25,
+      "residence": "Stuttgart",
+      "budget_eur": 140,
+      "profile": "Du bist 25 Jahre alt, wohnst in Stuttgart, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für diesen Hoodie hast du dir ungefähr 140 € vorgenommen. Du trägst Hoodies gern im Café und magst einen klaren, einfarbigen Look.",
+      "card_order": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "agent_id": 14,
+      "shopper_id": "p15",
+      "display_label": "Shopper 15",
+      "age": 45,
+      "residence": "Kiel",
+      "budget_eur": 55,
+      "profile": "Du bist 45 Jahre alt, wohnst in Kiel, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für diesen Hoodie hast du dir ungefähr 55 € vorgenommen. Du hättest gern einen Hoodie, den du bei kühlem Wetter zum Spazierengehen anziehst.",
+      "card_order": [
+        "E",
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "agent_id": 15,
+      "shopper_id": "p16",
+      "display_label": "Shopper 16",
+      "age": 43,
+      "residence": "Ingolstadt",
+      "budget_eur": 105,
+      "profile": "Du bist 43 Jahre alt, wohnst in Ingolstadt, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für diesen Hoodie hast du dir ungefähr 105 € vorgenommen. Du kombinierst Hoodies mit Chinos und magst ein kleines sichtbares Logo.",
+      "card_order": [
+        "C",
+        "D",
+        "E",
+        "A",
+        "B"
+      ]
+    },
+    {
+      "agent_id": 16,
+      "shopper_id": "p17",
+      "display_label": "Shopper 17",
+      "age": 29,
+      "residence": "Kassel",
+      "budget_eur": 115,
+      "profile": "Du bist 29 Jahre alt, wohnst in Kassel, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für diesen Hoodie hast du dir ungefähr 115 € vorgenommen. Du willst einen Hoodie für deinen freien Tag und magst einen klassischen Pullover-Schnitt.",
+      "card_order": [
+        "B",
+        "C",
+        "D",
+        "E",
+        "A"
+      ]
+    },
+    {
+      "agent_id": 17,
+      "shopper_id": "p18",
+      "display_label": "Shopper 18",
+      "age": 41,
+      "residence": "Marburg",
+      "budget_eur": 140,
+      "profile": "Du bist 41 Jahre alt, wohnst in Marburg, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für diesen Hoodie hast du dir ungefähr 140 € vorgenommen. Du kaufst gerade seltener Kleidung und achtest stärker als früher auf den Preis.",
+      "card_order": [
+        "E",
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "agent_id": 18,
+      "shopper_id": "p19",
+      "display_label": "Shopper 19",
+      "age": 47,
+      "residence": "Münster",
+      "budget_eur": 55,
+      "profile": "Du bist 47 Jahre alt, wohnst in Münster, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für diesen Hoodie hast du dir ungefähr 55 € vorgenommen. Du magst weite Schultern und trägst gern ein T-Shirt unter dem Hoodie.",
+      "card_order": [
+        "E",
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "agent_id": 19,
+      "shopper_id": "p20",
+      "display_label": "Shopper 20",
+      "age": 46,
+      "residence": "Oldenburg",
+      "budget_eur": 95,
+      "profile": "Du bist 46 Jahre alt, wohnst in Oldenburg, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für diesen Hoodie hast du dir ungefähr 95 € vorgenommen. Du willst ihn bei Besuchen und kurzen Wegen tragen und bevorzugst einen Stoff mit etwas Stand.",
+      "card_order": [
+        "B",
+        "C",
+        "D",
+        "E",
+        "A"
+      ]
+    },
+    {
+      "agent_id": 20,
+      "shopper_id": "p21",
+      "display_label": "Shopper 21",
+      "age": 34,
+      "residence": "Magdeburg",
+      "budget_eur": 65,
+      "profile": "Du bist 34 Jahre alt, wohnst in Magdeburg, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für diesen Hoodie hast du dir ungefähr 65 € vorgenommen. Du möchtest ein Teil für den Herbst, das zu deiner aktuellen Garderobe passt.",
+      "card_order": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "agent_id": 21,
+      "shopper_id": "p22",
+      "display_label": "Shopper 22",
+      "age": 21,
+      "residence": "Dessau-Roßlau",
+      "budget_eur": 155,
+      "profile": "Du bist 21 Jahre alt, wohnst in Dessau-Roßlau, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für diesen Hoodie hast du dir ungefähr 155 € vorgenommen. Du magst einen Hoodie ohne großen Farbkontrast zu deinen dunklen Hosen.",
+      "card_order": [
+        "B",
+        "C",
+        "D",
+        "E",
+        "A"
+      ]
+    },
+    {
+      "agent_id": 22,
+      "shopper_id": "p23",
+      "display_label": "Shopper 23",
+      "age": 37,
+      "residence": "Siegen",
+      "budget_eur": 85,
+      "profile": "Du bist 37 Jahre alt, wohnst in Siegen, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für diesen Hoodie hast du dir ungefähr 85 € vorgenommen. Du suchst einen Hoodie für Konzertabende und magst auffällige Grafik.",
+      "card_order": [
+        "C",
+        "D",
+        "E",
+        "A",
+        "B"
+      ]
+    },
+    {
+      "agent_id": 23,
+      "shopper_id": "p24",
+      "display_label": "Shopper 24",
+      "age": 42,
+      "residence": "Essen",
+      "budget_eur": 65,
+      "profile": "Du bist 42 Jahre alt, wohnst in Essen, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für diesen Hoodie hast du dir ungefähr 65 € vorgenommen. Du arbeitest oft zu Hause und trägst lieber lockere als körpernahe Oberteile.",
+      "card_order": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "agent_id": 24,
+      "shopper_id": "p25",
+      "display_label": "Shopper 25",
+      "age": 41,
+      "residence": "Bonn",
+      "budget_eur": 115,
+      "profile": "Du bist 41 Jahre alt, wohnst in Bonn, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für diesen Hoodie hast du dir ungefähr 115 € vorgenommen. Du bevorzugst einen Hoodie, der am Bund nicht zu eng sitzt.",
+      "card_order": [
+        "C",
+        "D",
+        "E",
+        "A",
+        "B"
+      ]
+    },
+    {
+      "agent_id": 25,
+      "shopper_id": "p26",
+      "display_label": "Shopper 26",
+      "age": 67,
+      "residence": "Schwerin",
+      "budget_eur": 75,
+      "profile": "Du bist 67 Jahre alt, wohnst in Schwerin, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für diesen Hoodie hast du dir ungefähr 75 € vorgenommen. Du trägst Hoodie und Stoffhose zusammen und magst eher dezente Markenkennzeichen.",
+      "card_order": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "agent_id": 26,
+      "shopper_id": "p27",
+      "display_label": "Shopper 27",
+      "age": 22,
+      "residence": "Rostock",
+      "budget_eur": 125,
+      "profile": "Du bist 22 Jahre alt, wohnst in Rostock, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für diesen Hoodie hast du dir ungefähr 125 € vorgenommen. Du magst einen längeren Hoodie, damit beim Sitzen der Rücken bedeckt bleibt.",
+      "card_order": [
+        "E",
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "agent_id": 27,
+      "shopper_id": "p28",
+      "display_label": "Shopper 28",
+      "age": 36,
+      "residence": "Freiburg",
+      "budget_eur": 55,
+      "profile": "Du bist 36 Jahre alt, wohnst in Freiburg, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für diesen Hoodie hast du dir ungefähr 55 € vorgenommen. Du kaufst häufiger Sportmarken und trägst deine Hoodies vor allem in der Freizeit.",
+      "card_order": [
+        "B",
+        "C",
+        "D",
+        "E",
+        "A"
+      ]
+    },
+    {
+      "agent_id": 28,
+      "shopper_id": "p29",
+      "display_label": "Shopper 29",
+      "age": 28,
+      "residence": "Augsburg",
+      "budget_eur": 155,
+      "profile": "Du bist 28 Jahre alt, wohnst in Augsburg, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für diesen Hoodie hast du dir ungefähr 155 € vorgenommen. Du möchtest abends auf dem Balkon einen Hoodie überziehen und achtest auf das Stoffgefühl.",
+      "card_order": [
+        "D",
+        "E",
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "agent_id": 29,
+      "shopper_id": "p30",
+      "display_label": "Shopper 30",
+      "age": 26,
+      "residence": "Mainz",
+      "budget_eur": 140,
+      "profile": "Du bist 26 Jahre alt, wohnst in Mainz, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für diesen Hoodie hast du dir ungefähr 140 € vorgenommen. Du willst ihn zu deinen hellen Jeans tragen und suchst einen leicht weiten Schnitt.",
+      "card_order": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "agent_id": 30,
+      "shopper_id": "p31",
+      "display_label": "Shopper 31",
+      "age": 59,
+      "residence": "Ravensburg",
+      "budget_eur": 105,
+      "profile": "Du bist 59 Jahre alt, wohnst in Ravensburg, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für diesen Hoodie hast du dir ungefähr 105 € vorgenommen. Du magst klar erkennbare Marken, wenn dir die Platzierung des Logos gefällt.",
+      "card_order": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "agent_id": 31,
+      "shopper_id": "p32",
+      "display_label": "Shopper 32",
+      "age": 24,
+      "residence": "Duisburg",
+      "budget_eur": 115,
+      "profile": "Du bist 24 Jahre alt, wohnst in Duisburg, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für diesen Hoodie hast du dir ungefähr 115 € vorgenommen. Du möchtest einen Hoodie fürs Wochenende und bist beim Material offen.",
+      "card_order": [
+        "D",
+        "E",
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "agent_id": 32,
+      "shopper_id": "p33",
+      "display_label": "Shopper 33",
+      "age": 27,
+      "residence": "Bremen",
+      "budget_eur": 65,
+      "profile": "Du bist 27 Jahre alt, wohnst in Bremen, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für diesen Hoodie hast du dir ungefähr 65 € vorgenommen. Du magst einen kürzeren Saum zu höher geschnittenen Hosen.",
+      "card_order": [
+        "D",
+        "E",
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "agent_id": 33,
+      "shopper_id": "p34",
+      "display_label": "Shopper 34",
+      "age": 30,
+      "residence": "Lübeck",
+      "budget_eur": 55,
+      "profile": "Du bist 30 Jahre alt, wohnst in Lübeck, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für diesen Hoodie hast du dir ungefähr 55 € vorgenommen. Du möchtest einen Hoodie für Ausflüge in die Stadt und achtest auf den Fall des Stoffs.",
+      "card_order": [
+        "D",
+        "E",
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "agent_id": 34,
+      "shopper_id": "p35",
+      "display_label": "Shopper 35",
+      "age": 31,
+      "residence": "Ulm",
+      "budget_eur": 75,
+      "profile": "Du bist 31 Jahre alt, wohnst in Ulm, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für diesen Hoodie hast du dir ungefähr 75 € vorgenommen. Du verwendest Hoodies als bequeme Schicht vor oder nach dem Sport und magst einen normalen Sitz.",
+      "card_order": [
+        "B",
+        "C",
+        "D",
+        "E",
+        "A"
+      ]
+    },
+    {
+      "agent_id": 35,
+      "shopper_id": "p36",
+      "display_label": "Shopper 36",
+      "age": 49,
+      "residence": "Osnabrück",
+      "budget_eur": 65,
+      "profile": "Du bist 49 Jahre alt, wohnst in Osnabrück, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für diesen Hoodie hast du dir ungefähr 65 € vorgenommen. Du bevorzugst einen schlichten Hoodie und trägst ihn oft unter einem Wollmantel.",
+      "card_order": [
+        "D",
+        "E",
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "agent_id": 36,
+      "shopper_id": "p37",
+      "display_label": "Shopper 37",
+      "age": 30,
+      "residence": "Flensburg",
+      "budget_eur": 140,
+      "profile": "Du bist 30 Jahre alt, wohnst in Flensburg, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für diesen Hoodie hast du dir ungefähr 140 € vorgenommen. Du gehst mit dem Hund raus und suchst etwas, das du häufig tragen kannst.",
+      "card_order": [
+        "C",
+        "D",
+        "E",
+        "A",
+        "B"
+      ]
+    },
+    {
+      "agent_id": 37,
+      "shopper_id": "p38",
+      "display_label": "Shopper 38",
+      "age": 24,
+      "residence": "Hannover",
+      "budget_eur": 85,
+      "profile": "Du bist 24 Jahre alt, wohnst in Hannover, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für diesen Hoodie hast du dir ungefähr 85 € vorgenommen. Du achtest bei dunkler Kleidung auf den Gesamteindruck von Vorder- und Rückseite.",
+      "card_order": [
+        "D",
+        "E",
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "agent_id": 38,
+      "shopper_id": "p39",
+      "display_label": "Shopper 39",
+      "age": 54,
+      "residence": "Cottbus",
+      "budget_eur": 155,
+      "profile": "Du bist 54 Jahre alt, wohnst in Cottbus, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für diesen Hoodie hast du dir ungefähr 155 € vorgenommen. Du magst Streetwear mit weit geschnittenen Ärmeln und etwas mehr Länge.",
+      "card_order": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "agent_id": 39,
+      "shopper_id": "p40",
+      "display_label": "Shopper 40",
+      "age": 64,
+      "residence": "Heidelberg",
+      "budget_eur": 85,
+      "profile": "Du bist 64 Jahre alt, wohnst in Heidelberg, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für diesen Hoodie hast du dir ungefähr 85 € vorgenommen. Du suchst einen Hoodie für kurze Wege und magst eine vertraute, klassische Form.",
+      "card_order": [
+        "B",
+        "C",
+        "D",
+        "E",
+        "A"
+      ]
+    },
+    {
+      "agent_id": 40,
+      "shopper_id": "p41",
+      "display_label": "Shopper 41",
+      "age": 35,
+      "residence": "Dresden",
+      "budget_eur": 105,
+      "profile": "Du bist 35 Jahre alt, wohnst in Dresden, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für diesen Hoodie hast du dir ungefähr 105 € vorgenommen. Du bevorzugst schmale Hosen und kombinierst sie gern mit einem großzügigeren Oberteil.",
+      "card_order": [
+        "B",
+        "C",
+        "D",
+        "E",
+        "A"
+      ]
+    },
+    {
+      "agent_id": 41,
+      "shopper_id": "p42",
+      "display_label": "Shopper 42",
+      "age": 19,
+      "residence": "Trier",
+      "budget_eur": 125,
+      "profile": "Du bist 19 Jahre alt, wohnst in Trier, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für diesen Hoodie hast du dir ungefähr 125 € vorgenommen. Du möchtest einen schwarzen Hoodie für Treffen und magst auffällige Rückenprints.",
+      "card_order": [
+        "D",
+        "E",
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "agent_id": 42,
+      "shopper_id": "p43",
+      "display_label": "Shopper 43",
+      "age": 23,
+      "residence": "Köln",
+      "budget_eur": 55,
+      "profile": "Du bist 23 Jahre alt, wohnst in Köln, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für diesen Hoodie hast du dir ungefähr 55 € vorgenommen. Du trägst bereits mehrere Hoodies und willst nur einen kaufen, der für dich anders aussieht.",
+      "card_order": [
+        "E",
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "agent_id": 43,
+      "shopper_id": "p44",
+      "display_label": "Shopper 44",
+      "age": 48,
+      "residence": "Wiesbaden",
+      "budget_eur": 155,
+      "profile": "Du bist 48 Jahre alt, wohnst in Wiesbaden, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für diesen Hoodie hast du dir ungefähr 155 € vorgenommen. Du magst einen Hoodie für Ausflüge, den du auch bei einer Zugfahrt locker tragen kannst.",
+      "card_order": [
+        "E",
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "agent_id": 44,
+      "shopper_id": "p45",
+      "display_label": "Shopper 45",
+      "age": 38,
+      "residence": "Würzburg",
+      "budget_eur": 105,
+      "profile": "Du bist 38 Jahre alt, wohnst in Würzburg, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für diesen Hoodie hast du dir ungefähr 105 € vorgenommen. Du trägst meistens dunkle Kleidung und achtest bei einem Hoodie auf kleine optische Unterschiede.",
+      "card_order": [
+        "C",
+        "D",
+        "E",
+        "A",
+        "B"
+      ]
+    },
+    {
+      "agent_id": 45,
+      "shopper_id": "p46",
+      "display_label": "Shopper 46",
+      "age": 22,
+      "residence": "Bamberg",
+      "budget_eur": 75,
+      "profile": "Du bist 22 Jahre alt, wohnst in Bamberg, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für diesen Hoodie hast du dir ungefähr 75 € vorgenommen. Du möchtest den Hoodie beim Lernen tragen und findest einfache Kombinationen praktisch.",
+      "card_order": [
+        "C",
+        "D",
+        "E",
+        "A",
+        "B"
+      ]
+    },
+    {
+      "agent_id": 46,
+      "shopper_id": "p47",
+      "display_label": "Shopper 47",
+      "age": 44,
+      "residence": "Saarbrücken",
+      "budget_eur": 75,
+      "profile": "Du bist 44 Jahre alt, wohnst in Saarbrücken, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für diesen Hoodie hast du dir ungefähr 75 € vorgenommen. Du magst Kleidung mit einer schmaleren Linie und weicheren Ärmelabschlüssen.",
+      "card_order": [
+        "C",
+        "D",
+        "E",
+        "A",
+        "B"
+      ]
+    },
+    {
+      "agent_id": 47,
+      "shopper_id": "p48",
+      "display_label": "Shopper 48",
+      "age": 39,
+      "residence": "Leipzig",
+      "budget_eur": 95,
+      "profile": "Du bist 39 Jahre alt, wohnst in Leipzig, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für diesen Hoodie hast du dir ungefähr 95 € vorgenommen. Du suchst ein Oberteil für kühle Abende und ziehst Baumwollstoffe oft in Betracht.",
+      "card_order": [
+        "E",
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "agent_id": 48,
+      "shopper_id": "p49",
+      "display_label": "Shopper 49",
+      "age": 33,
+      "residence": "Erfurt",
+      "budget_eur": 125,
+      "profile": "Du bist 33 Jahre alt, wohnst in Erfurt, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für diesen Hoodie hast du dir ungefähr 125 € vorgenommen. Du willst einen Hoodie für den Alltag und kaufst beim passenden Schnitt auch unbekannte Marken.",
+      "card_order": [
+        "C",
+        "D",
+        "E",
+        "A",
+        "B"
+      ]
+    },
+    {
+      "agent_id": 49,
+      "shopper_id": "p50",
+      "display_label": "Shopper 50",
+      "age": 51,
+      "residence": "Jena",
+      "budget_eur": 95,
+      "profile": "Du bist 51 Jahre alt, wohnst in Jena, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für diesen Hoodie hast du dir ungefähr 95 € vorgenommen. Du suchst einen Hoodie für Spaziergänge und magst zurückhaltende Beschriftungen.",
+      "card_order": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    }
+  ],
+  "method": "MiroFish OASIS private interviews, zero feed rounds",
+  "input_format": "German complete cards with exact verified product photos in every provider request",
+  "response_file": "responses.jsonl",
+  "evidence_file": "transport-audit.jsonl",
+  "budget_design": {
+    "type": "approximate soft hoodie-price target",
+    "targets_eur": [
+      55,
+      65,
+      75,
+      85,
+      95,
+      105,
+      115,
+      125,
+      140,
+      155
+    ],
+    "shoppers_per_target": 5,
+    "seed": 261127,
+    "basis": "Illustrative hoodie-specific preferences independently shuffled across the reused ages and residences. No population estimate."
+  },
+  "primary_measure": "Passes only if target has at least 10 choices among the 50 assigned shoppers and ranks first or second among the five products; rank = 1 + number of products strictly ahead, so a tie for second qualifies. Report ties, none and undecided separately.",
+  "run_id": "private-choice-trendy-hoodie-01",
+  "state": "completed",
+  "created_at": "2026-11-25T13:40:42.817929+00:00",
+  "study": "German black hoodie comparison by current personal style",
+  "scenario": "Du suchst einen schwarzen Hoodie, der für dich gerade angesagt aussieht.",
+  "question": "Welchen würdest du zum angezeigten Preis kaufen? Du kannst auch „Keinen davon“ oder „Ich bin unentschieden“ wählen.",
+  "reason_question": "Was hat für deine Entscheidung den Ausschlag gegeben?",
+  "caveats": [
+    "This comparison preserves every baseline profile, soft budget, product card, image, order and model setting. It changes the shared shopping intent, decision wording and reason question only. The schema retains the canonical output enum „Keines davon“.",
+    "Two independent model draws with matching profiles compare this specific shelf. They do not estimate German demand or actual sales.",
+    "Prices and checkout are frozen scenario inputs. Original gallery crops, scenery and relative garment size differ by merchant."
+  ],
+  "api_model": "gpt-4.1-mini",
+  "transport": "OpenAI Chat Completions over existing configured model; inline image_url JPEG, verified in HTTP request hook",
+  "oasis_counts": {
+    "post": 0,
+    "comment": 0,
+    "interviews": 50
+  },
+  "finished_at": "2026-11-25T13:44:35.628292+00:00",
+  "audit_summary": {
+    "expected": 50,
+    "recorded": 50,
+    "accepted": 50,
+    "provider_200_with_all_verified_images": 50,
+    "choices": {
+      "E": 7,
+      "none": 21,
+      "C": 5,
+      "B": 3,
+      "D": 11,
+      "A": 3
+    },
+    "unique_provider_request_ids": 50,
+    "matching_oasis_interview_records": 50,
+    "photo_positions_verified": 750,
+    "choice_reason_identity_consistent": 50,
+    "choice_reason_identity_ambiguous": 0,
+    "order_count_min": 10,
+    "order_count_max": 10,
+    "reported_input_tokens": 1770020,
+    "reported_output_tokens": 5364
+  },
+  "baseline_comparison": {
+    "run_id": "private-choice-black-hoodie-01",
+    "prior_choices": {
+      "E": 6,
+      "D": 13,
+      "none": 19,
+      "B": 2,
+      "C": 3,
+      "A": 7
+    },
+    "same_choice": 37,
+    "to_target": 0,
+    "from_target": 4
+  },
+  "api_model_resolved": "gpt-4.1-mini-2025-04-14",
+  "review_file": "choice-review.jsonl",
+  "target_performance": {
+    "selected": 3,
+    "usable_denominator": 50,
+    "share_all": 0.06,
+    "eligible_products": 5,
+    "rank": 4,
+    "tied_competitors": 1,
+    "none": 21,
+    "undecided": 0,
+    "promising_under_preregistered_rule": false
+  },
+  "validation_finished_at": "2026-11-25T13:44:49.774477+00:00"
+}

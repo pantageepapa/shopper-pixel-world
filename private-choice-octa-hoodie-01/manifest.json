@@ -1,0 +1,970 @@
+{
+  "run_id": "private-choice-octa-hoodie-01",
+  "state": "completed",
+  "created_at": "2026-11-25T13:13:24.301624+00:00",
+  "study": "German Octa Ninja Hoodie comparison",
+  "method": "MiroFish OASIS private interviews, zero feed rounds",
+  "input_format": "German complete cards with exact verified product photos in every provider request",
+  "system": "Du nimmst als die im Profil beschriebene Person an einem privaten Einkaufsszenario teil. Antworte auf Deutsch aus ihrer Sicht. Halte dich an die Angaben im Profil und an die angezeigten Informationen. Behandle fehlende Angaben als unbekannt. Andere Personen, ihre Antworten und frühere Ergebnisse stehen dir nicht zur Verfügung. Gib genau eine Kaufentscheidung zu den angezeigten Angeboten ab und nenne kurz deinen Grund dafür.",
+  "scenario": "Du suchst für dich auf Zalando.de nach einer leichten Midlayer-Schicht mit Kapuze. Du siehst die folgenden Angebote.",
+  "terms": "Bei jedem Angebot ist deine übliche Größe verfügbar. Die Lieferung und die Rückgabe sind kostenlos. Die Kaufbedingungen sind bei allen Angeboten gleich. Die angezeigten Preise sind die jeweiligen Gesamtpreise.",
+  "question": "Welches dieser Kapuzenoberteile würdest du zum angezeigten Preis für dich kaufen? Wähle ein Angebot, „Keines davon“ oder „Ich bin unentschieden“.",
+  "reason_question": "Was ist der Hauptgrund für deine Entscheidung? Antworte in ein bis zwei Sätzen.",
+  "products": [
+    {
+      "id": "A",
+      "name": "nozzle quiz Octa® Ninja Hoodie",
+      "color": "Schwarz",
+      "price_eur": 115.92,
+      "sku": "FI-GMTL02KK",
+      "source": "https://www.nozzle-quiz.com/zh-hant/products/fi-gmtl02kk",
+      "photo_source": "https://shoplineimg.com/583ae8e561706917992f1a00/6acf1e53de3e7a29b89b12af/800x.jpg",
+      "photo_file": "photos/A.jpg",
+      "photo_sha256": "fa8d77cb46475cd511ac5a726b3b851e83c1b810b95e42964652a29bfa9f2eb2",
+      "alt": "nozzle quiz Octa® Ninja Hoodie, Schwarz, Vorderansicht.",
+      "comparison_group": "direct",
+      "description": "Passform und Optik: Der schwarze Kapuzenpullover hat eine weite Form, eine hoch ansetzende Kapuze mit Kordeln und zwei schräg angesetzte Taschen. Am Saum ist seitlich eine Zugkordel zu sehen.\nStileindruck: Ton in Ton mit breiter Silhouette und schräg verlaufenden Taschennähten.\nMaterial: Laut Materialtabelle 100 % Polyester. Das Octa-Gewebe hat ein Flächengewicht von 85 g/m².\nAngaben des Anbieters: nozzle quiz gibt ein Gesamtgewicht von 198 g an und beschreibt das Gewebe als leicht, luftig und wärmeregulierend.",
+      "price_evidence": "Merchant product page displayed €115.92 EUR in Chrome; the same page lists NT$4,200. This is the merchant EUR display, not a delivered German price.",
+      "price": "115,92 €",
+      "photo_bytes": 25906
+    },
+    {
+      "id": "B",
+      "name": "Columbia Fast Trek Overlay Hooded Full Zip",
+      "color": "Schwarz",
+      "price_eur": 84.95,
+      "sku": "C2342G057-Q11",
+      "source": "https://en.zalando.de/columbia-fast-trek-overlay-hooded-full-zip-fleece-jacket-black-c2342g057-q11.html",
+      "photo_source": "https://img01.ztat.net/article/spp-media-p1/8b26582539b449ac9ca6e53307ac5016/3e06185845424e249df6dd8d1f6e1f06.jpg?filter=packshot&imwidth=500",
+      "photo_file": "photos/B.jpg",
+      "photo_sha256": "14cfffe3fe05c42e9b0b5f6c18fc627aa5f3f7c2fa749fa5f24b67fd80d3a3e5",
+      "alt": "Columbia Fast Trek Overlay Hooded Full Zip, Schwarz, Vorderansicht.",
+      "comparison_group": "direct",
+      "description": "Passform und Optik: Schwarze Fleecejacke mit regulärem, geradem Schnitt, Kapuze und durchgehendem Reißverschluss. Vorn sitzen Eingrifftaschen und eine linke Brusttasche mit Reißverschluss.\nStileindruck: Schwarzer Outdoor-Look mit farblich leicht abgesetztem Tascheneinsatz und hellem Brustlogo.\nMaterial: Columbia nennt Fleece aus 100 % recyceltem Polyester und einen Besatz aus 100 % recyceltem Nylon.\nAngaben des Anbieters: Columbia beschreibt die Jacke als leichte Wärmeschicht mit elastischen Einfassungen an Kapuze, Saum und Ärmeln.",
+      "price_evidence": "Exact German-region listing price snapshot €84.95; checked against Columbia model 2135701, Black.",
+      "price": "84,95 €",
+      "photo_bytes": 24545
+    },
+    {
+      "id": "C",
+      "name": "Salewa Puez 2 Hood",
+      "color": "Schwarz meliert",
+      "price_eur": 75.95,
+      "sku": "S2042D02E-Q11",
+      "source": "https://www.zalando.de/salewa-puez-2-hood-tee-trainingsjacke-black-out-melange-s2042d02e-q11.html",
+      "photo_source": "https://img01.ztat.net/article/spp-media-p1/4828defb7a6641a28f93c8e5a5a83eb9/20b26f4ca7974d538d6b92611f03f15d.jpg?filter=packshot&imwidth=500",
+      "photo_file": "photos/C.jpg",
+      "photo_sha256": "6bb91ae854cdc08ddbe3f6bdfe9994aaa811eb0faef61b15b43c82b925a5338b",
+      "alt": "Salewa Puez 2 Hood, Schwarz meliert, Vorderansicht.",
+      "comparison_group": "direct",
+      "description": "Passform und Optik: Schmal geschnittene Kapuzenjacke mit durchgehendem Frontreißverschluss, elastischen Ärmelabschlüssen und schräg angeordneter Brusttasche. Der melierte Stoff wird an der Brust von dunklen Einsätzen unterbrochen.\nStileindruck: Zweifarbiger Outdoor-Look mit kantiger Brustpartie und orangefarbenen Zipperlaschen.\nMaterial: Jersey aus 75 % Polyester und 25 % Baumwolle.\nAngaben des Anbieters: Zalando führt die ungefütterte Jacke fürs Wandern und nennt den Dryton-Stoff atmungsaktiv und schnelltrocknend.",
+      "price_evidence": "Exact variant observed at €75.95 in German Zalando offers list; older German exact product-page capture listed €94.95.",
+      "price": "75,95 €",
+      "photo_bytes": 41198
+    },
+    {
+      "id": "D",
+      "name": "Nike Performance Stride Midlayer Hoodie",
+      "color": "Schwarz",
+      "price_eur": 89.99,
+      "sku": "N1242D83M-Q11",
+      "source": "https://en.zalando.de/nike-performance-stride-midlayer-fleece-jumper-blackblackblackrefblk-n1242d83m-q11.html",
+      "photo_source": "https://img01.ztat.net/article/spp-media-p1/192dca99e589453d91b9149e00639275/596f1188ed7b4e799b60df1ce18c8c4e.jpg?filter=packshot&imwidth=500",
+      "photo_file": "photos/D.jpg",
+      "photo_sha256": "e584fb4a7dd43c9e6978ed1813e6e47c6306fa09be83dd0d8796ae4d64c989c1",
+      "alt": "Nike Performance Stride Midlayer Hoodie, Schwarz, Vorderansicht.",
+      "comparison_group": "direct",
+      "description": "Passform und Optik: Schmaler schwarzer Kapuzenpullover mit geradem Rumpf, hoch sitzendem Halsbereich und überlangen Ärmeln. Auf der Vorderseite wechseln fein gerasterte und glattere Stoffpartien.\nStileindruck: Einfarbiger Lauflook mit Rasterstruktur und kleinem Swoosh mittig am Hals.\nMaterial: Jersey aus 98 % Polyester und 2 % Elasthan.\nAngaben des Anbieters: Zalando führt ihn als Lauf-Midlayer mit Therma-FIT, Daumenöffnungen und Nahttaschen. Das Material soll beim Warmhalten helfen.",
+      "price_evidence": "Exact German-region listing showed €89.99.",
+      "price": "89,99 €",
+      "photo_bytes": 25254
+    },
+    {
+      "id": "E",
+      "name": "Peak Performance Freelight Alpha Hood",
+      "color": "Mountain Mist",
+      "price_eur": 127.95,
+      "sku": "PE442G06C-K11",
+      "source": "https://en.zalando.de/peak-performance-freelight-alpha-hood-fleece-jumper-mountain-mist-pe442g06c-k11.html",
+      "photo_source": "https://img01.ztat.net/article/spp-media-p1/a608b27bb476479fa47951bdf518b6e0/e0e1bce48636444abda278a5889a3f0e.jpg?filter=packshot&imwidth=500",
+      "photo_file": "photos/E.jpg",
+      "photo_sha256": "de032fe73e8d5895364523b3d5382ba3146f5fd6bb037dc97ffff0977f3c6ce0",
+      "alt": "Peak Performance Freelight Alpha Hood, Mountain Mist, Vorderansicht.",
+      "comparison_group": "direct",
+      "description": "Passform und Optik: Gerade geschnittener Kapuzenpullover in Graublau mit hohem Halsabschluss und einer großen dunklen Brusttasche mit Reißverschluss. Der Stoff zeigt eine offene Strickstruktur.\nStileindruck: Graublauer Sportlook mit sichtbarer Strickstruktur und geometrisch abgesetzter Brusttasche.\nMaterial: Polartec Alpha Direct aus 100 % Polyester.\nAngaben des Anbieters: Zalando führt ihn als leichten Half-Zip für Wandern und Trekking und nennt Atmungsaktivität, Feuchtigkeitstransport und schnelles Trocknen.",
+      "price_evidence": "Exact German-region listing showed €127.95 with XXL selected; this is a frozen comparison price.",
+      "price": "127,95 €",
+      "photo_bytes": 48039
+    }
+  ],
+  "shoppers": [
+    {
+      "agent_id": 0,
+      "shopper_id": "p01",
+      "display_label": "Person 01",
+      "age": 27,
+      "residence": "Berlin",
+      "budget_eur": 115,
+      "profile": "Du bist 27 Jahre alt, wohnst in Berlin, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für dieses Kapuzenoberteil hast du dir ungefähr 115 € vorgenommen. Du trägst Kapuzenoberteile gern beim Pendeln unter einer dünnen Jacke.",
+      "card_order": [
+        "B",
+        "C",
+        "D",
+        "E",
+        "A"
+      ]
+    },
+    {
+      "agent_id": 1,
+      "shopper_id": "p02",
+      "display_label": "Person 02",
+      "age": 72,
+      "residence": "Hamburg",
+      "budget_eur": 95,
+      "profile": "Du bist 72 Jahre alt, wohnst in Hamburg, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für dieses Kapuzenoberteil hast du dir ungefähr 95 € vorgenommen. Für kurze Läufe suchst du eine Schicht, die bei Bewegung wenig aufträgt.",
+      "card_order": [
+        "D",
+        "E",
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "agent_id": 2,
+      "shopper_id": "p03",
+      "display_label": "Person 03",
+      "age": 39,
+      "residence": "Leipzig",
+      "budget_eur": 95,
+      "profile": "Du bist 39 Jahre alt, wohnst in Leipzig, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für dieses Kapuzenoberteil hast du dir ungefähr 95 € vorgenommen. Du magst einen sportlichen Stil mit kleinen sichtbaren Logos.",
+      "card_order": [
+        "B",
+        "C",
+        "D",
+        "E",
+        "A"
+      ]
+    },
+    {
+      "agent_id": 3,
+      "shopper_id": "p04",
+      "display_label": "Person 04",
+      "age": 23,
+      "residence": "Köln",
+      "budget_eur": 75,
+      "profile": "Du bist 23 Jahre alt, wohnst in Köln, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für dieses Kapuzenoberteil hast du dir ungefähr 75 € vorgenommen. Du bevorzugst ein dunkles Oberteil für Spaziergänge und Alltag.",
+      "card_order": [
+        "B",
+        "C",
+        "D",
+        "E",
+        "A"
+      ]
+    },
+    {
+      "agent_id": 4,
+      "shopper_id": "p05",
+      "display_label": "Person 05",
+      "age": 27,
+      "residence": "Bremen",
+      "budget_eur": 155,
+      "profile": "Du bist 27 Jahre alt, wohnst in Bremen, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für dieses Kapuzenoberteil hast du dir ungefähr 155 € vorgenommen. Du willst beim Radfahren die Hände frei und kleine Dinge sicher verstaut haben.",
+      "card_order": [
+        "C",
+        "D",
+        "E",
+        "A",
+        "B"
+      ]
+    },
+    {
+      "agent_id": 5,
+      "shopper_id": "p06",
+      "display_label": "Person 06",
+      "age": 29,
+      "residence": "Kassel",
+      "budget_eur": 125,
+      "profile": "Du bist 29 Jahre alt, wohnst in Kassel, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für dieses Kapuzenoberteil hast du dir ungefähr 125 € vorgenommen. Du magst weiche Stoffe und möchtest das Oberteil auch auf Reisen tragen.",
+      "card_order": [
+        "E",
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "agent_id": 6,
+      "shopper_id": "p07",
+      "display_label": "Person 07",
+      "age": 36,
+      "residence": "Freiburg",
+      "budget_eur": 140,
+      "profile": "Du bist 36 Jahre alt, wohnst in Freiburg, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für dieses Kapuzenoberteil hast du dir ungefähr 140 € vorgenommen. Du suchst eine leicht zu pflegende Schicht für regelmäßiges Tragen.",
+      "card_order": [
+        "E",
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "agent_id": 7,
+      "shopper_id": "p08",
+      "display_label": "Person 08",
+      "age": 33,
+      "residence": "Erfurt",
+      "budget_eur": 115,
+      "profile": "Du bist 33 Jahre alt, wohnst in Erfurt, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für dieses Kapuzenoberteil hast du dir ungefähr 115 € vorgenommen. Du möchtest an kühleren Tagen draußen trainieren und magst Bewegungsfreiheit.",
+      "card_order": [
+        "B",
+        "C",
+        "D",
+        "E",
+        "A"
+      ]
+    },
+    {
+      "agent_id": 8,
+      "shopper_id": "p09",
+      "display_label": "Person 09",
+      "age": 22,
+      "residence": "Rostock",
+      "budget_eur": 85,
+      "profile": "Du bist 22 Jahre alt, wohnst in Rostock, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für dieses Kapuzenoberteil hast du dir ungefähr 85 € vorgenommen. Du gehst gern zu Fuß und legst Wert auf eine Kapuze, die am Kopf bleibt.",
+      "card_order": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "agent_id": 9,
+      "shopper_id": "p10",
+      "display_label": "Person 10",
+      "age": 28,
+      "residence": "Augsburg",
+      "budget_eur": 85,
+      "profile": "Du bist 28 Jahre alt, wohnst in Augsburg, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für dieses Kapuzenoberteil hast du dir ungefähr 85 € vorgenommen. Für den Alltag magst du etwas mit geradem Schnitt, das unter einen Mantel passt.",
+      "card_order": [
+        "B",
+        "C",
+        "D",
+        "E",
+        "A"
+      ]
+    },
+    {
+      "agent_id": 10,
+      "shopper_id": "p11",
+      "display_label": "Person 11",
+      "age": 42,
+      "residence": "Essen",
+      "budget_eur": 65,
+      "profile": "Du bist 42 Jahre alt, wohnst in Essen, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für dieses Kapuzenoberteil hast du dir ungefähr 65 € vorgenommen. Du probierst beim Onlinekauf neue Marken aus, wenn Schnitt und Material passen.",
+      "card_order": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "agent_id": 11,
+      "shopper_id": "p12",
+      "display_label": "Person 12",
+      "age": 35,
+      "residence": "Dresden",
+      "budget_eur": 105,
+      "profile": "Du bist 35 Jahre alt, wohnst in Dresden, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für dieses Kapuzenoberteil hast du dir ungefähr 105 € vorgenommen. Du suchst für Wanderungen etwas, das du schnell an- und ausziehen kannst.",
+      "card_order": [
+        "E",
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "agent_id": 12,
+      "shopper_id": "p13",
+      "display_label": "Person 13",
+      "age": 47,
+      "residence": "Münster",
+      "budget_eur": 125,
+      "profile": "Du bist 47 Jahre alt, wohnst in Münster, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für dieses Kapuzenoberteil hast du dir ungefähr 125 € vorgenommen. Dir sind ein ruhiges Design und ein gerader Saum wichtig.",
+      "card_order": [
+        "C",
+        "D",
+        "E",
+        "A",
+        "B"
+      ]
+    },
+    {
+      "agent_id": 13,
+      "shopper_id": "p14",
+      "display_label": "Person 14",
+      "age": 26,
+      "residence": "Mainz",
+      "budget_eur": 140,
+      "profile": "Du bist 26 Jahre alt, wohnst in Mainz, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für dieses Kapuzenoberteil hast du dir ungefähr 140 € vorgenommen. Du magst farblich abgesetzte Details und körpernahe Schnitte.",
+      "card_order": [
+        "E",
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "agent_id": 14,
+      "shopper_id": "p15",
+      "display_label": "Person 15",
+      "age": 31,
+      "residence": "Nürnberg",
+      "budget_eur": 55,
+      "profile": "Du bist 31 Jahre alt, wohnst in Nürnberg, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für dieses Kapuzenoberteil hast du dir ungefähr 55 € vorgenommen. Du bevorzugst einfarbige Kleidung, die sich leicht kombinieren lässt.",
+      "card_order": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "agent_id": 15,
+      "shopper_id": "p16",
+      "display_label": "Person 16",
+      "age": 52,
+      "residence": "Bielefeld",
+      "budget_eur": 105,
+      "profile": "Du bist 52 Jahre alt, wohnst in Bielefeld, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für dieses Kapuzenoberteil hast du dir ungefähr 105 € vorgenommen. Du würdest recycelte Materialien bei einem Neukauf berücksichtigen.",
+      "card_order": [
+        "E",
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "agent_id": 16,
+      "shopper_id": "p17",
+      "display_label": "Person 17",
+      "age": 19,
+      "residence": "Trier",
+      "budget_eur": 115,
+      "profile": "Du bist 19 Jahre alt, wohnst in Trier, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für dieses Kapuzenoberteil hast du dir ungefähr 115 € vorgenommen. Du möchtest eine Schicht für Läufe bei kühlerem Wetter.",
+      "card_order": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "agent_id": 17,
+      "shopper_id": "p18",
+      "display_label": "Person 18",
+      "age": 61,
+      "residence": "Potsdam",
+      "budget_eur": 140,
+      "profile": "Du bist 61 Jahre alt, wohnst in Potsdam, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für dieses Kapuzenoberteil hast du dir ungefähr 140 € vorgenommen. Bei Kapuzenoberteilen sind dir ein weiter Rumpf und bequeme Bündchen wichtig.",
+      "card_order": [
+        "C",
+        "D",
+        "E",
+        "A",
+        "B"
+      ]
+    },
+    {
+      "agent_id": 18,
+      "shopper_id": "p19",
+      "display_label": "Person 19",
+      "age": 30,
+      "residence": "Lübeck",
+      "budget_eur": 55,
+      "profile": "Du bist 30 Jahre alt, wohnst in Lübeck, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für dieses Kapuzenoberteil hast du dir ungefähr 55 € vorgenommen. Du suchst eine platzsparende, pflegeleichte Schicht für Reisen.",
+      "card_order": [
+        "C",
+        "D",
+        "E",
+        "A",
+        "B"
+      ]
+    },
+    {
+      "agent_id": 19,
+      "shopper_id": "p20",
+      "display_label": "Person 20",
+      "age": 25,
+      "residence": "Stuttgart",
+      "budget_eur": 95,
+      "profile": "Du bist 25 Jahre alt, wohnst in Stuttgart, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für dieses Kapuzenoberteil hast du dir ungefähr 95 € vorgenommen. Du kaufst Kleidung online meist nur, wenn dir Preis und Schnitt zusagen.",
+      "card_order": [
+        "E",
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "agent_id": 20,
+      "shopper_id": "p21",
+      "display_label": "Person 21",
+      "age": 45,
+      "residence": "Kiel",
+      "budget_eur": 65,
+      "profile": "Du bist 45 Jahre alt, wohnst in Kiel, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für dieses Kapuzenoberteil hast du dir ungefähr 65 € vorgenommen. Du achtest darauf, dass eine Schicht für kühle Tage warm genug wirkt.",
+      "card_order": [
+        "D",
+        "E",
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "agent_id": 21,
+      "shopper_id": "p22",
+      "display_label": "Person 22",
+      "age": 57,
+      "residence": "Regensburg",
+      "budget_eur": 155,
+      "profile": "Du bist 57 Jahre alt, wohnst in Regensburg, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für dieses Kapuzenoberteil hast du dir ungefähr 155 € vorgenommen. Du bevorzugst einen weichen Stoff und einen lockeren Sitz an den Schultern.",
+      "card_order": [
+        "C",
+        "D",
+        "E",
+        "A",
+        "B"
+      ]
+    },
+    {
+      "agent_id": 22,
+      "shopper_id": "p23",
+      "display_label": "Person 23",
+      "age": 20,
+      "residence": "Koblenz",
+      "budget_eur": 85,
+      "profile": "Du bist 20 Jahre alt, wohnst in Koblenz, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für dieses Kapuzenoberteil hast du dir ungefähr 85 € vorgenommen. Du magst einen sportlichen Schnitt und grafische Details.",
+      "card_order": [
+        "D",
+        "E",
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "agent_id": 23,
+      "shopper_id": "p24",
+      "display_label": "Person 24",
+      "age": 34,
+      "residence": "Magdeburg",
+      "budget_eur": 65,
+      "profile": "Du bist 34 Jahre alt, wohnst in Magdeburg, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für dieses Kapuzenoberteil hast du dir ungefähr 65 € vorgenommen. Du fährst oft Rad und legst Wert auf eine gut sitzende Kapuze.",
+      "card_order": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "agent_id": 24,
+      "shopper_id": "p25",
+      "display_label": "Person 25",
+      "age": 49,
+      "residence": "Osnabrück",
+      "budget_eur": 115,
+      "profile": "Du bist 49 Jahre alt, wohnst in Osnabrück, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für dieses Kapuzenoberteil hast du dir ungefähr 115 € vorgenommen. Du magst einfache Kapuzenoberteile mit einer ruhigen Vorderseite.",
+      "card_order": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "agent_id": 25,
+      "shopper_id": "p26",
+      "display_label": "Person 26",
+      "age": 41,
+      "residence": "Bonn",
+      "budget_eur": 75,
+      "profile": "Du bist 41 Jahre alt, wohnst in Bonn, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für dieses Kapuzenoberteil hast du dir ungefähr 75 € vorgenommen. Du suchst eine Schicht für Alltag und gelegentliche Ausflüge.",
+      "card_order": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "agent_id": 26,
+      "shopper_id": "p27",
+      "display_label": "Person 27",
+      "age": 38,
+      "residence": "Würzburg",
+      "budget_eur": 125,
+      "profile": "Du bist 38 Jahre alt, wohnst in Würzburg, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für dieses Kapuzenoberteil hast du dir ungefähr 125 € vorgenommen. Du möchtest beim Kauf besonders auf die Stoffzusammensetzung achten.",
+      "card_order": [
+        "D",
+        "E",
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "agent_id": 27,
+      "shopper_id": "p28",
+      "display_label": "Person 28",
+      "age": 44,
+      "residence": "Saarbrücken",
+      "budget_eur": 55,
+      "profile": "Du bist 44 Jahre alt, wohnst in Saarbrücken, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für dieses Kapuzenoberteil hast du dir ungefähr 55 € vorgenommen. Dir ist eine praktische Tasche wichtiger als ein auffälliges Logo.",
+      "card_order": [
+        "B",
+        "C",
+        "D",
+        "E",
+        "A"
+      ]
+    },
+    {
+      "agent_id": 28,
+      "shopper_id": "p29",
+      "display_label": "Person 29",
+      "age": 30,
+      "residence": "Flensburg",
+      "budget_eur": 155,
+      "profile": "Du bist 30 Jahre alt, wohnst in Flensburg, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für dieses Kapuzenoberteil hast du dir ungefähr 155 € vorgenommen. Du suchst ein schwarzes Oberteil für möglichst viele Gelegenheiten.",
+      "card_order": [
+        "E",
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "agent_id": 29,
+      "shopper_id": "p30",
+      "display_label": "Person 30",
+      "age": 46,
+      "residence": "Oldenburg",
+      "budget_eur": 140,
+      "profile": "Du bist 46 Jahre alt, wohnst in Oldenburg, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für dieses Kapuzenoberteil hast du dir ungefähr 140 € vorgenommen. Du magst kleine Logos und einen etwas weiteren Schnitt.",
+      "card_order": [
+        "D",
+        "E",
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "agent_id": 30,
+      "shopper_id": "p31",
+      "display_label": "Person 31",
+      "age": 51,
+      "residence": "Jena",
+      "budget_eur": 105,
+      "profile": "Du bist 51 Jahre alt, wohnst in Jena, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für dieses Kapuzenoberteil hast du dir ungefähr 105 € vorgenommen. Dir ist eine Schicht für Bewegung drinnen und gelegentlich draußen wichtig.",
+      "card_order": [
+        "D",
+        "E",
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "agent_id": 31,
+      "shopper_id": "p32",
+      "display_label": "Person 32",
+      "age": 55,
+      "residence": "Dortmund",
+      "budget_eur": 115,
+      "profile": "Du bist 55 Jahre alt, wohnst in Dortmund, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für dieses Kapuzenoberteil hast du dir ungefähr 115 € vorgenommen. Du willst den Preis niedrig halten, wenn Passform und Design stimmen.",
+      "card_order": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "agent_id": 32,
+      "shopper_id": "p33",
+      "display_label": "Person 33",
+      "age": 24,
+      "residence": "Hannover",
+      "budget_eur": 65,
+      "profile": "Du bist 24 Jahre alt, wohnst in Hannover, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für dieses Kapuzenoberteil hast du dir ungefähr 65 € vorgenommen. Du bevorzugst schmale Ärmel und möchtest das Oberteil unter einer Jacke tragen.",
+      "card_order": [
+        "E",
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "agent_id": 33,
+      "shopper_id": "p34",
+      "display_label": "Person 34",
+      "age": 22,
+      "residence": "Bamberg",
+      "budget_eur": 55,
+      "profile": "Du bist 22 Jahre alt, wohnst in Bamberg, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für dieses Kapuzenoberteil hast du dir ungefähr 55 € vorgenommen. Du magst Struktur oder farblichen Kontrast auf einem sonst schlichten Oberteil.",
+      "card_order": [
+        "D",
+        "E",
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "agent_id": 34,
+      "shopper_id": "p35",
+      "display_label": "Person 35",
+      "age": 64,
+      "residence": "Heidelberg",
+      "budget_eur": 75,
+      "profile": "Du bist 64 Jahre alt, wohnst in Heidelberg, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für dieses Kapuzenoberteil hast du dir ungefähr 75 € vorgenommen. Du möchtest ein bequemes Oberteil zum Schichten beim Reisen und Spazierengehen.",
+      "card_order": [
+        "C",
+        "D",
+        "E",
+        "A",
+        "B"
+      ]
+    },
+    {
+      "agent_id": 35,
+      "shopper_id": "p36",
+      "display_label": "Person 36",
+      "age": 24,
+      "residence": "Duisburg",
+      "budget_eur": 65,
+      "profile": "Du bist 24 Jahre alt, wohnst in Duisburg, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für dieses Kapuzenoberteil hast du dir ungefähr 65 € vorgenommen. Du interessierst dich für dunkle Farben und einen schlichten Schnitt.",
+      "card_order": [
+        "E",
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "agent_id": 36,
+      "shopper_id": "p37",
+      "display_label": "Person 37",
+      "age": 38,
+      "residence": "Passau",
+      "budget_eur": 140,
+      "profile": "Du bist 38 Jahre alt, wohnst in Passau, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für dieses Kapuzenoberteil hast du dir ungefähr 140 € vorgenommen. Beim Neukauf achtest du auf eine normale Passform und einfache Pflege.",
+      "card_order": [
+        "D",
+        "E",
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "agent_id": 37,
+      "shopper_id": "p38",
+      "display_label": "Person 38",
+      "age": 31,
+      "residence": "Ulm",
+      "budget_eur": 85,
+      "profile": "Du bist 31 Jahre alt, wohnst in Ulm, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für dieses Kapuzenoberteil hast du dir ungefähr 85 € vorgenommen. Du willst bei leichter Bewegung draußen ein Oberteil mit Kapuze tragen.",
+      "card_order": [
+        "C",
+        "D",
+        "E",
+        "A",
+        "B"
+      ]
+    },
+    {
+      "agent_id": 38,
+      "shopper_id": "p39",
+      "display_label": "Person 39",
+      "age": 37,
+      "residence": "Siegen",
+      "budget_eur": 155,
+      "profile": "Du bist 37 Jahre alt, wohnst in Siegen, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für dieses Kapuzenoberteil hast du dir ungefähr 155 € vorgenommen. Dir sind luftig wirkende Stoffe wichtig, weil du beim Training schnell schwitzt.",
+      "card_order": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "agent_id": 39,
+      "shopper_id": "p40",
+      "display_label": "Person 40",
+      "age": 34,
+      "residence": "Bochum",
+      "budget_eur": 85,
+      "profile": "Du bist 34 Jahre alt, wohnst in Bochum, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für dieses Kapuzenoberteil hast du dir ungefähr 85 € vorgenommen. Du suchst ein Oberteil für Wochenendausflüge, das gut zu normalen Hosen passt.",
+      "card_order": [
+        "E",
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "agent_id": 40,
+      "shopper_id": "p41",
+      "display_label": "Person 41",
+      "age": 54,
+      "residence": "Cottbus",
+      "budget_eur": 105,
+      "profile": "Du bist 54 Jahre alt, wohnst in Cottbus, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für dieses Kapuzenoberteil hast du dir ungefähr 105 € vorgenommen. Du kaufst ungern Kleidung und entscheidest dich nur, wenn Bedarf und Preis stimmen.",
+      "card_order": [
+        "B",
+        "C",
+        "D",
+        "E",
+        "A"
+      ]
+    },
+    {
+      "agent_id": 41,
+      "shopper_id": "p42",
+      "display_label": "Person 42",
+      "age": 48,
+      "residence": "Wiesbaden",
+      "budget_eur": 125,
+      "profile": "Du bist 48 Jahre alt, wohnst in Wiesbaden, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für dieses Kapuzenoberteil hast du dir ungefähr 125 € vorgenommen. Du magst schmale Ärmelabschlüsse und sichtbare Details.",
+      "card_order": [
+        "B",
+        "C",
+        "D",
+        "E",
+        "A"
+      ]
+    },
+    {
+      "agent_id": 42,
+      "shopper_id": "p43",
+      "display_label": "Person 43",
+      "age": 21,
+      "residence": "Dessau-Roßlau",
+      "budget_eur": 55,
+      "profile": "Du bist 21 Jahre alt, wohnst in Dessau-Roßlau, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für dieses Kapuzenoberteil hast du dir ungefähr 55 € vorgenommen. Du legst Wert auf einen lockeren Sitz und ausreichend Platz zum Bewegen.",
+      "card_order": [
+        "D",
+        "E",
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "agent_id": 43,
+      "shopper_id": "p44",
+      "display_label": "Person 44",
+      "age": 59,
+      "residence": "Ravensburg",
+      "budget_eur": 155,
+      "profile": "Du bist 59 Jahre alt, wohnst in Ravensburg, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für dieses Kapuzenoberteil hast du dir ungefähr 155 € vorgenommen. Du bevorzugst schlichte Farben, interessierst dich aber für besondere Nahtverläufe.",
+      "card_order": [
+        "B",
+        "C",
+        "D",
+        "E",
+        "A"
+      ]
+    },
+    {
+      "agent_id": 44,
+      "shopper_id": "p45",
+      "display_label": "Person 45",
+      "age": 26,
+      "residence": "Friedrichshafen",
+      "budget_eur": 105,
+      "profile": "Du bist 26 Jahre alt, wohnst in Friedrichshafen, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für dieses Kapuzenoberteil hast du dir ungefähr 105 € vorgenommen. Du trainierst regelmäßig und bevorzugst körpernahe Oberteile.",
+      "card_order": [
+        "B",
+        "C",
+        "D",
+        "E",
+        "A"
+      ]
+    },
+    {
+      "agent_id": 45,
+      "shopper_id": "p46",
+      "display_label": "Person 46",
+      "age": 67,
+      "residence": "Schwerin",
+      "budget_eur": 75,
+      "profile": "Du bist 67 Jahre alt, wohnst in Schwerin, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für dieses Kapuzenoberteil hast du dir ungefähr 75 € vorgenommen. Du magst unkomplizierte Schichten und beurteilst sie nach ihrer Vielseitigkeit.",
+      "card_order": [
+        "D",
+        "E",
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "agent_id": 46,
+      "shopper_id": "p47",
+      "display_label": "Person 47",
+      "age": 32,
+      "residence": "Vechta",
+      "budget_eur": 75,
+      "profile": "Du bist 32 Jahre alt, wohnst in Vechta, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für dieses Kapuzenoberteil hast du dir ungefähr 75 € vorgenommen. Du willst eine Schicht für kühlere Tage und magst einen hohen Halsabschluss.",
+      "card_order": [
+        "C",
+        "D",
+        "E",
+        "A",
+        "B"
+      ]
+    },
+    {
+      "agent_id": 47,
+      "shopper_id": "p48",
+      "display_label": "Person 48",
+      "age": 41,
+      "residence": "Marburg",
+      "budget_eur": 95,
+      "profile": "Du bist 41 Jahre alt, wohnst in Marburg, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für dieses Kapuzenoberteil hast du dir ungefähr 95 € vorgenommen. Du suchst ein Kapuzenoberteil für Bewegung ohne großes Brustlogo.",
+      "card_order": [
+        "C",
+        "D",
+        "E",
+        "A",
+        "B"
+      ]
+    },
+    {
+      "agent_id": 48,
+      "shopper_id": "p49",
+      "display_label": "Person 49",
+      "age": 40,
+      "residence": "Reutlingen",
+      "budget_eur": 125,
+      "profile": "Du bist 40 Jahre alt, wohnst in Reutlingen, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für dieses Kapuzenoberteil hast du dir ungefähr 125 € vorgenommen. Du hast keine feste Lieblingsmarke und schätzt praktische Eigenschaften.",
+      "card_order": [
+        "C",
+        "D",
+        "E",
+        "A",
+        "B"
+      ]
+    },
+    {
+      "agent_id": 49,
+      "shopper_id": "p50",
+      "display_label": "Person 50",
+      "age": 43,
+      "residence": "Ingolstadt",
+      "budget_eur": 95,
+      "profile": "Du bist 43 Jahre alt, wohnst in Ingolstadt, Deutschland, und kaufst gelegentlich Herrenbekleidung auf Zalando.de. Für dieses Kapuzenoberteil hast du dir ungefähr 95 € vorgenommen. Du magst klassische Schnitte mit klaren, sichtbaren Stoffdetails.",
+      "card_order": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    }
+  ],
+  "response_file": "responses.jsonl",
+  "evidence_file": "transport-audit.jsonl",
+  "budget_design": {
+    "type": "approximate soft hoodie-price target",
+    "targets_eur": [
+      55,
+      65,
+      75,
+      85,
+      95,
+      105,
+      115,
+      125,
+      140,
+      155
+    ],
+    "shoppers_per_target": 5,
+    "seed": 261127,
+    "basis": "Illustrative hoodie-specific preferences independently shuffled across the reused ages and residences. No population estimate."
+  },
+  "primary_measure": "Promising on the eligible primary shelf if the target ranks first or ties for most product choices. Also report count, share, rank, ties, none and undecided.",
+  "caveats": [
+    "Synthetic German profiles, purpose-built for hooded midlayers. Ages and places reuse a previously assigned panel; preferences and soft hoodie budgets are newly designed.",
+    "Prices and checkout terms are frozen study inputs. No claim about current availability.",
+    "Products from their verified listings are displayed in a curated scenario; no live search ranking claim."
+  ],
+  "api_model": "gpt-4.1-mini",
+  "transport": "OpenAI Chat Completions over existing configured model; inline image_url JPEG, verified in HTTP request hook",
+  "oasis_counts": {
+    "post": 0,
+    "comment": 0,
+    "interviews": 50
+  },
+  "finished_at": "2026-11-25T13:13:47.114574+00:00",
+  "audit_summary": {
+    "expected": 50,
+    "recorded": 50,
+    "accepted": 50,
+    "provider_200_with_all_verified_images": 50,
+    "choices": {
+      "B": 16,
+      "D": 8,
+      "C": 8,
+      "A": 8,
+      "E": 4,
+      "none": 6
+    },
+    "unique_provider_request_ids": 50,
+    "matching_oasis_interview_records": 50,
+    "photo_positions_verified": 250,
+    "choice_reason_identity_consistent": 50,
+    "order_count_min": 10,
+    "order_count_max": 10
+  },
+  "api_model_resolved": "gpt-4.1-mini-2025-04-14",
+  "review_file": "choice-review.jsonl",
+  "target_performance": {
+    "selected": 8,
+    "usable_denominator": 50,
+    "share_all": 0.16,
+    "eligible_products": 5,
+    "rank": 2,
+    "tied_competitors": 2,
+    "none": 6,
+    "undecided": 0,
+    "promising_under_preregistered_rule": false
+  },
+  "validation_finished_at": "2026-11-25T13:17:28.301600+00:00"
+}
